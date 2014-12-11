@@ -37,7 +37,7 @@ div.tooltip {
 </head>
 <body>
   <h1>W3C <a href="http://www.w3.org/community/">Community Groups</a></h1>
-  <p><em>This map shows the number of messages sent in the last three months,
+  <p><em>This map shows the number of messages sent in the three months to <span id="date_gathered"></span>,
     as well as the number of participants, in each CG.</em></p>
 <form>
   <label><input type="radio" name="mode" value="messages" checked> Messages</label>
@@ -67,10 +67,10 @@ var tt = d3.select("body").append("div")
     .style("opacity", 0);
 
 d3.json("data.json", function(error, root) {
-
+  d3.select('#date_gathered').html(root.date_gathered);
   // walk through the JSON data and group by cluster
   var clusters = {};
-  d3.map(root).forEach(function (k,v) {
+  d3.map(root.results).forEach(function (k,v) {
     cluster = v.cluster || "none";
     if (! clusters[cluster]) {
       clusters[cluster] = [];

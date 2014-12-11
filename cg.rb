@@ -55,4 +55,9 @@ groups_page.search('div.groupa.cg').each do |group_div|
   results[id] = group
 end
 
-puts JSON.pretty_generate(results)
+data = {
+  'date_gathered' => Date.today,
+  'results' => results
+}
+
+puts JSON.pretty_generate(data)

@@ -9,7 +9,7 @@ body {
   </head>
   <body>
     <h1>W3C <a href="http://www.w3.org/community/">Community Groups</a></h1>
-    <p><em>Number of messages in W3C Community Groups over the last three months. See also <a href="treemap.html">a treemap</a>.</em></p>
+    <p><em>Number of messages in W3C Community Groups over three months to <span id="date_gathered"></span>. See also <a href="treemap.html">a treemap</a>.</em></p>
     <div id="chart"></div>
     <script src="http://d3js.org/d3.v2.min.js"></script>
     <script>
@@ -26,7 +26,8 @@ var barLabel = function(d) { return d.name; };
 var barValue = function(d) { return d.messages; };
 
 d3.json("data.json", function(root, error) {
-  var data = d3.map(root).values();
+  d3.select('#date_gathered').html(root.date_gathered);
+  var data = d3.map(root.results).values();
   // sort
   var sortedData = data.sort(function(a, b) {
    return d3.descending(barValue(a), barValue(b));
