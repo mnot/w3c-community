@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <title>W3C Community Groups</title>
+  <style>
+
+body {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.chart {
+  position: relative;
+  display: block;
+  margin: auto;
+  margin-top: 40px;
+}
+
+.node {
+  border: solid 1px white;
+  font: 10px sans-serif;
+  line-height: 12px;
+  overflow: hidden;
+  position: absolute;
+  text-indent: 2px;
+}
+div.tooltip {
+  background-color: white;
+  position: absolute;
+  text-align: center;
+  padding: 4px;
+  font: 12px sans-serif;
+  border: 0px;
+  border-radius: 2px;
+  pointer-events: none;
+}
+</style>
+</head>
+<body>
+  <h1>W3C <a href="http://www.w3.org/community/">Community Groups</a></h1>
+  <p><em>This map shows the number of messages sent in the last three months,
+    as well as the number of participants, in each CG.</em></p>
+<form>
+  <label><input type="radio" name="mode" value="messages" checked> Messages</label>
+  <label><input type="radio" name="mode" value="participants"> Participants</label>
+</form>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var margin = {top: 40, right: 10, bottom: 10, left: 10},
+    width = 1280 - margin.left - margin.right,
+    height = 800 - margin.top - margin.bottom;
+
+var color = d3.scale.category20c();
+
+var treemap = d3.layout.treemap()
+    .size([width, height])
+    .sticky(true)
+    .value(function(d) { return d.messages; });
+
+var div = d3.select("body").append("div")
+    .attr("class", "chart")
+    .style("width", (width + margin.left + margin.right) + "px")
+    .style("height", (height + margin.top + margin.bottom) + "px")
+
+var tt = d3.select("body").append("div")
+    .attr("class", "tooltip")
+    .style("opacity", 0);
+
+d3.json("data.json", function(error, root) {
+
+  // walk through the JSON data and group by cluster
+  var clusters = {};
+  d3.map(root).forEach(function (k,v) {
+    cluster = v.cluster || "none";
+    if (! clusters[cluster]) {
+      clusters[cluster] = [];
+    }
+    clusters[cluster].push(v);
+  })
+
+  // now create the data structure treemap expects
+  var processed = {};
+  processed.name = "Community Groups";
+  processed.children = [];
+  for (var cluster in clusters) {
+    if (clusters.hasOwnProperty(cluster)) {
+      group_list = clusters[cluster];
+      processed.children.push({'name': cluster, 'children': group_list});
+    }
+  }
+
+  var node = div.datum(processed).selectAll(".node")
+      .data(treemap.nodes)
+    .enter().append("div")
+      .attr("class", "node")
+      .call(position)
+      .style("background", function(d) { return d.children ? color(d.name) : null; })
+      .text(function(d) { return d.children ? null : d.name; })
+      .on("mouseover", function(d) {
+                  tt.transition()
+                      .duration(200)
+                      .style("opacity", .9);
+                  tt.html(
+                    d.name 
+                    + "<br/>" 
+                    + d.participants 
+                    + " participants<br/>"  
+                    + d.messages 
+                    + " messages")
+                      .style("left", (d3.event.pageX) + "px")
+                      .style("top", (d3.event.pageY - 28) + "px");
+                  })
+              .on("mouseout", function(d) {
+                  tt.transition()
+                      .duration(500)
+                      .style("opacity", 0);
+              });
+
+  d3.selectAll("input").on("change", function change() {
+    var value = this.value === "participants"
+        ? function(d) { return d.participants; }
+        : function(d) { return d.messages; };
+
+    node
+        .data(treemap.value(value).nodes)
+      .transition()
+        .duration(1500)
+        .call(position);
+  });
+});
+
+function position() {
+  this.style("left", function(d) { return d.x + "px"; })
+      .style("top", function(d) { return d.y + "px"; })
+      .style("width", function(d) { return Math.max(0, d.dx - 1) + "px"; })
+      .style("height", function(d) { return Math.max(0, d.dy - 1) + "px"; });
+}
+
+</script>
+</body>
+</html>
