@@ -11,20 +11,25 @@ start = Date.today - 105
 results = {}
 index = URI.parse('http://www.w3.org/community/groups/')
 groups_page = Nokogiri::HTML5.get(index)
-groups_page.search('div.groupa.cg').each do |group_div|
+groups_page.css('.maincolumn .cg').each do |group_div|
   group = {}
-  group['name'] = group_div.css("header a")[0].text.strip
-  participants_str = group_div.css("header em.groupParticipants").text.sub(/ participants/, '')
+  group['name'] = group_div.css(".group-title")[0].text.strip
+  participants_str = group_div.css(".group-meta .participants")[0]['data-participants']
   group['participants'] = participants_str.to_i
-  group['home'] = index + group_div.css("* a.link-home")[0]['href']
-  id = group_div.css("header a")[0]['href'].sub(/^#/, '')
+  group['home'] = index + group_div.css(".group-title a")[0]['href']
+  id = group_div.css(".group-title a")[0]['id'].sub(/^#/, '')
   list = "http://lists.w3.org/Archives/Public/public-#{id}"
-  doc = Nokogiri::HTML5.get(list)
-  group['messages'] = 0
-  doc.search('tbody tr').each do |tr|
-    next if tr.at('td').text == 'n/a'
-    date=Date.parse(tr.at('td').text)
-    group['messages'] += tr.search('td').last.text.to_i if date > start
+  begin
+    doc = Nokogiri::HTML5.get(list)
+    group['messages'] = 0
+    doc.search('tbody tr').each do |tr|
+      next if tr.at('td').text == 'n/a'
+      date=Date.parse(tr.at('td').text)
+      group['messages'] += tr.search('td').last.text.to_i if date > start
+    end
+  rescue
+    warn "Problem checking list for #{id}"
+    group['messages'] = nil
   end
   group['cluster'] = case group['name']
     when /semantic/i then 'semantic Web'
