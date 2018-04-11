@@ -7,7 +7,6 @@
       "home": "http://www.w3.org/community/accessibilityinindia/",
       "id": "accessibilityinindia",
       "messages": 4,
-      "github_link": null,
       "cluster": "a11y"
     },
     "infographics": {
@@ -16,7 +15,6 @@
       "home": "http://www.w3.org/community/infographics/",
       "id": "infographics",
       "messages": 1,
-      "github_link": null,
       "cluster": "a11y"
     },
     "accesslearn": {
@@ -25,7 +23,6 @@
       "home": "http://www.w3.org/community/accesslearn/",
       "id": "accesslearn",
       "messages": 1,
-      "github_link": null,
       "cluster": "a11y"
     },
     "playlist-a11y": {
@@ -34,7 +31,6 @@
       "home": "http://www.w3.org/community/playlist-a11y/",
       "id": "playlist-a11y",
       "messages": 2,
-      "github_link": null,
       "cluster": "a11y"
     },
     "svga11y": {
@@ -43,7 +39,6 @@
       "home": "http://www.w3.org/community/svga11y/",
       "id": "svga11y",
       "messages": 1,
-      "github_link": null,
       "cluster": "a11y"
     },
     "activitypub": {
@@ -52,7 +47,6 @@
       "home": "http://www.w3.org/community/activitypub/",
       "id": "activitypub",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "adopsdnt": {
@@ -61,7 +55,6 @@
       "home": "http://www.w3.org/community/adopsdnt/",
       "id": "adopsdnt",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "awpat": {
@@ -70,7 +63,6 @@
       "home": "http://www.w3.org/community/awpat/",
       "id": "awpat",
       "messages": 2,
-      "github_link": null,
       "cluster": null
     },
     "coders4africa": {
@@ -79,7 +71,6 @@
       "home": "http://www.w3.org/community/coders4africa/",
       "id": "coders4africa",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "agelabels": {
@@ -88,7 +79,6 @@
       "home": "http://www.w3.org/community/agelabels/",
       "id": "agelabels",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "agri": {
@@ -97,7 +87,6 @@
       "home": "http://www.w3.org/community/agri/",
       "id": "agri",
       "messages": 14,
-      "github_link": null,
       "cluster": null
     },
     "model": {
@@ -106,7 +95,6 @@
       "home": "http://www.w3.org/community/model/",
       "id": "model",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "annoux": {
@@ -115,7 +103,6 @@
       "home": "http://www.w3.org/community/annoux/",
       "id": "annoux",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "argmntreprsnt": {
@@ -124,7 +111,6 @@
       "home": "http://www.w3.org/community/argmntreprsnt/",
       "id": "argmntreprsnt",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "argumentation": {
@@ -133,7 +119,6 @@
       "home": "http://www.w3.org/community/argumentation/",
       "id": "argumentation",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "art": {
@@ -142,7 +127,6 @@
       "home": "http://www.w3.org/community/art/",
       "id": "art",
       "messages": 3,
-      "github_link": null,
       "cluster": null
     },
     "ar": {
@@ -151,8 +135,6 @@
       "home": "http://www.w3.org/community/ar/",
       "id": "ar",
       "messages": 2,
-      "github_link": "http://www.w3.org/community/ar/track/",
-      "github_stats": null,
       "cluster": null
     },
     "auto-wcag": {
@@ -161,7 +143,6 @@
       "home": "http://www.w3.org/community/auto-wcag/",
       "id": "auto-wcag",
       "messages": 18,
-      "github_link": null,
       "cluster": "a11y"
     },
     "gao": {
@@ -170,7 +151,6 @@
       "home": "http://www.w3.org/community/gao/",
       "id": "gao",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "benchweb": {
@@ -179,7 +159,6 @@
       "home": "http://www.w3.org/community/benchweb/",
       "id": "benchweb",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "bpmlod": {
@@ -188,8 +167,6 @@
       "home": "http://www.w3.org/community/bpmlod/",
       "id": "bpmlod",
       "messages": 6,
-      "github_link": "http://www.w3.org/community/bpmlod/track/",
-      "github_stats": null,
       "cluster": "semantic Web"
     },
     "bibperik": {
@@ -198,7 +175,6 @@
       "home": "http://www.w3.org/community/bibperik/",
       "id": "bibperik",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "bigdata": {
@@ -207,7 +183,6 @@
       "home": "http://www.w3.org/community/bigdata/",
       "id": "bigdata",
       "messages": 2,
-      "github_link": null,
       "cluster": null
     },
     "bde": {
@@ -216,7 +191,6 @@
       "home": "http://www.w3.org/community/bde/",
       "id": "bde",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "bioschemas": {
@@ -225,8 +199,7 @@
       "home": "http://www.w3.org/community/bioschemas/",
       "id": "bioschemas",
       "messages": 163,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "blockchain": {
       "name": "Blockchain",
@@ -234,7 +207,6 @@
       "home": "http://www.w3.org/community/blockchain/",
       "id": "blockchain",
       "messages": 5,
-      "github_link": null,
       "cluster": null
     },
     "digital-asset": {
@@ -243,7 +215,6 @@
       "home": "http://www.w3.org/community/digital-asset/",
       "id": "digital-asset",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "dapps": {
@@ -252,7 +223,6 @@
       "home": "http://www.w3.org/community/dapps/",
       "id": "dapps",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "brazilpub": {
@@ -261,7 +231,6 @@
       "home": "http://www.w3.org/community/brazilpub/",
       "id": "brazilpub",
       "messages": 3,
-      "github_link": null,
       "cluster": null
     },
     "browserext": {
@@ -270,8 +239,6 @@
       "home": "http://www.w3.org/community/browserext/",
       "id": "browserext",
       "messages": 1,
-      "github_link": "https://browserext.github.io/charter/",
-      "github_stats": null,
       "cluster": "browser"
     },
     "browsersync": {
@@ -280,7 +247,6 @@
       "home": "http://www.w3.org/community/browsersync/",
       "id": "browsersync",
       "messages": 1,
-      "github_link": null,
       "cluster": "browser"
     },
     "browserobo": {
@@ -289,7 +255,6 @@
       "home": "http://www.w3.org/community/browserobo/",
       "id": "browserobo",
       "messages": 1,
-      "github_link": null,
       "cluster": "browser"
     },
     "cssacc": {
@@ -298,7 +263,6 @@
       "home": "http://www.w3.org/community/cssacc/",
       "id": "cssacc",
       "messages": 1,
-      "github_link": null,
       "cluster": "a11y"
     },
     "cssselfrags": {
@@ -307,7 +271,6 @@
       "home": "http://www.w3.org/community/cssselfrags/",
       "id": "cssselfrags",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "csvw": {
@@ -316,7 +279,6 @@
       "home": "http://www.w3.org/community/csvw/",
       "id": "csvw",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "carto": {
@@ -325,7 +287,6 @@
       "home": "http://www.w3.org/community/carto/",
       "id": "carto",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "chainpoint": {
@@ -334,7 +295,6 @@
       "home": "http://www.w3.org/community/chainpoint/",
       "id": "chainpoint",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "change": {
@@ -343,7 +303,6 @@
       "home": "http://www.w3.org/community/change/",
       "id": "change",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "cdl": {
@@ -352,7 +311,6 @@
       "home": "http://www.w3.org/community/cdl/",
       "id": "cdl",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "cndpubcg": {
@@ -361,7 +319,6 @@
       "home": "http://www.w3.org/community/cndpubcg/",
       "id": "cndpubcg",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "cnwa": {
@@ -370,7 +327,6 @@
       "home": "http://www.w3.org/community/cnwa/",
       "id": "cnwa",
       "messages": 1,
-      "github_link": null,
       "cluster": "a11y"
     },
     "jseverywhere": {
@@ -379,7 +335,6 @@
       "home": "http://www.w3.org/community/jseverywhere/",
       "id": "jseverywhere",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "cloud": {
@@ -388,8 +343,6 @@
       "home": "http://www.w3.org/community/cloud/",
       "id": "cloud",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/cloud/track/",
-      "github_stats": null,
       "cluster": null
     },
     "collaboration": {
@@ -398,7 +351,6 @@
       "home": "http://www.w3.org/community/collaboration/",
       "id": "collaboration",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "colorweb": {
@@ -407,7 +359,6 @@
       "home": "http://www.w3.org/community/colorweb/",
       "id": "colorweb",
       "messages": 7,
-      "github_link": null,
       "cluster": null
     },
     "colourblindness": {
@@ -416,7 +367,6 @@
       "home": "http://www.w3.org/community/colourblindness/",
       "id": "colourblindness",
       "messages": 1,
-      "github_link": null,
       "cluster": "a11y"
     },
     "council": {
@@ -425,8 +375,6 @@
       "home": "http://www.w3.org/community/council/",
       "id": "council",
       "messages": 9,
-      "github_link": "http://www.w3.org/community/council/track/",
-      "github_stats": null,
       "cluster": null
     },
     "community-io": {
@@ -435,8 +383,6 @@
       "home": "http://www.w3.org/community/community-io/",
       "id": "community-io",
       "messages": 1,
-      "github_link": "https://collab.hackers4peace.net/projects/6",
-      "github_stats": null,
       "cluster": null
     },
     "credentials": {
@@ -445,7 +391,6 @@
       "home": "http://www.w3.org/community/credentials/",
       "id": "credentials",
       "messages": 325,
-      "github_link": null,
       "cluster": null
     },
     "credibility": {
@@ -454,7 +399,6 @@
       "home": "http://www.w3.org/community/credibility/",
       "id": "credibility",
       "messages": 10,
-      "github_link": null,
       "cluster": null
     },
     "w3cdevhr": {
@@ -463,7 +407,6 @@
       "home": "http://www.w3.org/community/w3cdevhr/",
       "id": "w3cdevhr",
       "messages": 8,
-      "github_link": null,
       "cluster": null
     },
     "cryptoledgers": {
@@ -472,7 +415,6 @@
       "home": "http://www.w3.org/community/cryptoledgers/",
       "id": "cryptoledgers",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "custexpdata": {
@@ -481,7 +423,6 @@
       "home": "http://www.w3.org/community/custexpdata/",
       "id": "custexpdata",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "data-driven-standards": {
@@ -490,8 +431,6 @@
       "home": "http://www.w3.org/community/data-driven-standards/",
       "id": "data-driven-standards",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/data-driven-standards/track/",
-      "github_stats": null,
       "cluster": null
     },
     "datapipelining": {
@@ -500,7 +439,6 @@
       "home": "http://www.w3.org/community/datapipelining/",
       "id": "datapipelining",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "datavis": {
@@ -509,7 +447,6 @@
       "home": "http://www.w3.org/community/datavis/",
       "id": "datavis",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "dwbp": {
@@ -518,7 +455,6 @@
       "home": "http://www.w3.org/community/dwbp/",
       "id": "dwbp",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "datasheets": {
@@ -527,7 +463,6 @@
       "home": "http://www.w3.org/community/datasheets/",
       "id": "datasheets",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "decentralizdcomm": {
@@ -536,7 +471,6 @@
       "home": "http://www.w3.org/community/decentralizdcomm/",
       "id": "decentralizdcomm",
       "messages": 0,
-      "github_link": null,
       "cluster": null
     },
     "decsharing": {
@@ -545,7 +479,6 @@
       "home": "http://www.w3.org/community/decsharing/",
       "id": "decsharing",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "decisionml": {
@@ -554,7 +487,6 @@
       "home": "http://www.w3.org/community/decisionml/",
       "id": "decisionml",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "declarative3d": {
@@ -563,8 +495,6 @@
       "home": "http://www.w3.org/community/declarative3d/",
       "id": "declarative3d",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/declarative3d/track/",
-      "github_stats": null,
       "cluster": null
     },
     "declarative-apps": {
@@ -573,7 +503,6 @@
       "home": "http://www.w3.org/community/declarative-apps/",
       "id": "declarative-apps",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "decwebvr": {
@@ -582,7 +511,6 @@
       "home": "http://www.w3.org/community/decwebvr/",
       "id": "decwebvr",
       "messages": 5,
-      "github_link": null,
       "cluster": null
     },
     "dld": {
@@ -591,7 +519,6 @@
       "home": "http://www.w3.org/community/dld/",
       "id": "dld",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "digitalassetmanagement": {
@@ -600,7 +527,6 @@
       "home": "http://www.w3.org/community/digitalassetmanagement/",
       "id": "digitalassetmanagement",
       "messages": 6,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "digitaloffers": {
@@ -609,7 +535,6 @@
       "home": "http://www.w3.org/community/digitaloffers/",
       "id": "digitaloffers",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "digital-verification": {
@@ -618,7 +543,6 @@
       "home": "http://www.w3.org/community/digital-verification/",
       "id": "digital-verification",
       "messages": 14,
-      "github_link": null,
       "cluster": null
     },
     "distributed-compute": {
@@ -627,7 +551,6 @@
       "home": "http://www.w3.org/community/distributed-compute/",
       "id": "distributed-compute",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "d-tasks": {
@@ -636,7 +559,6 @@
       "home": "http://www.w3.org/community/d-tasks/",
       "id": "d-tasks",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "trace-context": {
@@ -645,14 +567,6 @@
       "home": "http://www.w3.org/community/trace-context/",
       "id": "trace-context",
       "messages": 7,
-      "github_link": "https://github.com/w3c/distributed-tracing",
-      "github_stats": {
-        "repo_name": "distributed-tracing",
-        "stargazers": 90,
-        "watchers": 90,
-        "subscribers": 62,
-        "forks": 21
-      },
       "cluster": null
     },
     "dui": {
@@ -661,7 +575,6 @@
       "home": "http://www.w3.org/community/dui/",
       "id": "dui",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "dntrack": {
@@ -670,8 +583,6 @@
       "home": "http://www.w3.org/community/dntrack/",
       "id": "dntrack",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/dntrack/track/",
-      "github_stats": null,
       "cluster": null
     },
     "learnonline": {
@@ -680,7 +591,6 @@
       "home": "http://www.w3.org/community/learnonline/",
       "id": "learnonline",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "epub3": {
@@ -689,7 +599,6 @@
       "home": "http://www.w3.org/community/epub3/",
       "id": "epub3",
       "messages": 26,
-      "github_link": null,
       "cluster": null
     },
     "etlml": {
@@ -698,7 +607,6 @@
       "home": "http://www.w3.org/community/etlml/",
       "id": "etlml",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "expath": {
@@ -707,8 +615,7 @@
       "home": "http://www.w3.org/community/expath/",
       "id": "expath",
       "messages": 4,
-      "github_link": null,
-      "cluster": null
+      "cluster": "XML"
     },
     "eocred-schema": {
       "name": "Educational and Occupational Credentials in schema.org",
@@ -716,8 +623,7 @@
       "home": "http://www.w3.org/community/eocred-schema/",
       "id": "eocred-schema",
       "messages": 176,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "egovernance": {
       "name": "Electronic Governance (eGov)",
@@ -725,7 +631,6 @@
       "home": "http://www.w3.org/community/egovernance/",
       "id": "egovernance",
       "messages": 2,
-      "github_link": null,
       "cluster": "egov"
     },
     "emergency": {
@@ -734,8 +639,6 @@
       "home": "http://www.w3.org/community/emergency/",
       "id": "emergency",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/emergency/track/",
-      "github_stats": null,
       "cluster": null
     },
     "enterprise-ethereum": {
@@ -744,7 +647,6 @@
       "home": "http://www.w3.org/community/enterprise-ethereum/",
       "id": "enterprise-ethereum",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "xapivocabulary": {
@@ -753,7 +655,6 @@
       "home": "http://www.w3.org/community/xapivocabulary/",
       "id": "xapivocabulary",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "exploresemdata": {
@@ -762,7 +663,6 @@
       "home": "http://www.w3.org/community/exploresemdata/",
       "id": "exploresemdata",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "lom2ld": {
@@ -771,7 +671,6 @@
       "home": "http://www.w3.org/community/lom2ld/",
       "id": "lom2ld",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "linkedculture": {
@@ -780,7 +679,6 @@
       "home": "http://www.w3.org/community/linkedculture/",
       "id": "linkedculture",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "xdmdl": {
@@ -789,7 +687,6 @@
       "home": "http://www.w3.org/community/xdmdl/",
       "id": "xdmdl",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "nextweb": {
@@ -798,7 +695,6 @@
       "home": "http://www.w3.org/community/nextweb/",
       "id": "nextweb",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "fedid": {
@@ -807,7 +703,6 @@
       "home": "http://www.w3.org/community/fedid/",
       "id": "fedid",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "omn": {
@@ -816,14 +711,6 @@
       "home": "http://www.w3.org/community/omn/",
       "id": "omn",
       "messages": 1,
-      "github_link": "https://github.com/open-multinet/playground-rspecs-ontology/issues",
-      "github_stats": {
-        "repo_name": null,
-        "stargazers": 0,
-        "watchers": 0,
-        "subscribers": 0,
-        "forks": 0
-      },
       "cluster": null
     },
     "fedsocweb": {
@@ -832,7 +719,6 @@
       "home": "http://www.w3.org/community/fedsocweb/",
       "id": "fedsocweb",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "film": {
@@ -841,7 +727,6 @@
       "home": "http://www.w3.org/community/film/",
       "id": "film",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "fibo": {
@@ -850,7 +735,6 @@
       "home": "http://www.w3.org/community/fibo/",
       "id": "fibo",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "gpu": {
@@ -859,7 +743,6 @@
       "home": "http://www.w3.org/community/gpu/",
       "id": "gpu",
       "messages": 50,
-      "github_link": null,
       "cluster": null
     },
     "games": {
@@ -868,8 +751,6 @@
       "home": "http://www.w3.org/community/games/",
       "id": "games",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/games/track/",
-      "github_stats": null,
       "cluster": null
     },
     "geometryapi": {
@@ -878,7 +759,6 @@
       "home": "http://www.w3.org/community/geometryapi/",
       "id": "geometryapi",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "geosemweb": {
@@ -887,7 +767,6 @@
       "home": "http://www.w3.org/community/geosemweb/",
       "id": "geosemweb",
       "messages": 2,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "mathonwebpages": {
@@ -896,7 +775,6 @@
       "home": "http://www.w3.org/community/mathonwebpages/",
       "id": "mathonwebpages",
       "messages": 71,
-      "github_link": null,
       "cluster": null
     },
     "editing": {
@@ -905,8 +783,6 @@
       "home": "http://www.w3.org/community/editing/",
       "id": "editing",
       "messages": 1,
-      "github_link": "http://www.w3.org/Bugs/Public/buglist.cgi?component=HTML+Editing+API",
-      "github_stats": null,
       "cluster": "HTML"
     },
     "htacg": {
@@ -915,7 +791,6 @@
       "home": "http://www.w3.org/community/htacg/",
       "id": "htacg",
       "messages": 3,
-      "github_link": null,
       "cluster": "HTML"
     },
     "htmail": {
@@ -924,7 +799,6 @@
       "home": "http://www.w3.org/community/htmail/",
       "id": "htmail",
       "messages": 1,
-      "github_link": null,
       "cluster": "HTML"
     },
     "html5jp": {
@@ -933,7 +807,6 @@
       "home": "http://www.w3.org/community/html5jp/",
       "id": "html5jp",
       "messages": 1,
-      "github_link": null,
       "cluster": "HTML"
     },
     "html5kr": {
@@ -942,7 +815,6 @@
       "home": "http://www.w3.org/community/html5kr/",
       "id": "html5kr",
       "messages": 1,
-      "github_link": null,
       "cluster": "HTML"
     },
     "html5spec": {
@@ -951,7 +823,6 @@
       "home": "http://www.w3.org/community/html5spec/",
       "id": "html5spec",
       "messages": 3,
-      "github_link": null,
       "cluster": "HTML"
     },
     "httpslocal": {
@@ -960,7 +831,6 @@
       "home": "http://www.w3.org/community/httpslocal/",
       "id": "httpslocal",
       "messages": 13,
-      "github_link": null,
       "cluster": null
     },
     "webhaptics": {
@@ -969,7 +839,6 @@
       "home": "http://www.w3.org/community/webhaptics/",
       "id": "webhaptics",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "hb-secure-services": {
@@ -978,7 +847,6 @@
       "home": "http://www.w3.org/community/hb-secure-services/",
       "id": "hb-secure-services",
       "messages": 6,
-      "github_link": null,
       "cluster": null
     },
     "schemed": {
@@ -987,15 +855,7 @@
       "home": "http://www.w3.org/community/schemed/",
       "id": "schemed",
       "messages": 1,
-      "github_link": "https://github.com/twamarc/ScheMed/issues",
-      "github_stats": {
-        "repo_name": "ScheMed",
-        "stargazers": 9,
-        "watchers": 9,
-        "subscribers": 10,
-        "forks": 7
-      },
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "hpcweb": {
       "name": "High-Performance Computing",
@@ -1003,8 +863,6 @@
       "home": "http://www.w3.org/community/hpcweb/",
       "id": "hpcweb",
       "messages": 2,
-      "github_link": "http://www.w3.org/community/hpcweb/track/",
-      "github_stats": null,
       "cluster": null
     },
     "humanservices": {
@@ -1013,7 +871,6 @@
       "home": "http://www.w3.org/community/humanservices/",
       "id": "humanservices",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "hydra": {
@@ -1022,7 +879,6 @@
       "home": "http://www.w3.org/community/hydra/",
       "id": "hydra",
       "messages": 33,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "informationarchitecture": {
@@ -1031,7 +887,6 @@
       "home": "http://www.w3.org/community/informationarchitecture/",
       "id": "informationarchitecture",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "interative-apis": {
@@ -1040,7 +895,6 @@
       "home": "http://www.w3.org/community/interative-apis/",
       "id": "interative-apis",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "interledger": {
@@ -1049,8 +903,7 @@
       "home": "http://www.w3.org/community/interledger/",
       "id": "interledger",
       "messages": 18,
-      "github_link": null,
-      "cluster": null
+      "cluster": "payments"
     },
     "ipid": {
       "name": "Internet Protocol Identity",
@@ -1058,7 +911,6 @@
       "home": "http://www.w3.org/community/ipid/",
       "id": "ipid",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "iok-se": {
@@ -1067,7 +919,6 @@
       "home": "http://www.w3.org/community/iok-se/",
       "id": "iok-se",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "json-ld": {
@@ -1076,8 +927,6 @@
       "home": "http://www.w3.org/community/json-ld/",
       "id": "json-ld",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/JSON-LD/track/",
-      "github_stats": null,
       "cluster": null
     },
     "ldpnext": {
@@ -1086,7 +935,6 @@
       "home": "http://www.w3.org/community/ldpnext/",
       "id": "ldpnext",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "law": {
@@ -1095,7 +943,6 @@
       "home": "http://www.w3.org/community/law/",
       "id": "law",
       "messages": 2,
-      "github_link": null,
       "cluster": null
     },
     "licensed-content": {
@@ -1104,7 +951,6 @@
       "home": "http://www.w3.org/community/licensed-content/",
       "id": "licensed-content",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "lbd": {
@@ -1113,7 +959,6 @@
       "home": "http://www.w3.org/community/lbd/",
       "id": "lbd",
       "messages": 11,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "sentiment": {
@@ -1122,7 +967,6 @@
       "home": "http://www.w3.org/community/sentiment/",
       "id": "sentiment",
       "messages": 3,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "ld4lt": {
@@ -1131,8 +975,6 @@
       "home": "http://www.w3.org/community/ld4lt/",
       "id": "ld4lt",
       "messages": 11,
-      "github_link": "http://www.w3.org/community/ld4lt/track/",
-      "github_stats": null,
       "cluster": "semantic Web"
     },
     "locadd": {
@@ -1141,7 +983,6 @@
       "home": "http://www.w3.org/community/locadd/",
       "id": "locadd",
       "messages": 7,
-      "github_link": null,
       "cluster": null
     },
     "ml-schema": {
@@ -1150,8 +991,7 @@
       "home": "http://www.w3.org/community/ml-schema/",
       "id": "ml-schema",
       "messages": 4,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "maps4html": {
       "name": "Maps For HTML",
@@ -1159,7 +999,6 @@
       "home": "http://www.w3.org/community/maps4html/",
       "id": "maps4html",
       "messages": 13,
-      "github_link": null,
       "cluster": "HTML"
     },
     "markdown": {
@@ -1168,7 +1007,6 @@
       "home": "http://www.w3.org/community/markdown/",
       "id": "markdown",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "mathprotocol": {
@@ -1177,7 +1015,6 @@
       "home": "http://www.w3.org/community/mathprotocol/",
       "id": "mathprotocol",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "meat": {
@@ -1186,7 +1023,6 @@
       "home": "http://www.w3.org/community/meat/",
       "id": "meat",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "inbandtracks": {
@@ -1195,7 +1031,6 @@
       "home": "http://www.w3.org/community/inbandtracks/",
       "id": "inbandtracks",
       "messages": 1,
-      "github_link": null,
       "cluster": "media"
     },
     "mwma": {
@@ -1204,7 +1039,6 @@
       "home": "http://www.w3.org/community/mwma/",
       "id": "mwma",
       "messages": 1,
-      "github_link": null,
       "cluster": "mobile"
     },
     "microxml": {
@@ -1213,7 +1047,6 @@
       "home": "http://www.w3.org/community/microxml/",
       "id": "microxml",
       "messages": 1,
-      "github_link": null,
       "cluster": "XML"
     },
     "microposts": {
@@ -1222,7 +1055,6 @@
       "home": "http://www.w3.org/community/microposts/",
       "id": "microposts",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "mixedreality": {
@@ -1231,7 +1063,6 @@
       "home": "http://www.w3.org/community/mixedreality/",
       "id": "mixedreality",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "mobileacc": {
@@ -1240,7 +1071,6 @@
       "home": "http://www.w3.org/community/mobileacc/",
       "id": "mobileacc",
       "messages": 1,
-      "github_link": null,
       "cluster": "a11y"
     },
     "mobindic": {
@@ -1249,7 +1079,6 @@
       "home": "http://www.w3.org/community/mobindic/",
       "id": "mobindic",
       "messages": 1,
-      "github_link": null,
       "cluster": "mobile"
     },
     "mmarkup": {
@@ -1258,7 +1087,6 @@
       "home": "http://www.w3.org/community/mmarkup/",
       "id": "mmarkup",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webtiming": {
@@ -1267,7 +1095,6 @@
       "home": "http://www.w3.org/community/webtiming/",
       "id": "webtiming",
       "messages": 6,
-      "github_link": null,
       "cluster": null
     },
     "mqmcg": {
@@ -1276,7 +1103,6 @@
       "home": "http://www.w3.org/community/mqmcg/",
       "id": "mqmcg",
       "messages": 8,
-      "github_link": null,
       "cluster": null
     },
     "mws": {
@@ -1285,7 +1111,6 @@
       "home": "http://www.w3.org/community/mws/",
       "id": "mws",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "music-notation": {
@@ -1294,7 +1119,6 @@
       "home": "http://www.w3.org/community/music-notation/",
       "id": "music-notation",
       "messages": 12,
-      "github_link": null,
       "cluster": null
     },
     "native-web-apps": {
@@ -1303,8 +1127,6 @@
       "home": "http://www.w3.org/community/native-web-apps/",
       "id": "native-web-apps",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/native-web-apps/track/",
-      "github_stats": null,
       "cluster": null
     },
     "nli": {
@@ -1313,7 +1135,6 @@
       "home": "http://www.w3.org/community/nli/",
       "id": "nli",
       "messages": 3,
-      "github_link": null,
       "cluster": null
     },
     "networkfriendly": {
@@ -1322,7 +1143,6 @@
       "home": "http://www.w3.org/community/networkfriendly/",
       "id": "networkfriendly",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "networked-data": {
@@ -1331,8 +1151,6 @@
       "home": "http://www.w3.org/community/networked-data/",
       "id": "networked-data",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/networked-data/track/",
-      "github_stats": null,
       "cluster": null
     },
     "odrl": {
@@ -1341,14 +1159,6 @@
       "home": "http://www.w3.org/community/odrl/",
       "id": "odrl",
       "messages": 19,
-      "github_link": "https://github.com/w3c/odrl/issues",
-      "github_stats": {
-        "repo_name": "odrl",
-        "stargazers": 0,
-        "watchers": 0,
-        "subscribers": 20,
-        "forks": 0
-      },
       "cluster": null
     },
     "offx": {
@@ -1357,7 +1167,6 @@
       "home": "http://www.w3.org/community/offx/",
       "id": "offx",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "ortc": {
@@ -1366,7 +1175,6 @@
       "home": "http://www.w3.org/community/ortc/",
       "id": "ortc",
       "messages": 68,
-      "github_link": null,
       "cluster": null
     },
     "ostatus": {
@@ -1375,7 +1183,6 @@
       "home": "http://www.w3.org/community/ostatus/",
       "id": "ostatus",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "owled": {
@@ -1384,7 +1191,6 @@
       "home": "http://www.w3.org/community/owled/",
       "id": "owled",
       "messages": 4,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "offline-url": {
@@ -1393,7 +1199,6 @@
       "home": "http://www.w3.org/community/offline-url/",
       "id": "offline-url",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "ontolex": {
@@ -1402,7 +1207,6 @@
       "home": "http://www.w3.org/community/ontolex/",
       "id": "ontolex",
       "messages": 49,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "openannotation": {
@@ -1411,7 +1215,6 @@
       "home": "http://www.w3.org/community/openannotation/",
       "id": "openannotation",
       "messages": 8,
-      "github_link": null,
       "cluster": null
     },
     "opendatadir": {
@@ -1420,7 +1223,6 @@
       "home": "http://www.w3.org/community/opendatadir/",
       "id": "opendatadir",
       "messages": 1,
-      "github_link": null,
       "cluster": "open data"
     },
     "opendatanepal": {
@@ -1429,7 +1231,6 @@
       "home": "http://www.w3.org/community/opendatanepal/",
       "id": "opendatanepal",
       "messages": 1,
-      "github_link": null,
       "cluster": "open data"
     },
     "opendataspain": {
@@ -1438,7 +1239,6 @@
       "home": "http://www.w3.org/community/opendataspain/",
       "id": "opendataspain",
       "messages": 2,
-      "github_link": null,
       "cluster": "open data"
     },
     "oerschema": {
@@ -1447,8 +1247,7 @@
       "home": "http://www.w3.org/community/oerschema/",
       "id": "oerschema",
       "messages": 1,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "opengov": {
       "name": "Open Government",
@@ -1456,7 +1255,6 @@
       "home": "http://www.w3.org/community/opengov/",
       "id": "opengov",
       "messages": 5,
-      "github_link": null,
       "cluster": "egov"
     },
     "opened": {
@@ -1465,7 +1263,6 @@
       "home": "http://www.w3.org/community/opened/",
       "id": "opened",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "opensci": {
@@ -1474,7 +1271,6 @@
       "home": "http://www.w3.org/community/opensci/",
       "id": "opensci",
       "messages": 2,
-      "github_link": null,
       "cluster": null
     },
     "stemwidgets": {
@@ -1483,7 +1279,6 @@
       "home": "http://www.w3.org/community/stemwidgets/",
       "id": "stemwidgets",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "kiss": {
@@ -1492,7 +1287,6 @@
       "home": "http://www.w3.org/community/kiss/",
       "id": "kiss",
       "messages": 2,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "openactive": {
@@ -1501,8 +1295,6 @@
       "home": "http://www.w3.org/community/openactive/",
       "id": "openactive",
       "messages": 24,
-      "github_link": "https://www.openactive.io/openactive-w3c-cg/charter.html",
-      "github_stats": null,
       "cluster": null
     },
     "opentrack": {
@@ -1511,7 +1303,6 @@
       "home": "http://www.w3.org/community/opentrack/",
       "id": "opentrack",
       "messages": 55,
-      "github_link": null,
       "cluster": null
     },
     "opd": {
@@ -1520,7 +1311,6 @@
       "home": "http://www.w3.org/community/opd/",
       "id": "opd",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "pdf-open-data": {
@@ -1529,7 +1319,6 @@
       "home": "http://www.w3.org/community/pdf-open-data/",
       "id": "pdf-open-data",
       "messages": 1,
-      "github_link": null,
       "cluster": "open data"
     },
     "paidcontent": {
@@ -1538,7 +1327,6 @@
       "home": "http://www.w3.org/community/paidcontent/",
       "id": "paidcontent",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "perma-id": {
@@ -1547,7 +1335,6 @@
       "home": "http://www.w3.org/community/perma-id/",
       "id": "perma-id",
       "messages": 7,
-      "github_link": null,
       "cluster": null
     },
     "philoweb": {
@@ -1556,7 +1343,6 @@
       "home": "http://www.w3.org/community/philoweb/",
       "id": "philoweb",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "physical-ledger": {
@@ -1565,7 +1351,6 @@
       "home": "http://www.w3.org/community/physical-ledger/",
       "id": "physical-ledger",
       "messages": 0,
-      "github_link": null,
       "cluster": null
     },
     "places": {
@@ -1574,7 +1359,6 @@
       "home": "http://www.w3.org/community/places/",
       "id": "places",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "ppl": {
@@ -1583,8 +1367,6 @@
       "home": "http://www.w3.org/community/ppl/",
       "id": "ppl",
       "messages": 3,
-      "github_link": "http://www.w3.org/community/ppl/track/",
-      "github_stats": null,
       "cluster": null
     },
     "pua": {
@@ -1593,7 +1375,6 @@
       "home": "http://www.w3.org/community/pua/",
       "id": "pua",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "pronto": {
@@ -1602,7 +1383,6 @@
       "home": "http://www.w3.org/community/pronto/",
       "id": "pronto",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "propertygraphs": {
@@ -1611,7 +1391,6 @@
       "home": "http://www.w3.org/community/propertygraphs/",
       "id": "propertygraphs",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "pubsub": {
@@ -1620,7 +1399,6 @@
       "home": "http://www.w3.org/community/pubsub/",
       "id": "pubsub",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "palcg": {
@@ -1629,7 +1407,6 @@
       "home": "http://www.w3.org/community/palcg/",
       "id": "palcg",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "pom": {
@@ -1638,7 +1415,6 @@
       "home": "http://www.w3.org/community/pom/",
       "id": "pom",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "quickfix": {
@@ -1647,7 +1423,6 @@
       "home": "http://www.w3.org/community/quickfix/",
       "id": "quickfix",
       "messages": 2,
-      "github_link": null,
       "cluster": "XML"
     },
     "rdfjs": {
@@ -1656,7 +1431,6 @@
       "home": "http://www.w3.org/community/rdfjs/",
       "id": "rdfjs",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "rsp": {
@@ -1665,7 +1439,6 @@
       "home": "http://www.w3.org/community/rsp/",
       "id": "rsp",
       "messages": 7,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "rdf-tests": {
@@ -1674,7 +1447,6 @@
       "home": "http://www.w3.org/community/rdf-tests/",
       "id": "rdf-tests",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "rax": {
@@ -1683,7 +1455,6 @@
       "home": "http://www.w3.org/community/rax/",
       "id": "rax",
       "messages": 2,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "rsocket": {
@@ -1692,7 +1463,6 @@
       "home": "http://www.w3.org/community/rsocket/",
       "id": "rsocket",
       "messages": 8,
-      "github_link": null,
       "cluster": null
     },
     "rww": {
@@ -1701,8 +1471,6 @@
       "home": "http://www.w3.org/community/rww/",
       "id": "rww",
       "messages": 27,
-      "github_link": "http://www.w3.org/community/rww/track/",
-      "github_stats": null,
       "cluster": null
     },
     "remotedom": {
@@ -1711,7 +1479,6 @@
       "home": "http://www.w3.org/community/remotedom/",
       "id": "remotedom",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "rosc": {
@@ -1720,7 +1487,6 @@
       "home": "http://www.w3.org/community/rosc/",
       "id": "rosc",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "rtos": {
@@ -1729,7 +1495,6 @@
       "home": "http://www.w3.org/community/rtos/",
       "id": "rtos",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "respimg": {
@@ -1738,7 +1503,6 @@
       "home": "http://www.w3.org/community/respimg/",
       "id": "respimg",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "restonto": {
@@ -1747,7 +1511,6 @@
       "home": "http://www.w3.org/community/restonto/",
       "id": "restonto",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "restrictedmedia": {
@@ -1756,7 +1519,6 @@
       "home": "http://www.w3.org/community/restrictedmedia/",
       "id": "restrictedmedia",
       "messages": 1,
-      "github_link": null,
       "cluster": "media"
     },
     "w3process": {
@@ -1765,8 +1527,6 @@
       "home": "http://www.w3.org/community/w3process/",
       "id": "w3process",
       "messages": 20,
-      "github_link": "http://www.w3.org/community/w3process/track/",
-      "github_stats": null,
       "cluster": "W3C"
     },
     "irobar": {
@@ -1775,7 +1535,6 @@
       "home": "http://www.w3.org/community/irobar/",
       "id": "irobar",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "sdshare": {
@@ -1784,7 +1543,6 @@
       "home": "http://www.w3.org/community/sdshare/",
       "id": "sdshare",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "shacl": {
@@ -1793,7 +1551,6 @@
       "home": "http://www.w3.org/community/shacl/",
       "id": "shacl",
       "messages": 10,
-      "github_link": null,
       "cluster": null
     },
     "skosowlinterop": {
@@ -1802,7 +1559,6 @@
       "home": "http://www.w3.org/community/skosowlinterop/",
       "id": "skosowlinterop",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "sparql-exists": {
@@ -1811,8 +1567,7 @@
       "home": "http://www.w3.org/community/sparql-exists/",
       "id": "sparql-exists",
       "messages": 11,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "svgmap": {
       "name": "SVG Mapping",
@@ -1820,7 +1575,6 @@
       "home": "http://www.w3.org/community/svgmap/",
       "id": "svgmap",
       "messages": 1,
-      "github_link": null,
       "cluster": "SVG"
     },
     "svgstreaming": {
@@ -1829,7 +1583,6 @@
       "home": "http://www.w3.org/community/svgstreaming/",
       "id": "svgstreaming",
       "messages": 1,
-      "github_link": null,
       "cluster": "SVG"
     },
     "svgopentype": {
@@ -1838,8 +1591,6 @@
       "home": "http://www.w3.org/community/svgopentype/",
       "id": "svgopentype",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/svgopentype/track/",
-      "github_stats": null,
       "cluster": "SVG"
     },
     "architypes": {
@@ -1848,8 +1599,7 @@
       "home": "http://www.w3.org/community/architypes/",
       "id": "architypes",
       "messages": 5,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "schemabibex": {
       "name": "Schema Bib Extend",
@@ -1857,8 +1607,7 @@
       "home": "http://www.w3.org/community/schemabibex/",
       "id": "schemabibex",
       "messages": 1,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "schema-course-extend": {
       "name": "Schema Course extension",
@@ -1866,8 +1615,7 @@
       "home": "http://www.w3.org/community/schema-course-extend/",
       "id": "schema-course-extend",
       "messages": 4,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "schema-gen": {
       "name": "Schema Generator",
@@ -1875,8 +1623,7 @@
       "home": "http://www.w3.org/community/schema-gen/",
       "id": "schema-gen",
       "messages": 1,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "schemaorg": {
       "name": "Schema.org",
@@ -1884,15 +1631,7 @@
       "home": "http://www.w3.org/community/schemaorg/",
       "id": "schemaorg",
       "messages": 56,
-      "github_link": "https://github.com/schemaorg/schemaorg/issues",
-      "github_stats": {
-        "repo_name": "schemaorg",
-        "stargazers": 2364,
-        "watchers": 2364,
-        "subscribers": 358,
-        "forks": 483
-      },
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "schemaorg4datasets": {
       "name": "Schema.org for datasets",
@@ -1900,8 +1639,7 @@
       "home": "http://www.w3.org/community/schemaorg4datasets/",
       "id": "schemaorg4datasets",
       "messages": 1,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "scholarlyhtml": {
       "name": "Scholarly HTML",
@@ -1909,14 +1647,6 @@
       "home": "http://www.w3.org/community/scholarlyhtml/",
       "id": "scholarlyhtml",
       "messages": 2,
-      "github_link": "https://github.com/w3c/scholarly-html/issues",
-      "github_stats": {
-        "repo_name": "scholarly-html",
-        "stargazers": 21,
-        "watchers": 21,
-        "subscribers": 29,
-        "forks": 7
-      },
       "cluster": "HTML"
     },
     "scriptlib": {
@@ -1925,8 +1655,6 @@
       "home": "http://www.w3.org/community/scriptlib/",
       "id": "scriptlib",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/scriptlib/track/",
-      "github_stats": null,
       "cluster": null
     },
     "webscreens": {
@@ -1935,7 +1663,6 @@
       "home": "http://www.w3.org/community/webscreens/",
       "id": "webscreens",
       "messages": 32,
-      "github_link": null,
       "cluster": null
     },
     "semnews": {
@@ -1944,8 +1671,6 @@
       "home": "http://www.w3.org/community/semnews/",
       "id": "semnews",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/semnews/track/",
-      "github_stats": null,
       "cluster": "semantic Web"
     },
     "sodata": {
@@ -1954,7 +1679,6 @@
       "home": "http://www.w3.org/community/sodata/",
       "id": "sodata",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "ssn-cg": {
@@ -1963,7 +1687,6 @@
       "home": "http://www.w3.org/community/ssn-cg/",
       "id": "ssn-cg",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "semstats": {
@@ -1972,7 +1695,6 @@
       "home": "http://www.w3.org/community/semstats/",
       "id": "semstats",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "swim": {
@@ -1981,7 +1703,6 @@
       "home": "http://www.w3.org/community/swim/",
       "id": "swim",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "semwebprog": {
@@ -1990,8 +1711,6 @@
       "home": "http://www.w3.org/community/semwebprog/",
       "id": "semwebprog",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/semwebprog/track/",
-      "github_stats": null,
       "cluster": "semantic Web"
     },
     "hclscg": {
@@ -2000,7 +1719,6 @@
       "home": "http://www.w3.org/community/hclscg/",
       "id": "hclscg",
       "messages": 9,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "base": {
@@ -2009,7 +1727,6 @@
       "home": "http://www.w3.org/community/base/",
       "id": "base",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "sesmanbro": {
@@ -2018,7 +1735,6 @@
       "home": "http://www.w3.org/community/sesmanbro/",
       "id": "sesmanbro",
       "messages": 1,
-      "github_link": null,
       "cluster": "browser"
     },
     "shex": {
@@ -2027,7 +1743,6 @@
       "home": "http://www.w3.org/community/shex/",
       "id": "shex",
       "messages": 28,
-      "github_link": null,
       "cluster": null
     },
     "silver": {
@@ -2036,7 +1751,6 @@
       "home": "http://www.w3.org/community/silver/",
       "id": "silver",
       "messages": 157,
-      "github_link": null,
       "cluster": null
     },
     "smartmfg": {
@@ -2045,7 +1759,6 @@
       "home": "http://www.w3.org/community/smartmfg/",
       "id": "smartmfg",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "spade": {
@@ -2054,7 +1767,6 @@
       "home": "http://www.w3.org/community/spade/",
       "id": "spade",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "economy": {
@@ -2063,7 +1775,6 @@
       "home": "http://www.w3.org/community/economy/",
       "id": "economy",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "socialcg": {
@@ -2072,7 +1783,6 @@
       "home": "http://www.w3.org/community/socialcg/",
       "id": "socialcg",
       "messages": null,
-      "github_link": null,
       "cluster": null
     },
     "speech-api": {
@@ -2081,7 +1791,6 @@
       "home": "http://www.w3.org/community/speech-api/",
       "id": "speech-api",
       "messages": 4,
-      "github_link": null,
       "cluster": null
     },
     "sport-schema": {
@@ -2090,8 +1799,7 @@
       "home": "http://www.w3.org/community/sport-schema/",
       "id": "sport-schema",
       "messages": 1,
-      "github_link": null,
-      "cluster": null
+      "cluster": "semantic Web"
     },
     "stereoweb": {
       "name": "Stereoscopic 3D Web",
@@ -2099,7 +1807,6 @@
       "home": "http://www.w3.org/community/stereoweb/",
       "id": "stereoweb",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "stroke-fonts": {
@@ -2108,7 +1815,6 @@
       "home": "http://www.w3.org/community/stroke-fonts/",
       "id": "stroke-fonts",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "sustyweb": {
@@ -2117,7 +1823,6 @@
       "home": "http://www.w3.org/community/sustyweb/",
       "id": "sustyweb",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "sync-media-pub": {
@@ -2126,7 +1831,6 @@
       "home": "http://www.w3.org/community/sync-media-pub/",
       "id": "sync-media-pub",
       "messages": 15,
-      "github_link": null,
       "cluster": "media"
     },
     "tvapi": {
@@ -2135,8 +1839,6 @@
       "home": "http://www.w3.org/community/tvapi/",
       "id": "tvapi",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/tvapi/track/",
-      "github_stats": null,
       "cluster": null
     },
     "opentag": {
@@ -2145,7 +1847,6 @@
       "home": "http://www.w3.org/community/opentag/",
       "id": "opentag",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "semtechdoc": {
@@ -2154,7 +1855,6 @@
       "home": "http://www.w3.org/community/semtechdoc/",
       "id": "semtechdoc",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "hardware-pixels": {
@@ -2163,7 +1863,6 @@
       "home": "http://www.w3.org/community/hardware-pixels/",
       "id": "hardware-pixels",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "tourismdata": {
@@ -2172,7 +1871,6 @@
       "home": "http://www.w3.org/community/tourismdata/",
       "id": "tourismdata",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "timed-text": {
@@ -2181,8 +1879,6 @@
       "home": "http://www.w3.org/community/timed-text/",
       "id": "timed-text",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/timed-text/track/",
-      "github_stats": null,
       "cluster": null
     },
     "touchevents": {
@@ -2191,7 +1887,6 @@
       "home": "http://www.w3.org/community/touchevents/",
       "id": "touchevents",
       "messages": 8,
-      "github_link": null,
       "cluster": null
     },
     "traffic": {
@@ -2200,7 +1895,6 @@
       "home": "http://www.w3.org/community/traffic/",
       "id": "traffic",
       "messages": 1,
-      "github_link": null,
       "cluster": "semantic Web"
     },
     "trustperms": {
@@ -2209,7 +1903,6 @@
       "home": "http://www.w3.org/community/trustperms/",
       "id": "trustperms",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "urispec": {
@@ -2218,7 +1911,6 @@
       "home": "http://www.w3.org/community/urispec/",
       "id": "urispec",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "uad": {
@@ -2227,7 +1919,6 @@
       "home": "http://www.w3.org/community/uad/",
       "id": "uad",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "unhosted": {
@@ -2236,8 +1927,6 @@
       "home": "http://www.w3.org/community/unhosted/",
       "id": "unhosted",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/unhosted/track/",
-      "github_stats": null,
       "cluster": null
     },
     "universalimages": {
@@ -2246,7 +1935,6 @@
       "home": "http://www.w3.org/community/universalimages/",
       "id": "universalimages",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "w3id": {
@@ -2255,7 +1943,6 @@
       "home": "http://www.w3.org/community/w3id/",
       "id": "w3id",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "userix": {
@@ -2264,8 +1951,6 @@
       "home": "http://www.w3.org/community/userix/",
       "id": "userix",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/userix/track/",
-      "github_stats": null,
       "cluster": null
     },
     "vivo": {
@@ -2274,8 +1959,6 @@
       "home": "http://www.w3.org/community/vivo/",
       "id": "vivo",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/vivo/track/",
-      "github_stats": null,
       "cluster": null
     },
     "veres-one": {
@@ -2284,7 +1967,6 @@
       "home": "http://www.w3.org/community/veres-one/",
       "id": "veres-one",
       "messages": 2,
-      "github_link": null,
       "cluster": null
     },
     "videogameschema": {
@@ -2293,8 +1975,7 @@
       "home": "http://www.w3.org/community/videogameschema/",
       "id": "videogameschema",
       "messages": 1,
-      "github_link": null,
-      "cluster": "media"
+      "cluster": "semantic Web"
     },
     "vrwebmetaverse": {
       "name": "Virtual Reality website and Metaverse",
@@ -2302,7 +1983,6 @@
       "home": "http://www.w3.org/community/vrwebmetaverse/",
       "id": "vrwebmetaverse",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "bigdata-tools": {
@@ -2311,7 +1991,6 @@
       "home": "http://www.w3.org/community/bigdata-tools/",
       "id": "bigdata-tools",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "voiceinteraction": {
@@ -2320,7 +1999,6 @@
       "home": "http://www.w3.org/community/voiceinteraction/",
       "id": "voiceinteraction",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "vxmlcg": {
@@ -2329,7 +2007,6 @@
       "home": "http://www.w3.org/community/vxmlcg/",
       "id": "vxmlcg",
       "messages": 1,
-      "github_link": null,
       "cluster": "XML"
     },
     "devrel": {
@@ -2338,7 +2015,6 @@
       "home": "http://www.w3.org/community/devrel/",
       "id": "devrel",
       "messages": 1,
-      "github_link": null,
       "cluster": "W3C"
     },
     "w3c-women": {
@@ -2347,7 +2023,6 @@
       "home": "http://www.w3.org/community/w3c-women/",
       "id": "w3c-women",
       "messages": 1,
-      "github_link": null,
       "cluster": "W3C"
     },
     "wai-engage": {
@@ -2356,7 +2031,6 @@
       "home": "http://www.w3.org/community/wai-engage/",
       "id": "wai-engage",
       "messages": 3,
-      "github_link": null,
       "cluster": "a11y"
     },
     "wearableweb": {
@@ -2365,7 +2039,6 @@
       "home": "http://www.w3.org/community/wearableweb/",
       "id": "wearableweb",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webappscp": {
@@ -2374,7 +2047,6 @@
       "home": "http://www.w3.org/community/webappscp/",
       "id": "webappscp",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webappstore": {
@@ -2383,7 +2055,6 @@
       "home": "http://www.w3.org/community/webappstore/",
       "id": "webappstore",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webarchivability": {
@@ -2392,7 +2063,6 @@
       "home": "http://www.w3.org/community/webarchivability/",
       "id": "webarchivability",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webarraymath": {
@@ -2401,7 +2071,6 @@
       "home": "http://www.w3.org/community/webarraymath/",
       "id": "webarraymath",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "audio-dev": {
@@ -2410,7 +2079,6 @@
       "home": "http://www.w3.org/community/audio-dev/",
       "id": "audio-dev",
       "messages": 3,
-      "github_link": null,
       "cluster": "media"
     },
     "web-bluetooth": {
@@ -2419,7 +2087,6 @@
       "home": "http://www.w3.org/community/web-bluetooth/",
       "id": "web-bluetooth",
       "messages": 6,
-      "github_link": null,
       "cluster": null
     },
     "web-commerce": {
@@ -2428,7 +2095,6 @@
       "home": "http://www.w3.org/community/web-commerce/",
       "id": "web-commerce",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "web-copyright": {
@@ -2437,7 +2103,6 @@
       "home": "http://www.w3.org/community/web-copyright/",
       "id": "web-copyright",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webcryptoapi": {
@@ -2446,8 +2111,6 @@
       "home": "http://www.w3.org/community/webcryptoapi/",
       "id": "webcryptoapi",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/webcryptoapi/track/",
-      "github_stats": null,
       "cluster": null
     },
     "webdevdata": {
@@ -2456,7 +2119,6 @@
       "home": "http://www.w3.org/community/webdevdata/",
       "id": "webdevdata",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webed": {
@@ -2465,8 +2127,6 @@
       "home": "http://www.w3.org/community/webed/",
       "id": "webed",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/webed/track/",
-      "github_stats": null,
       "cluster": null
     },
     "webhistory": {
@@ -2475,7 +2135,6 @@
       "home": "http://www.w3.org/community/webhistory/",
       "id": "webhistory",
       "messages": 2,
-      "github_link": null,
       "cluster": null
     },
     "whatwg": {
@@ -2484,7 +2143,6 @@
       "home": "http://www.w3.org/community/whatwg/",
       "id": "whatwg",
       "messages": 1,
-      "github_link": null,
       "cluster": "HTML"
     },
     "webmidi": {
@@ -2493,7 +2151,6 @@
       "home": "http://www.w3.org/community/webmidi/",
       "id": "webmidi",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webmediaapi": {
@@ -2502,7 +2159,6 @@
       "home": "http://www.w3.org/community/webmediaapi/",
       "id": "webmediaapi",
       "messages": 1,
-      "github_link": null,
       "cluster": "media"
     },
     "texttracks": {
@@ -2511,8 +2167,6 @@
       "home": "http://www.w3.org/community/texttracks/",
       "id": "texttracks",
       "messages": 24,
-      "github_link": "http://www.w3.org/community/texttracks/track/",
-      "github_stats": null,
       "cluster": "media"
     },
     "web-nfc": {
@@ -2521,7 +2175,6 @@
       "home": "http://www.w3.org/community/web-nfc/",
       "id": "web-nfc",
       "messages": 52,
-      "github_link": null,
       "cluster": null
     },
     "webobservatory": {
@@ -2530,7 +2183,6 @@
       "home": "http://www.w3.org/community/webobservatory/",
       "id": "webobservatory",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webpayments": {
@@ -2539,9 +2191,7 @@
       "home": "http://www.w3.org/community/webpayments/",
       "id": "webpayments",
       "messages": 12,
-      "github_link": "http://www.w3.org/community/webpayments/track/",
-      "github_stats": null,
-      "cluster": null
+      "cluster": "payments"
     },
     "payments-commerce-a11y": {
       "name": "Web Payments and Commerce Accessibility",
@@ -2549,7 +2199,6 @@
       "home": "http://www.w3.org/community/payments-commerce-a11y/",
       "id": "payments-commerce-a11y",
       "messages": 8,
-      "github_link": null,
       "cluster": "a11y"
     },
     "webperfs": {
@@ -2558,7 +2207,6 @@
       "home": "http://www.w3.org/community/webperfs/",
       "id": "webperfs",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webplatzh": {
@@ -2567,7 +2215,6 @@
       "home": "http://www.w3.org/community/webplatzh/",
       "id": "webplatzh",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "wicg": {
@@ -2576,7 +2223,6 @@
       "home": "http://www.w3.org/community/wicg/",
       "id": "wicg",
       "messages": 3,
-      "github_link": null,
       "cluster": null
     },
     "webskillprofiles": {
@@ -2585,8 +2231,6 @@
       "home": "http://www.w3.org/community/webskillprofiles/",
       "id": "webskillprofiles",
       "messages": 1,
-      "github_link": "http://www.w3.org/community/webskillprofiles/track/",
-      "github_stats": null,
       "cluster": null
     },
     "autowebtest": {
@@ -2595,7 +2239,6 @@
       "home": "http://www.w3.org/community/autowebtest/",
       "id": "autowebtest",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "wwca": {
@@ -2604,7 +2247,6 @@
       "home": "http://www.w3.org/community/wwca/",
       "id": "wwca",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "sensorweb": {
@@ -2613,7 +2255,6 @@
       "home": "http://www.w3.org/community/sensorweb/",
       "id": "sensorweb",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "wot": {
@@ -2622,7 +2263,6 @@
       "home": "http://www.w3.org/community/wot/",
       "id": "wot",
       "messages": 0,
-      "github_link": null,
       "cluster": null
     },
     "web-api-discovery": {
@@ -2631,7 +2271,6 @@
       "home": "http://www.w3.org/community/web-api-discovery/",
       "id": "web-api-discovery",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webapps-ui": {
@@ -2640,7 +2279,6 @@
       "home": "http://www.w3.org/community/webapps-ui/",
       "id": "webapps-ui",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "webassembly": {
@@ -2649,14 +2287,6 @@
       "home": "http://www.w3.org/community/webassembly/",
       "id": "webassembly",
       "messages": 9,
-      "github_link": "https://github.com/webassembly",
-      "github_stats": {
-        "repo_name": "design",
-        "stargazers": 8664,
-        "watchers": 8664,
-        "subscribers": 0,
-        "forks": 514
-      },
       "cluster": null
     },
     "webid": {
@@ -2665,8 +2295,6 @@
       "home": "http://www.w3.org/community/webid/",
       "id": "webid",
       "messages": 10,
-      "github_link": "http://www.w3.org/2005/Incubator/webid/track/",
-      "github_stats": null,
       "cluster": null
     },
     "webvr": {
@@ -2675,7 +2303,6 @@
       "home": "http://www.w3.org/community/webvr/",
       "id": "webvr",
       "messages": 33,
-      "github_link": null,
       "cluster": null
     },
     "webize": {
@@ -2684,7 +2311,6 @@
       "home": "http://www.w3.org/community/webize/",
       "id": "webize",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "wasarchives": {
@@ -2693,7 +2319,6 @@
       "home": "http://www.w3.org/community/wasarchives/",
       "id": "wasarchives",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "xformsusers": {
@@ -2702,8 +2327,6 @@
       "home": "http://www.w3.org/community/xformsusers/",
       "id": "xformsusers",
       "messages": 141,
-      "github_link": "https://www.w3.org/2005/06/tracker/xforms/",
-      "github_stats": null,
       "cluster": "XML"
     },
     "xml-er": {
@@ -2712,7 +2335,6 @@
       "home": "http://www.w3.org/community/xml-er/",
       "id": "xml-er",
       "messages": 1,
-      "github_link": null,
       "cluster": "XML"
     },
     "xmlhypermedia": {
@@ -2721,7 +2343,6 @@
       "home": "http://www.w3.org/community/xmlhypermedia/",
       "id": "xmlhypermedia",
       "messages": 1,
-      "github_link": null,
       "cluster": "XML"
     },
     "xmlperf": {
@@ -2730,7 +2351,6 @@
       "home": "http://www.w3.org/community/xmlperf/",
       "id": "xmlperf",
       "messages": 1,
-      "github_link": null,
       "cluster": "XML"
     },
     "xpath-next": {
@@ -2739,8 +2359,7 @@
       "home": "http://www.w3.org/community/xpath-next/",
       "id": "xpath-next",
       "messages": 0,
-      "github_link": null,
-      "cluster": null
+      "cluster": "XML"
     },
     "xproc-next": {
       "name": "XProc Next",
@@ -2748,7 +2367,6 @@
       "home": "http://www.w3.org/community/xproc-next/",
       "id": "xproc-next",
       "messages": 5,
-      "github_link": null,
       "cluster": null
     },
     "webzakim": {
@@ -2757,7 +2375,6 @@
       "home": "http://www.w3.org/community/webzakim/",
       "id": "webzakim",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "exp-protocols": {
@@ -2766,7 +2383,6 @@
       "home": "http://www.w3.org/community/exp-protocols/",
       "id": "exp-protocols",
       "messages": 1,
-      "github_link": null,
       "cluster": null
     },
     "syndicatedmedia": {
@@ -2775,7 +2391,6 @@
       "home": "http://www.w3.org/community/syndicatedmedia/",
       "id": "syndicatedmedia",
       "messages": 1,
-      "github_link": null,
       "cluster": "media"
     }
   }
