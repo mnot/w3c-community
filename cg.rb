@@ -22,8 +22,8 @@ def main(lookback)
     group['home'] = index + group_div.css(".group-title a")[0]['href']
     group['id'] = group_div.css(".group-title a")[0]['id'].sub(/^#/, '')
     group['messages'] = fetch_list_messages(group['id'], lookback)
-    group['github_link'] = fetch_github_link(group['home'])
-    group['github_stats'] = fetch_github_stats(group['github_link']) if group['github_link']
+#    group['github_link'] = fetch_github_link(group['home'])
+#    group['github_stats'] = fetch_github_stats(group['github_link']) if group['github_link']
 
     # Sumarise
     group['cluster'] = case group['name']
