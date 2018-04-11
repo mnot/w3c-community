@@ -30,6 +30,7 @@ def main(lookback)
       when /semantic/i then 'semantic Web'
       when /rdf/i then 'semantic Web'
       when /ontology/i then 'semantic Web'
+      when /schema/i then 'semantic Web'
       when /accessible/i then 'a11y'
       when /accessibility/i then 'a11y'
       when /wcag/i then 'a11y'
@@ -40,17 +41,20 @@ def main(lookback)
       when /hypertext/i then 'HTML'
       when /xml/i then 'XML'
       when /xforms/i then 'XML'
+      when /xpath/i then 'XML'
       when /mobile/i then 'mobile'
       when /open data/i then 'open data'
       when /w3c/i then 'W3C'
       when /process/i then 'process'
       when /voting/i then 'process'
       when /hydra/i then 'semantic Web'
+      when /sparql/i then 'semantic Web'
       when /svg/i then 'SVG'
       when /gov/i then 'egov'
       when /media/i then 'media'
       when /audio/i then 'media'
       when /video/i then 'media'
+      when /payment/i then 'payments'
     end
     results[group['id']] = group
   end
