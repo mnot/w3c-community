@@ -1,1060 +1,12 @@
 {
-  "date_gathered": "2018-04-11",
+  "date_gathered": "2022-01-06",
   "results": {
-    "accessibilityinindia": {
-      "name": "Accessibility in India",
-      "participants": 112,
-      "home": "http://www.w3.org/community/accessibilityinindia/",
-      "id": "accessibilityinindia",
-      "messages": 4,
-      "cluster": "a11y"
-    },
-    "infographics": {
-      "name": "Accessible Infographics",
-      "participants": 59,
-      "home": "http://www.w3.org/community/infographics/",
-      "id": "infographics",
-      "messages": 1,
-      "cluster": "a11y"
-    },
-    "accesslearn": {
-      "name": "Accessible Online Learning",
-      "participants": 108,
-      "home": "http://www.w3.org/community/accesslearn/",
-      "id": "accesslearn",
-      "messages": 1,
-      "cluster": "a11y"
-    },
-    "playlist-a11y": {
-      "name": "Accessible Playlist",
-      "participants": 10,
-      "home": "http://www.w3.org/community/playlist-a11y/",
-      "id": "playlist-a11y",
-      "messages": 2,
-      "cluster": "a11y"
-    },
-    "svga11y": {
-      "name": "Accessible SVG",
-      "participants": 44,
-      "home": "http://www.w3.org/community/svga11y/",
-      "id": "svga11y",
-      "messages": 1,
-      "cluster": "a11y"
-    },
-    "activitypub": {
-      "name": "ActivityPub",
-      "participants": 22,
-      "home": "http://www.w3.org/community/activitypub/",
-      "id": "activitypub",
-      "messages": 1,
-      "cluster": null
-    },
-    "adopsdnt": {
-      "name": "Ad Ops Speaks on DNT",
-      "participants": 8,
-      "home": "http://www.w3.org/community/adopsdnt/",
-      "id": "adopsdnt",
-      "messages": 1,
-      "cluster": null
-    },
-    "awpat": {
-      "name": "Advancing Web Platform Application Testing",
-      "participants": 27,
-      "home": "http://www.w3.org/community/awpat/",
-      "id": "awpat",
-      "messages": 2,
-      "cluster": null
-    },
-    "coders4africa": {
-      "name": "African Developers Taking on the Web",
-      "participants": 28,
-      "home": "http://www.w3.org/community/coders4africa/",
-      "id": "coders4africa",
-      "messages": 1,
-      "cluster": null
-    },
-    "agelabels": {
-      "name": "Age Labels Data Model",
-      "participants": 12,
-      "home": "http://www.w3.org/community/agelabels/",
-      "id": "agelabels",
-      "messages": 1,
-      "cluster": null
-    },
-    "agri": {
-      "name": "Agriculture",
-      "participants": 53,
-      "home": "http://www.w3.org/community/agri/",
-      "id": "agri",
-      "messages": 14,
-      "cluster": null
-    },
-    "model": {
-      "name": "Algorithmic Modelling",
-      "participants": 17,
-      "home": "http://www.w3.org/community/model/",
-      "id": "model",
-      "messages": 1,
-      "cluster": null
-    },
-    "annoux": {
-      "name": "Annotation UX",
-      "participants": 22,
-      "home": "http://www.w3.org/community/annoux/",
-      "id": "annoux",
-      "messages": 1,
-      "cluster": null
-    },
-    "argmntreprsnt": {
-      "name": "Argument Representation",
-      "participants": 7,
-      "home": "http://www.w3.org/community/argmntreprsnt/",
-      "id": "argmntreprsnt",
-      "messages": 1,
-      "cluster": null
-    },
-    "argumentation": {
-      "name": "Argumentation",
-      "participants": 19,
-      "home": "http://www.w3.org/community/argumentation/",
-      "id": "argumentation",
-      "messages": 1,
-      "cluster": null
-    },
-    "art": {
-      "name": "Art & Culture (Museums) On The Web",
-      "participants": 68,
-      "home": "http://www.w3.org/community/art/",
-      "id": "art",
-      "messages": 3,
-      "cluster": null
-    },
-    "ar": {
-      "name": "Augmented Reality",
-      "participants": 121,
-      "home": "http://www.w3.org/community/ar/",
-      "id": "ar",
-      "messages": 2,
-      "cluster": null
-    },
-    "auto-wcag": {
-      "name": "Automated WCAG Monitoring",
-      "participants": 93,
-      "home": "http://www.w3.org/community/auto-wcag/",
-      "id": "auto-wcag",
-      "messages": 18,
-      "cluster": "a11y"
-    },
-    "gao": {
-      "name": "Automotive Ontology",
-      "participants": 71,
-      "home": "http://www.w3.org/community/gao/",
-      "id": "gao",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "benchweb": {
-      "name": "Benchmarking for the Web",
-      "participants": 10,
-      "home": "http://www.w3.org/community/benchweb/",
-      "id": "benchweb",
-      "messages": 1,
-      "cluster": null
-    },
-    "bpmlod": {
-      "name": "Best Practices for Multilingual Linked Open Data",
-      "participants": 86,
-      "home": "http://www.w3.org/community/bpmlod/",
-      "id": "bpmlod",
-      "messages": 6,
-      "cluster": "semantic Web"
-    },
-    "bibperik": {
-      "name": "Bible Perikopes",
-      "participants": 2,
-      "home": "http://www.w3.org/community/bibperik/",
-      "id": "bibperik",
-      "messages": 1,
-      "cluster": null
-    },
-    "bigdata": {
-      "name": "Big Data",
-      "participants": 136,
-      "home": "http://www.w3.org/community/bigdata/",
-      "id": "bigdata",
-      "messages": 2,
-      "cluster": null
-    },
-    "bde": {
-      "name": "Big Data Europe",
-      "participants": 31,
-      "home": "http://www.w3.org/community/bde/",
-      "id": "bde",
-      "messages": 1,
-      "cluster": null
-    },
-    "bioschemas": {
-      "name": "Bioschemas for lifesciences",
-      "participants": 55,
-      "home": "http://www.w3.org/community/bioschemas/",
-      "id": "bioschemas",
-      "messages": 163,
-      "cluster": "semantic Web"
-    },
-    "blockchain": {
-      "name": "Blockchain",
-      "participants": 184,
-      "home": "http://www.w3.org/community/blockchain/",
-      "id": "blockchain",
-      "messages": 5,
-      "cluster": null
-    },
-    "digital-asset": {
-      "name": "Blockchain Digital Assets",
-      "participants": 25,
-      "home": "http://www.w3.org/community/digital-asset/",
-      "id": "digital-asset",
-      "messages": 1,
-      "cluster": null
-    },
-    "dapps": {
-      "name": "Blockchain and Decentralized Apps",
-      "participants": 4,
-      "home": "http://www.w3.org/community/dapps/",
-      "id": "dapps",
-      "messages": 1,
-      "cluster": null
-    },
-    "brazilpub": {
-      "name": "Brazilian Publishing",
-      "participants": 38,
-      "home": "http://www.w3.org/community/brazilpub/",
-      "id": "brazilpub",
-      "messages": 3,
-      "cluster": null
-    },
-    "browserext": {
-      "name": "Browser Extension",
-      "participants": 52,
-      "home": "http://www.w3.org/community/browserext/",
-      "id": "browserext",
-      "messages": 1,
-      "cluster": "browser"
-    },
-    "browsersync": {
-      "name": "Browser Sync",
-      "participants": 13,
-      "home": "http://www.w3.org/community/browsersync/",
-      "id": "browsersync",
-      "messages": 1,
-      "cluster": "browser"
-    },
-    "browserobo": {
-      "name": "Browsers and Robotics",
-      "participants": 15,
-      "home": "http://www.w3.org/community/browserobo/",
-      "id": "browserobo",
-      "messages": 1,
-      "cluster": "browser"
-    },
-    "cssacc": {
-      "name": "CSS Accessibility",
-      "participants": 66,
-      "home": "http://www.w3.org/community/cssacc/",
-      "id": "cssacc",
-      "messages": 1,
-      "cluster": "a11y"
-    },
-    "cssselfrags": {
-      "name": "CSS Selectors as Fragment Identifiers",
-      "participants": 34,
-      "home": "http://www.w3.org/community/cssselfrags/",
-      "id": "cssselfrags",
-      "messages": 1,
-      "cluster": null
-    },
-    "csvw": {
-      "name": "CSV on the Web",
-      "participants": 28,
-      "home": "http://www.w3.org/community/csvw/",
-      "id": "csvw",
-      "messages": 1,
-      "cluster": null
-    },
-    "carto": {
-      "name": "Cartography",
-      "participants": 14,
-      "home": "http://www.w3.org/community/carto/",
-      "id": "carto",
-      "messages": 1,
-      "cluster": null
-    },
-    "chainpoint": {
-      "name": "Chainpoint",
-      "participants": 28,
-      "home": "http://www.w3.org/community/chainpoint/",
-      "id": "chainpoint",
-      "messages": 1,
-      "cluster": null
-    },
-    "change": {
-      "name": "Change Tracking Markup",
-      "participants": 28,
-      "home": "http://www.w3.org/community/change/",
-      "id": "change",
-      "messages": 1,
-      "cluster": null
-    },
-    "cdl": {
-      "name": "Character Description Language",
-      "participants": 21,
-      "home": "http://www.w3.org/community/cdl/",
-      "id": "cdl",
-      "messages": 1,
-      "cluster": null
-    },
-    "cndpubcg": {
-      "name": "Chinese Digital Publishing",
-      "participants": 31,
-      "home": "http://www.w3.org/community/cndpubcg/",
-      "id": "cndpubcg",
-      "messages": 1,
-      "cluster": null
-    },
-    "cnwa": {
-      "name": "Chinese Web Accessibility",
-      "participants": 48,
-      "home": "http://www.w3.org/community/cnwa/",
-      "id": "cnwa",
-      "messages": 1,
-      "cluster": "a11y"
-    },
-    "jseverywhere": {
-      "name": "Client and Server JavaScript APIs",
-      "participants": 45,
-      "home": "http://www.w3.org/community/jseverywhere/",
-      "id": "jseverywhere",
-      "messages": 1,
-      "cluster": null
-    },
-    "cloud": {
-      "name": "Cloud Computing",
-      "participants": 62,
-      "home": "http://www.w3.org/community/cloud/",
-      "id": "cloud",
-      "messages": 1,
-      "cluster": null
-    },
-    "collaboration": {
-      "name": "Collaborative Software",
-      "participants": 23,
-      "home": "http://www.w3.org/community/collaboration/",
-      "id": "collaboration",
-      "messages": 1,
-      "cluster": null
-    },
-    "colorweb": {
-      "name": "Color on the Web",
-      "participants": 34,
-      "home": "http://www.w3.org/community/colorweb/",
-      "id": "colorweb",
-      "messages": 7,
-      "cluster": null
-    },
-    "colourblindness": {
-      "name": "Colour blindness accessibility",
-      "participants": 18,
-      "home": "http://www.w3.org/community/colourblindness/",
-      "id": "colourblindness",
-      "messages": 1,
-      "cluster": "a11y"
-    },
-    "council": {
-      "name": "Community Council",
-      "participants": 27,
-      "home": "http://www.w3.org/community/council/",
-      "id": "council",
-      "messages": 9,
-      "cluster": null
-    },
-    "community-io": {
-      "name": "Community I/O",
-      "participants": 17,
-      "home": "http://www.w3.org/community/community-io/",
-      "id": "community-io",
-      "messages": 1,
-      "cluster": null
-    },
-    "credentials": {
-      "name": "Credentials",
-      "participants": 172,
-      "home": "http://www.w3.org/community/credentials/",
-      "id": "credentials",
-      "messages": 325,
-      "cluster": null
-    },
-    "credibility": {
-      "name": "Credible Web",
-      "participants": 38,
-      "home": "http://www.w3.org/community/credibility/",
-      "id": "credibility",
-      "messages": 10,
-      "cluster": null
-    },
-    "w3cdevhr": {
-      "name": "Croatian Web Developers",
-      "participants": 2,
-      "home": "http://www.w3.org/community/w3cdevhr/",
-      "id": "w3cdevhr",
-      "messages": 8,
-      "cluster": null
-    },
-    "cryptoledgers": {
-      "name": "Cryptoledgers",
-      "participants": 25,
-      "home": "http://www.w3.org/community/cryptoledgers/",
-      "id": "cryptoledgers",
-      "messages": 1,
-      "cluster": null
-    },
-    "custexpdata": {
-      "name": "Customer Experience Digital Data",
-      "participants": 161,
-      "home": "http://www.w3.org/community/custexpdata/",
-      "id": "custexpdata",
-      "messages": 1,
-      "cluster": null
-    },
-    "data-driven-standards": {
-      "name": "Data Driven Standards",
-      "participants": 19,
-      "home": "http://www.w3.org/community/data-driven-standards/",
-      "id": "data-driven-standards",
-      "messages": 1,
-      "cluster": null
-    },
-    "datapipelining": {
-      "name": "Data Pipelining Use Cases",
-      "participants": 24,
-      "home": "http://www.w3.org/community/datapipelining/",
-      "id": "datapipelining",
-      "messages": 1,
-      "cluster": null
-    },
-    "datavis": {
-      "name": "Data Visualization",
-      "participants": 44,
-      "home": "http://www.w3.org/community/datavis/",
-      "id": "datavis",
-      "messages": 1,
-      "cluster": null
-    },
-    "dwbp": {
-      "name": "Data on the Web Best Practices",
-      "participants": 22,
-      "home": "http://www.w3.org/community/dwbp/",
-      "id": "dwbp",
-      "messages": 1,
-      "cluster": null
-    },
-    "datasheets": {
-      "name": "DataSheets",
-      "participants": 6,
-      "home": "http://www.w3.org/community/datasheets/",
-      "id": "datasheets",
-      "messages": 1,
-      "cluster": null
-    },
     "decentralizdcomm": {
       "name": "Decentralized Communications",
-      "participants": 25,
+      "participants": 29,
       "home": "http://www.w3.org/community/decentralizdcomm/",
       "id": "decentralizdcomm",
       "messages": 0,
-      "cluster": null
-    },
-    "decsharing": {
-      "name": "Decentralized Sharing",
-      "participants": 17,
-      "home": "http://www.w3.org/community/decsharing/",
-      "id": "decsharing",
-      "messages": 1,
-      "cluster": null
-    },
-    "decisionml": {
-      "name": "Decisions and Decision-Making",
-      "participants": 21,
-      "home": "http://www.w3.org/community/decisionml/",
-      "id": "decisionml",
-      "messages": 1,
-      "cluster": null
-    },
-    "declarative3d": {
-      "name": "Declarative 3D for the Web Architecture",
-      "participants": 58,
-      "home": "http://www.w3.org/community/declarative3d/",
-      "id": "declarative3d",
-      "messages": 1,
-      "cluster": null
-    },
-    "declarative-apps": {
-      "name": "Declarative Linked Data Apps",
-      "participants": 59,
-      "home": "http://www.w3.org/community/declarative-apps/",
-      "id": "declarative-apps",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "decwebvr": {
-      "name": "Declarative WebVR",
-      "participants": 40,
-      "home": "http://www.w3.org/community/decwebvr/",
-      "id": "decwebvr",
-      "messages": 5,
-      "cluster": null
-    },
-    "dld": {
-      "name": "Development Linked Data",
-      "participants": 30,
-      "home": "http://www.w3.org/community/dld/",
-      "id": "dld",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "digitalassetmanagement": {
-      "name": "Digital Asset Management Industry Business Ontology",
-      "participants": 46,
-      "home": "http://www.w3.org/community/digitalassetmanagement/",
-      "id": "digitalassetmanagement",
-      "messages": 6,
-      "cluster": "semantic Web"
-    },
-    "digitaloffers": {
-      "name": "Digital Offers",
-      "participants": 32,
-      "home": "http://www.w3.org/community/digitaloffers/",
-      "id": "digitaloffers",
-      "messages": 1,
-      "cluster": null
-    },
-    "digital-verification": {
-      "name": "Digital Verification",
-      "participants": 31,
-      "home": "http://www.w3.org/community/digital-verification/",
-      "id": "digital-verification",
-      "messages": 14,
-      "cluster": null
-    },
-    "distributed-compute": {
-      "name": "Distributed Compute Protocol",
-      "participants": 4,
-      "home": "http://www.w3.org/community/distributed-compute/",
-      "id": "distributed-compute",
-      "messages": 1,
-      "cluster": null
-    },
-    "d-tasks": {
-      "name": "Distributed Tasks",
-      "participants": 11,
-      "home": "http://www.w3.org/community/d-tasks/",
-      "id": "d-tasks",
-      "messages": 1,
-      "cluster": null
-    },
-    "trace-context": {
-      "name": "Distributed Trace Context",
-      "participants": 21,
-      "home": "http://www.w3.org/community/trace-context/",
-      "id": "trace-context",
-      "messages": 7,
-      "cluster": null
-    },
-    "dui": {
-      "name": "Distributed User Interfaces",
-      "participants": 8,
-      "home": "http://www.w3.org/community/dui/",
-      "id": "dui",
-      "messages": 1,
-      "cluster": null
-    },
-    "dntrack": {
-      "name": "Do-Not-Track",
-      "participants": 24,
-      "home": "http://www.w3.org/community/dntrack/",
-      "id": "dntrack",
-      "messages": 1,
-      "cluster": null
-    },
-    "learnonline": {
-      "name": "E-learning: Evolving technologies and growing reach",
-      "participants": 55,
-      "home": "http://www.w3.org/community/learnonline/",
-      "id": "learnonline",
-      "messages": 1,
-      "cluster": null
-    },
-    "epub3": {
-      "name": "EPUB 3",
-      "participants": 193,
-      "home": "http://www.w3.org/community/epub3/",
-      "id": "epub3",
-      "messages": 26,
-      "cluster": null
-    },
-    "etlml": {
-      "name": "ETL Markup Language",
-      "participants": 8,
-      "home": "http://www.w3.org/community/etlml/",
-      "id": "etlml",
-      "messages": 1,
-      "cluster": null
-    },
-    "expath": {
-      "name": "EXPath",
-      "participants": 30,
-      "home": "http://www.w3.org/community/expath/",
-      "id": "expath",
-      "messages": 4,
-      "cluster": "XML"
-    },
-    "eocred-schema": {
-      "name": "Educational and Occupational Credentials in schema.org",
-      "participants": 28,
-      "home": "http://www.w3.org/community/eocred-schema/",
-      "id": "eocred-schema",
-      "messages": 176,
-      "cluster": "semantic Web"
-    },
-    "egovernance": {
-      "name": "Electronic Governance (eGov)",
-      "participants": 61,
-      "home": "http://www.w3.org/community/egovernance/",
-      "id": "egovernance",
-      "messages": 2,
-      "cluster": "egov"
-    },
-    "emergency": {
-      "name": "Emergency Information",
-      "participants": 57,
-      "home": "http://www.w3.org/community/emergency/",
-      "id": "emergency",
-      "messages": 1,
-      "cluster": null
-    },
-    "enterprise-ethereum": {
-      "name": "Enterprise Ethereum",
-      "participants": 20,
-      "home": "http://www.w3.org/community/enterprise-ethereum/",
-      "id": "enterprise-ethereum",
-      "messages": 1,
-      "cluster": null
-    },
-    "xapivocabulary": {
-      "name": "Experience API (xAPI) Vocabulary & Semantic Interoperability",
-      "participants": 24,
-      "home": "http://www.w3.org/community/xapivocabulary/",
-      "id": "xapivocabulary",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "exploresemdata": {
-      "name": "Exploration of Semantic Data",
-      "participants": 28,
-      "home": "http://www.w3.org/community/exploresemdata/",
-      "id": "exploresemdata",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "lom2ld": {
-      "name": "Exposing IEEE LOM metadata as Linked Data",
-      "participants": 7,
-      "home": "http://www.w3.org/community/lom2ld/",
-      "id": "lom2ld",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "linkedculture": {
-      "name": "Exposing and Linking Cultural Heritage data",
-      "participants": 19,
-      "home": "http://www.w3.org/community/linkedculture/",
-      "id": "linkedculture",
-      "messages": 1,
-      "cluster": null
-    },
-    "xdmdl": {
-      "name": "Extensible Data Model Declaration Language for Education",
-      "participants": 9,
-      "home": "http://www.w3.org/community/xdmdl/",
-      "id": "xdmdl",
-      "messages": 1,
-      "cluster": null
-    },
-    "nextweb": {
-      "name": "Extensible Web",
-      "participants": 65,
-      "home": "http://www.w3.org/community/nextweb/",
-      "id": "nextweb",
-      "messages": 1,
-      "cluster": null
-    },
-    "fedid": {
-      "name": "Federated Identities for the Open Web",
-      "participants": 18,
-      "home": "http://www.w3.org/community/fedid/",
-      "id": "fedid",
-      "messages": 1,
-      "cluster": null
-    },
-    "omn": {
-      "name": "Federated Infrastructures",
-      "participants": 17,
-      "home": "http://www.w3.org/community/omn/",
-      "id": "omn",
-      "messages": 1,
-      "cluster": null
-    },
-    "fedsocweb": {
-      "name": "Federated Social Web",
-      "participants": 124,
-      "home": "http://www.w3.org/community/fedsocweb/",
-      "id": "fedsocweb",
-      "messages": 1,
-      "cluster": null
-    },
-    "film": {
-      "name": "Film Industry",
-      "participants": 14,
-      "home": "http://www.w3.org/community/film/",
-      "id": "film",
-      "messages": 1,
-      "cluster": null
-    },
-    "fibo": {
-      "name": "Financial Industry Business Ontology",
-      "participants": 47,
-      "home": "http://www.w3.org/community/fibo/",
-      "id": "fibo",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "gpu": {
-      "name": "GPU for the Web",
-      "participants": 144,
-      "home": "http://www.w3.org/community/gpu/",
-      "id": "gpu",
-      "messages": 50,
-      "cluster": null
-    },
-    "games": {
-      "name": "Games",
-      "participants": 102,
-      "home": "http://www.w3.org/community/games/",
-      "id": "games",
-      "messages": 1,
-      "cluster": null
-    },
-    "geometryapi": {
-      "name": "Geometry API",
-      "participants": 16,
-      "home": "http://www.w3.org/community/geometryapi/",
-      "id": "geometryapi",
-      "messages": 1,
-      "cluster": null
-    },
-    "geosemweb": {
-      "name": "Geospatial Semantic Web",
-      "participants": 80,
-      "home": "http://www.w3.org/community/geosemweb/",
-      "id": "geosemweb",
-      "messages": 2,
-      "cluster": "semantic Web"
-    },
-    "mathonwebpages": {
-      "name": "Getting Math onto Web Pages",
-      "participants": 57,
-      "home": "http://www.w3.org/community/mathonwebpages/",
-      "id": "mathonwebpages",
-      "messages": 71,
-      "cluster": null
-    },
-    "editing": {
-      "name": "HTML Editing APIs",
-      "participants": 25,
-      "home": "http://www.w3.org/community/editing/",
-      "id": "editing",
-      "messages": 1,
-      "cluster": "HTML"
-    },
-    "htacg": {
-      "name": "HTML Tidy Advocacy",
-      "participants": 11,
-      "home": "http://www.w3.org/community/htacg/",
-      "id": "htacg",
-      "messages": 3,
-      "cluster": "HTML"
-    },
-    "htmail": {
-      "name": "HTML for email",
-      "participants": 110,
-      "home": "http://www.w3.org/community/htmail/",
-      "id": "htmail",
-      "messages": 1,
-      "cluster": "HTML"
-    },
-    "html5jp": {
-      "name": "HTML5 Japanese",
-      "participants": 67,
-      "home": "http://www.w3.org/community/html5jp/",
-      "id": "html5jp",
-      "messages": 1,
-      "cluster": "HTML"
-    },
-    "html5kr": {
-      "name": "HTML5 Korean",
-      "participants": 53,
-      "home": "http://www.w3.org/community/html5kr/",
-      "id": "html5kr",
-      "messages": 1,
-      "cluster": "HTML"
-    },
-    "html5spec": {
-      "name": "HTML5 Specifications",
-      "participants": 111,
-      "home": "http://www.w3.org/community/html5spec/",
-      "id": "html5spec",
-      "messages": 3,
-      "cluster": "HTML"
-    },
-    "httpslocal": {
-      "name": "HTTPS in Local Network",
-      "participants": 26,
-      "home": "http://www.w3.org/community/httpslocal/",
-      "id": "httpslocal",
-      "messages": 13,
-      "cluster": null
-    },
-    "webhaptics": {
-      "name": "Haptic Interaction on the Web",
-      "participants": 11,
-      "home": "http://www.w3.org/community/webhaptics/",
-      "id": "webhaptics",
-      "messages": 1,
-      "cluster": null
-    },
-    "hb-secure-services": {
-      "name": "Hardware Based Secure Services",
-      "participants": 37,
-      "home": "http://www.w3.org/community/hb-secure-services/",
-      "id": "hb-secure-services",
-      "messages": 6,
-      "cluster": null
-    },
-    "schemed": {
-      "name": "Healthcare Schema Vocabulary",
-      "participants": 38,
-      "home": "http://www.w3.org/community/schemed/",
-      "id": "schemed",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "hpcweb": {
-      "name": "High-Performance Computing",
-      "participants": 49,
-      "home": "http://www.w3.org/community/hpcweb/",
-      "id": "hpcweb",
-      "messages": 2,
-      "cluster": null
-    },
-    "humanservices": {
-      "name": "Human Services",
-      "participants": 21,
-      "home": "http://www.w3.org/community/humanservices/",
-      "id": "humanservices",
-      "messages": 1,
-      "cluster": null
-    },
-    "hydra": {
-      "name": "Hydra",
-      "participants": 215,
-      "home": "http://www.w3.org/community/hydra/",
-      "id": "hydra",
-      "messages": 33,
-      "cluster": "semantic Web"
-    },
-    "informationarchitecture": {
-      "name": "Information Architecture",
-      "participants": 76,
-      "home": "http://www.w3.org/community/informationarchitecture/",
-      "id": "informationarchitecture",
-      "messages": 1,
-      "cluster": null
-    },
-    "interative-apis": {
-      "name": "Interactive APIs",
-      "participants": 19,
-      "home": "http://www.w3.org/community/interative-apis/",
-      "id": "interative-apis",
-      "messages": 1,
-      "cluster": null
-    },
-    "interledger": {
-      "name": "Interledger Payments",
-      "participants": 332,
-      "home": "http://www.w3.org/community/interledger/",
-      "id": "interledger",
-      "messages": 18,
-      "cluster": "payments"
-    },
-    "ipid": {
-      "name": "Internet Protocol Identity",
-      "participants": 5,
-      "home": "http://www.w3.org/community/ipid/",
-      "id": "ipid",
-      "messages": 1,
-      "cluster": null
-    },
-    "iok-se": {
-      "name": "Internet of Kendo Secure Equipment",
-      "participants": 4,
-      "home": "http://www.w3.org/community/iok-se/",
-      "id": "iok-se",
-      "messages": 1,
-      "cluster": null
-    },
-    "json-ld": {
-      "name": "JSON for Linking Data",
-      "participants": 111,
-      "home": "http://www.w3.org/community/json-ld/",
-      "id": "json-ld",
-      "messages": 1,
-      "cluster": null
-    },
-    "ldpnext": {
-      "name": "LDP Next",
-      "participants": 35,
-      "home": "http://www.w3.org/community/ldpnext/",
-      "id": "ldpnext",
-      "messages": 1,
-      "cluster": null
-    },
-    "law": {
-      "name": "Law and Technology",
-      "participants": 28,
-      "home": "http://www.w3.org/community/law/",
-      "id": "law",
-      "messages": 2,
-      "cluster": null
-    },
-    "licensed-content": {
-      "name": "Licensed Content",
-      "participants": 3,
-      "home": "http://www.w3.org/community/licensed-content/",
-      "id": "licensed-content",
-      "messages": 1,
-      "cluster": null
-    },
-    "lbd": {
-      "name": "Linked Building Data",
-      "participants": 68,
-      "home": "http://www.w3.org/community/lbd/",
-      "id": "lbd",
-      "messages": 11,
-      "cluster": "semantic Web"
-    },
-    "sentiment": {
-      "name": "Linked Data Models for Emotion and Sentiment Analysis",
-      "participants": 39,
-      "home": "http://www.w3.org/community/sentiment/",
-      "id": "sentiment",
-      "messages": 3,
-      "cluster": "semantic Web"
-    },
-    "ld4lt": {
-      "name": "Linked Data for Language Technology",
-      "participants": 94,
-      "home": "http://www.w3.org/community/ld4lt/",
-      "id": "ld4lt",
-      "messages": 11,
-      "cluster": "semantic Web"
-    },
-    "locadd": {
-      "name": "Locations and Addresses",
-      "participants": 56,
-      "home": "http://www.w3.org/community/locadd/",
-      "id": "locadd",
-      "messages": 7,
-      "cluster": null
-    },
-    "ml-schema": {
-      "name": "Machine Learning Schema",
-      "participants": 41,
-      "home": "http://www.w3.org/community/ml-schema/",
-      "id": "ml-schema",
-      "messages": 4,
-      "cluster": "semantic Web"
-    },
-    "maps4html": {
-      "name": "Maps For HTML",
-      "participants": 26,
-      "home": "http://www.w3.org/community/maps4html/",
-      "id": "maps4html",
-      "messages": 13,
-      "cluster": "HTML"
-    },
-    "markdown": {
-      "name": "Markdown",
-      "participants": 71,
-      "home": "http://www.w3.org/community/markdown/",
-      "id": "markdown",
-      "messages": 1,
-      "cluster": null
-    },
-    "mathprotocol": {
-      "name": "Math Protocol Handler",
-      "participants": 2,
-      "home": "http://www.w3.org/community/mathprotocol/",
-      "id": "mathprotocol",
-      "messages": 1,
-      "cluster": null
-    },
-    "meat": {
-      "name": "Meat Products",
-      "participants": 13,
-      "home": "http://www.w3.org/community/meat/",
-      "id": "meat",
-      "messages": 1,
-      "cluster": null
-    },
-    "inbandtracks": {
-      "name": "Media Resource In-band Tracks",
-      "participants": 11,
-      "home": "http://www.w3.org/community/inbandtracks/",
-      "id": "inbandtracks",
-      "messages": 1,
-      "cluster": "media"
-    },
-    "mwma": {
-      "name": "Merging of Web and Mobile APP",
-      "participants": 5,
-      "home": "http://www.w3.org/community/mwma/",
-      "id": "mwma",
-      "messages": 1,
-      "cluster": "mobile"
-    },
-    "microxml": {
-      "name": "MicroXML",
-      "participants": 39,
-      "home": "http://www.w3.org/community/microxml/",
-      "id": "microxml",
-      "messages": 1,
-      "cluster": "XML"
-    },
-    "microposts": {
-      "name": "Microposts",
-      "participants": 32,
-      "home": "http://www.w3.org/community/microposts/",
-      "id": "microposts",
-      "messages": 1,
       "cluster": null
     },
     "mixedreality": {
@@ -1062,711 +14,295 @@
       "participants": 61,
       "home": "http://www.w3.org/community/mixedreality/",
       "id": "mixedreality",
-      "messages": 1,
-      "cluster": null
-    },
-    "mobileacc": {
-      "name": "Mobile Accessibility",
-      "participants": 48,
-      "home": "http://www.w3.org/community/mobileacc/",
-      "id": "mobileacc",
-      "messages": 1,
-      "cluster": "a11y"
-    },
-    "mobindic": {
-      "name": "Mobile Web in Indian Languages",
-      "participants": 14,
-      "home": "http://www.w3.org/community/mobindic/",
-      "id": "mobindic",
-      "messages": 1,
-      "cluster": "mobile"
-    },
-    "mmarkup": {
-      "name": "Multi Markup",
-      "participants": 5,
-      "home": "http://www.w3.org/community/mmarkup/",
-      "id": "mmarkup",
-      "messages": 1,
-      "cluster": null
-    },
-    "webtiming": {
-      "name": "Multi-device Timing",
-      "participants": 26,
-      "home": "http://www.w3.org/community/webtiming/",
-      "id": "webtiming",
-      "messages": 6,
-      "cluster": null
-    },
-    "mqmcg": {
-      "name": "Multidimensional Quality Metrics (MQM)",
-      "participants": 14,
-      "home": "http://www.w3.org/community/mqmcg/",
-      "id": "mqmcg",
-      "messages": 8,
-      "cluster": null
-    },
-    "mws": {
-      "name": "Multilingual Web Sites",
-      "participants": 32,
-      "home": "http://www.w3.org/community/mws/",
-      "id": "mws",
-      "messages": 1,
-      "cluster": null
-    },
-    "music-notation": {
-      "name": "Music Notation",
-      "participants": 287,
-      "home": "http://www.w3.org/community/music-notation/",
-      "id": "music-notation",
-      "messages": 12,
-      "cluster": null
-    },
-    "native-web-apps": {
-      "name": "Native Web Apps",
-      "participants": 53,
-      "home": "http://www.w3.org/community/native-web-apps/",
-      "id": "native-web-apps",
-      "messages": 1,
-      "cluster": null
-    },
-    "nli": {
-      "name": "Natural Language Interfaces for the Web of Data",
-      "participants": 27,
-      "home": "http://www.w3.org/community/nli/",
-      "id": "nli",
-      "messages": 3,
-      "cluster": null
-    },
-    "networkfriendly": {
-      "name": "Network-Friendly App and WebApp Best Practices",
-      "participants": 29,
-      "home": "http://www.w3.org/community/networkfriendly/",
-      "id": "networkfriendly",
-      "messages": 1,
-      "cluster": null
-    },
-    "networked-data": {
-      "name": "Networked Data",
-      "participants": 15,
-      "home": "http://www.w3.org/community/networked-data/",
-      "id": "networked-data",
-      "messages": 1,
-      "cluster": null
-    },
-    "odrl": {
-      "name": "ODRL",
-      "participants": 55,
-      "home": "http://www.w3.org/community/odrl/",
-      "id": "odrl",
-      "messages": 19,
-      "cluster": null
-    },
-    "offx": {
-      "name": "OFF/X",
-      "participants": 8,
-      "home": "http://www.w3.org/community/offx/",
-      "id": "offx",
-      "messages": 1,
-      "cluster": null
-    },
-    "ortc": {
-      "name": "ORTC (Object Real-time Communications)",
-      "participants": 111,
-      "home": "http://www.w3.org/community/ortc/",
-      "id": "ortc",
-      "messages": 68,
-      "cluster": null
-    },
-    "ostatus": {
-      "name": "OStatus",
-      "participants": 32,
-      "home": "http://www.w3.org/community/ostatus/",
-      "id": "ostatus",
-      "messages": 1,
-      "cluster": null
-    },
-    "owled": {
-      "name": "OWL: Experiences and Directions",
-      "participants": 52,
-      "home": "http://www.w3.org/community/owled/",
-      "id": "owled",
-      "messages": 4,
-      "cluster": "semantic Web"
-    },
-    "offline-url": {
-      "name": "Offline URL",
-      "participants": 2,
-      "home": "http://www.w3.org/community/offline-url/",
-      "id": "offline-url",
-      "messages": 1,
-      "cluster": null
-    },
-    "ontolex": {
-      "name": "Ontology-Lexica",
-      "participants": 107,
-      "home": "http://www.w3.org/community/ontolex/",
-      "id": "ontolex",
-      "messages": 49,
-      "cluster": "semantic Web"
-    },
-    "openannotation": {
-      "name": "Open Annotation",
-      "participants": 141,
-      "home": "http://www.w3.org/community/openannotation/",
-      "id": "openannotation",
-      "messages": 8,
-      "cluster": null
-    },
-    "opendatadir": {
-      "name": "Open Data Directory",
-      "participants": 19,
-      "home": "http://www.w3.org/community/opendatadir/",
-      "id": "opendatadir",
-      "messages": 1,
-      "cluster": "open data"
-    },
-    "opendatanepal": {
-      "name": "Open Data Nepal",
-      "participants": 7,
-      "home": "http://www.w3.org/community/opendatanepal/",
-      "id": "opendatanepal",
-      "messages": 1,
-      "cluster": "open data"
-    },
-    "opendataspain": {
-      "name": "Open Data Spain",
-      "participants": 74,
-      "home": "http://www.w3.org/community/opendataspain/",
-      "id": "opendataspain",
-      "messages": 2,
-      "cluster": "open data"
-    },
-    "oerschema": {
-      "name": "Open Educational Resources Schema",
-      "participants": 16,
-      "home": "http://www.w3.org/community/oerschema/",
-      "id": "oerschema",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "opengov": {
-      "name": "Open Government",
-      "participants": 102,
-      "home": "http://www.w3.org/community/opengov/",
-      "id": "opengov",
-      "messages": 5,
-      "cluster": "egov"
-    },
-    "opened": {
-      "name": "Open Linked Education",
-      "participants": 70,
-      "home": "http://www.w3.org/community/opened/",
-      "id": "opened",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "opensci": {
-      "name": "Open Science",
-      "participants": 10,
-      "home": "http://www.w3.org/community/opensci/",
-      "id": "opensci",
-      "messages": 2,
-      "cluster": null
-    },
-    "stemwidgets": {
-      "name": "Open and Interactive Widgets for STEM",
-      "participants": 9,
-      "home": "http://www.w3.org/community/stemwidgets/",
-      "id": "stemwidgets",
-      "messages": 1,
-      "cluster": null
-    },
-    "kiss": {
-      "name": "Open knowledge-driven service-oriented system architectures and APIs (KiSS)",
-      "participants": 14,
-      "home": "http://www.w3.org/community/kiss/",
-      "id": "kiss",
-      "messages": 2,
-      "cluster": "semantic Web"
-    },
-    "openactive": {
-      "name": "OpenActive",
-      "participants": 70,
-      "home": "http://www.w3.org/community/openactive/",
-      "id": "openactive",
-      "messages": 24,
-      "cluster": null
-    },
-    "opentrack": {
-      "name": "OpenTrack",
-      "participants": 19,
-      "home": "http://www.w3.org/community/opentrack/",
-      "id": "opentrack",
-      "messages": 55,
-      "cluster": null
-    },
-    "opd": {
-      "name": "Organisation Profile Documents",
-      "participants": 2,
-      "home": "http://www.w3.org/community/opd/",
-      "id": "opd",
-      "messages": 1,
-      "cluster": null
-    },
-    "pdf-open-data": {
-      "name": "PDF and Open Data",
-      "participants": 16,
-      "home": "http://www.w3.org/community/pdf-open-data/",
-      "id": "pdf-open-data",
-      "messages": 1,
-      "cluster": "open data"
-    },
-    "paidcontent": {
-      "name": "Paid Content",
-      "participants": 0,
-      "home": "http://www.w3.org/community/paidcontent/",
-      "id": "paidcontent",
-      "messages": 1,
-      "cluster": null
-    },
-    "perma-id": {
-      "name": "Permanent Identifier",
-      "participants": 37,
-      "home": "http://www.w3.org/community/perma-id/",
-      "id": "perma-id",
-      "messages": 7,
-      "cluster": null
-    },
-    "philoweb": {
-      "name": "Philosophy of the Web",
-      "participants": 68,
-      "home": "http://www.w3.org/community/philoweb/",
-      "id": "philoweb",
-      "messages": 1,
-      "cluster": null
-    },
-    "physical-ledger": {
-      "name": "Physical Ledger",
-      "participants": 6,
-      "home": "http://www.w3.org/community/physical-ledger/",
-      "id": "physical-ledger",
       "messages": 0,
       "cluster": null
     },
-    "places": {
-      "name": "Places",
-      "participants": 24,
-      "home": "http://www.w3.org/community/places/",
-      "id": "places",
-      "messages": 1,
-      "cluster": null
-    },
-    "ppl": {
-      "name": "Print and Page Layout",
-      "participants": 51,
-      "home": "http://www.w3.org/community/ppl/",
-      "id": "ppl",
-      "messages": 3,
-      "cluster": null
-    },
-    "pua": {
-      "name": "Private User Agent",
-      "participants": 8,
-      "home": "http://www.w3.org/community/pua/",
-      "id": "pua",
-      "messages": 1,
-      "cluster": null
-    },
-    "pronto": {
-      "name": "Process Ontology",
-      "participants": 2,
-      "home": "http://www.w3.org/community/pronto/",
-      "id": "pronto",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "propertygraphs": {
-      "name": "Property Graphs Model and API",
-      "participants": 22,
-      "home": "http://www.w3.org/community/propertygraphs/",
-      "id": "propertygraphs",
-      "messages": 1,
-      "cluster": null
-    },
-    "pubsub": {
-      "name": "PubSubHubbub",
-      "participants": 43,
-      "home": "http://www.w3.org/community/pubsub/",
-      "id": "pubsub",
-      "messages": 1,
-      "cluster": null
-    },
-    "palcg": {
-      "name": "Public Alert",
-      "participants": 3,
-      "home": "http://www.w3.org/community/palcg/",
-      "id": "palcg",
-      "messages": 1,
-      "cluster": null
-    },
-    "pom": {
-      "name": "Publications Object Model",
-      "participants": 12,
-      "home": "http://www.w3.org/community/pom/",
-      "id": "pom",
-      "messages": 1,
-      "cluster": null
-    },
-    "quickfix": {
-      "name": "Quick-fix support for XML",
-      "participants": 27,
-      "home": "http://www.w3.org/community/quickfix/",
-      "id": "quickfix",
-      "messages": 2,
-      "cluster": "XML"
-    },
-    "rdfjs": {
-      "name": "RDF JavaScript Libraries",
-      "participants": 62,
-      "home": "http://www.w3.org/community/rdfjs/",
-      "id": "rdfjs",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "rsp": {
-      "name": "RDF Stream Processing",
-      "participants": 107,
-      "home": "http://www.w3.org/community/rsp/",
-      "id": "rsp",
-      "messages": 7,
-      "cluster": "semantic Web"
-    },
-    "rdf-tests": {
-      "name": "RDF Test Suite Curation",
-      "participants": 19,
-      "home": "http://www.w3.org/community/rdf-tests/",
-      "id": "rdf-tests",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "rax": {
-      "name": "RDF and XML Interoperability",
-      "participants": 37,
-      "home": "http://www.w3.org/community/rax/",
-      "id": "rax",
-      "messages": 2,
-      "cluster": "semantic Web"
-    },
-    "rsocket": {
-      "name": "RSocket Protocol Specification",
-      "participants": 6,
-      "home": "http://www.w3.org/community/rsocket/",
-      "id": "rsocket",
-      "messages": 8,
-      "cluster": null
-    },
-    "rww": {
-      "name": "Read Write Web",
-      "participants": 92,
-      "home": "http://www.w3.org/community/rww/",
-      "id": "rww",
-      "messages": 27,
-      "cluster": null
-    },
-    "remotedom": {
-      "name": "Remote DOM",
-      "participants": 9,
-      "home": "http://www.w3.org/community/remotedom/",
-      "id": "remotedom",
-      "messages": 1,
-      "cluster": null
-    },
-    "rosc": {
-      "name": "Research Object for Scholarly Communication",
-      "participants": 91,
-      "home": "http://www.w3.org/community/rosc/",
-      "id": "rosc",
-      "messages": 1,
-      "cluster": null
-    },
-    "rtos": {
-      "name": "Respectful Terms of Service",
-      "participants": 6,
-      "home": "http://www.w3.org/community/rtos/",
-      "id": "rtos",
-      "messages": 1,
-      "cluster": null
-    },
-    "respimg": {
-      "name": "Responsive Issues",
-      "participants": 437,
-      "home": "http://www.w3.org/community/respimg/",
-      "id": "respimg",
-      "messages": 1,
-      "cluster": null
-    },
-    "restonto": {
-      "name": "Restaurant Ontology",
-      "participants": 13,
-      "home": "http://www.w3.org/community/restonto/",
-      "id": "restonto",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "restrictedmedia": {
-      "name": "Restricted Media",
-      "participants": 52,
-      "home": "http://www.w3.org/community/restrictedmedia/",
-      "id": "restrictedmedia",
-      "messages": 1,
-      "cluster": "media"
-    },
-    "w3process": {
-      "name": "Revising W3C Process",
-      "participants": 39,
-      "home": "http://www.w3.org/community/w3process/",
-      "id": "w3process",
-      "messages": 20,
-      "cluster": "W3C"
-    },
-    "irobar": {
-      "name": "Robustness and Archiving",
-      "participants": 12,
-      "home": "http://www.w3.org/community/irobar/",
-      "id": "irobar",
-      "messages": 1,
-      "cluster": null
-    },
-    "sdshare": {
-      "name": "SDshare",
-      "participants": 20,
-      "home": "http://www.w3.org/community/sdshare/",
-      "id": "sdshare",
-      "messages": 1,
-      "cluster": null
-    },
-    "shacl": {
-      "name": "SHACL",
-      "participants": 30,
-      "home": "http://www.w3.org/community/shacl/",
-      "id": "shacl",
-      "messages": 10,
-      "cluster": null
-    },
-    "skosowlinterop": {
-      "name": "SKOS and OWL for Interoperabilty",
-      "participants": 13,
-      "home": "http://www.w3.org/community/skosowlinterop/",
-      "id": "skosowlinterop",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "sparql-exists": {
-      "name": "SPARQL Maintenance (EXISTS)",
-      "participants": 20,
-      "home": "http://www.w3.org/community/sparql-exists/",
-      "id": "sparql-exists",
-      "messages": 11,
-      "cluster": "semantic Web"
-    },
-    "svgmap": {
-      "name": "SVG Mapping",
+    "opensci": {
+      "name": "Open Science",
       "participants": 16,
-      "home": "http://www.w3.org/community/svgmap/",
-      "id": "svgmap",
-      "messages": 1,
-      "cluster": "SVG"
+      "home": "http://www.w3.org/community/opensci/",
+      "id": "opensci",
+      "messages": 0,
+      "cluster": null
     },
-    "svgstreaming": {
-      "name": "SVG Streaming",
-      "participants": 6,
-      "home": "http://www.w3.org/community/svgstreaming/",
-      "id": "svgstreaming",
-      "messages": 1,
-      "cluster": "SVG"
-    },
-    "svgopentype": {
-      "name": "SVG glyphs for OpenType",
-      "participants": 19,
-      "home": "http://www.w3.org/community/svgopentype/",
-      "id": "svgopentype",
-      "messages": 1,
-      "cluster": "SVG"
-    },
-    "architypes": {
-      "name": "Schema Architypes",
-      "participants": 64,
-      "home": "http://www.w3.org/community/architypes/",
-      "id": "architypes",
-      "messages": 5,
-      "cluster": "semantic Web"
-    },
-    "schemabibex": {
-      "name": "Schema Bib Extend",
-      "participants": 104,
-      "home": "http://www.w3.org/community/schemabibex/",
-      "id": "schemabibex",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "schema-course-extend": {
-      "name": "Schema Course extension",
-      "participants": 46,
-      "home": "http://www.w3.org/community/schema-course-extend/",
-      "id": "schema-course-extend",
-      "messages": 4,
-      "cluster": "semantic Web"
+    "dui": {
+      "name": "Distributed User Interfaces",
+      "participants": 10,
+      "home": "http://www.w3.org/community/dui/",
+      "id": "dui",
+      "messages": 0,
+      "cluster": null
     },
     "schema-gen": {
       "name": "Schema Generator",
       "participants": 18,
       "home": "http://www.w3.org/community/schema-gen/",
       "id": "schema-gen",
-      "messages": 1,
+      "messages": 0,
       "cluster": "semantic Web"
     },
-    "schemaorg": {
-      "name": "Schema.org",
-      "participants": 317,
-      "home": "http://www.w3.org/community/schemaorg/",
-      "id": "schemaorg",
-      "messages": 56,
+    "dwbp": {
+      "name": "Data on the Web Best Practices",
+      "participants": 22,
+      "home": "http://www.w3.org/community/dwbp/",
+      "id": "dwbp",
+      "messages": 0,
+      "cluster": null
+    },
+    "httpslocal": {
+      "name": "HTTPS in Local Network",
+      "participants": 41,
+      "home": "http://www.w3.org/community/httpslocal/",
+      "id": "httpslocal",
+      "messages": 0,
+      "cluster": null
+    },
+    "enterprise-ethereum": {
+      "name": "Enterprise Ethereum",
+      "participants": 24,
+      "home": "http://www.w3.org/community/enterprise-ethereum/",
+      "id": "enterprise-ethereum",
+      "messages": 0,
+      "cluster": null
+    },
+    "skosowlinterop": {
+      "name": "SKOS and OWL for Interoperabilty",
+      "participants": 17,
+      "home": "http://www.w3.org/community/skosowlinterop/",
+      "id": "skosowlinterop",
+      "messages": 0,
       "cluster": "semantic Web"
     },
     "schemaorg4datasets": {
       "name": "Schema.org for datasets",
-      "participants": 40,
+      "participants": 41,
       "home": "http://www.w3.org/community/schemaorg4datasets/",
       "id": "schemaorg4datasets",
-      "messages": 1,
+      "messages": 0,
       "cluster": "semantic Web"
     },
-    "scholarlyhtml": {
-      "name": "Scholarly HTML",
-      "participants": 56,
-      "home": "http://www.w3.org/community/scholarlyhtml/",
-      "id": "scholarlyhtml",
-      "messages": 2,
-      "cluster": "HTML"
+    "videogameschema": {
+      "name": "Video Game Schema",
+      "participants": 12,
+      "home": "http://www.w3.org/community/videogameschema/",
+      "id": "videogameschema",
+      "messages": 0,
+      "cluster": "semantic Web"
     },
-    "scriptlib": {
-      "name": "Script Library",
-      "participants": 24,
-      "home": "http://www.w3.org/community/scriptlib/",
-      "id": "scriptlib",
-      "messages": 1,
+    "decwebvr": {
+      "name": "Declarative WebVR",
+      "participants": 41,
+      "home": "http://www.w3.org/community/decwebvr/",
+      "id": "decwebvr",
+      "messages": 0,
       "cluster": null
     },
-    "webscreens": {
-      "name": "Second Screen",
-      "participants": 61,
-      "home": "http://www.w3.org/community/webscreens/",
-      "id": "webscreens",
-      "messages": 32,
+    "chainpoint": {
+      "name": "Chainpoint",
+      "participants": 29,
+      "home": "http://www.w3.org/community/chainpoint/",
+      "id": "chainpoint",
+      "messages": 0,
       "cluster": null
     },
-    "semnews": {
-      "name": "Semantic News",
-      "participants": 49,
-      "home": "http://www.w3.org/community/semnews/",
-      "id": "semnews",
-      "messages": 1,
+    "webmediaapi": {
+      "name": "Web Media API",
+      "participants": 44,
+      "home": "http://www.w3.org/community/webmediaapi/",
+      "id": "webmediaapi",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "exp-protocols": {
+      "name": "experimental protocols",
+      "participants": 12,
+      "home": "http://www.w3.org/community/exp-protocols/",
+      "id": "exp-protocols",
+      "messages": 0,
+      "cluster": null
+    },
+    "sparql-exists": {
+      "name": "SPARQL Maintenance (EXISTS)",
+      "participants": 15,
+      "home": "http://www.w3.org/community/sparql-exists/",
+      "id": "sparql-exists",
+      "messages": 0,
       "cluster": "semantic Web"
     },
-    "sodata": {
-      "name": "Semantic Open Data",
-      "participants": 25,
-      "home": "http://www.w3.org/community/sodata/",
-      "id": "sodata",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "ssn-cg": {
-      "name": "Semantic Sensor Networks",
-      "participants": 57,
-      "home": "http://www.w3.org/community/ssn-cg/",
-      "id": "ssn-cg",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "semstats": {
-      "name": "Semantic Statistics",
-      "participants": 30,
-      "home": "http://www.w3.org/community/semstats/",
-      "id": "semstats",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "swim": {
-      "name": "Semantic Water interoperability Model",
-      "participants": 4,
-      "home": "http://www.w3.org/community/swim/",
-      "id": "swim",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "semwebprog": {
-      "name": "Semantic Web Programming Languages",
-      "participants": 47,
-      "home": "http://www.w3.org/community/semwebprog/",
-      "id": "semwebprog",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "hclscg": {
-      "name": "Semantic Web in Health Care and Life Sciences",
+    "oerschema": {
+      "name": "Open Educational Resources Schema",
       "participants": 28,
-      "home": "http://www.w3.org/community/hclscg/",
-      "id": "hclscg",
-      "messages": 9,
+      "home": "http://www.w3.org/community/oerschema/",
+      "id": "oerschema",
+      "messages": 0,
       "cluster": "semantic Web"
-    },
-    "base": {
-      "name": "Semantic building data",
-      "participants": 8,
-      "home": "http://www.w3.org/community/base/",
-      "id": "base",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "sesmanbro": {
-      "name": "Session management functionality exposed to the browser",
-      "participants": 7,
-      "home": "http://www.w3.org/community/sesmanbro/",
-      "id": "sesmanbro",
-      "messages": 1,
-      "cluster": "browser"
-    },
-    "shex": {
-      "name": "Shape Expressions",
-      "participants": 30,
-      "home": "http://www.w3.org/community/shex/",
-      "id": "shex",
-      "messages": 28,
-      "cluster": null
-    },
-    "silver": {
-      "name": "Silver",
-      "participants": 81,
-      "home": "http://www.w3.org/community/silver/",
-      "id": "silver",
-      "messages": 157,
-      "cluster": null
     },
     "smartmfg": {
       "name": "Smart Manufacturing",
-      "participants": 10,
+      "participants": 12,
       "home": "http://www.w3.org/community/smartmfg/",
       "id": "smartmfg",
-      "messages": 1,
+      "messages": 0,
       "cluster": null
     },
-    "spade": {
-      "name": "Smart Phone Application Developer",
+    "playlist-a11y": {
+      "name": "Accessible Playlist",
+      "participants": 11,
+      "home": "http://www.w3.org/community/playlist-a11y/",
+      "id": "playlist-a11y",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "rax": {
+      "name": "RDF and XML Interoperability",
+      "participants": 32,
+      "home": "http://www.w3.org/community/rax/",
+      "id": "rax",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "mathonwebpages": {
+      "name": "Getting Math onto Web Pages",
+      "participants": 56,
+      "home": "http://www.w3.org/community/mathonwebpages/",
+      "id": "mathonwebpages",
+      "messages": 0,
+      "cluster": null
+    },
+    "bde": {
+      "name": "Big Data Europe",
+      "participants": 34,
+      "home": "http://www.w3.org/community/bde/",
+      "id": "bde",
+      "messages": 0,
+      "cluster": null
+    },
+    "hb-secure-services": {
+      "name": "Hardware Based Secure Services",
+      "participants": 34,
+      "home": "http://www.w3.org/community/hb-secure-services/",
+      "id": "hb-secure-services",
+      "messages": 0,
+      "cluster": null
+    },
+    "datapipelining": {
+      "name": "Data Pipelining Use Cases",
+      "participants": 24,
+      "home": "http://www.w3.org/community/datapipelining/",
+      "id": "datapipelining",
+      "messages": 0,
+      "cluster": null
+    },
+    "meat": {
+      "name": "Meat Products",
       "participants": 13,
-      "home": "http://www.w3.org/community/spade/",
-      "id": "spade",
-      "messages": 1,
+      "home": "http://www.w3.org/community/meat/",
+      "id": "meat",
+      "messages": 0,
+      "cluster": null
+    },
+    "wwca": {
+      "name": "Web We Can Afford",
+      "participants": 60,
+      "home": "http://www.w3.org/community/wwca/",
+      "id": "wwca",
+      "messages": 0,
+      "cluster": null
+    },
+    "csvw": {
+      "name": "CSV on the Web",
+      "participants": 34,
+      "home": "http://www.w3.org/community/csvw/",
+      "id": "csvw",
+      "messages": 8,
+      "cluster": null
+    },
+    "schema-course-extend": {
+      "name": "Schema Course extension",
+      "participants": 46,
+      "home": "http://www.w3.org/community/schema-course-extend/",
+      "id": "schema-course-extend",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "tourismdata": {
+      "name": "The Tourism Structured Web Data",
+      "participants": 52,
+      "home": "http://www.w3.org/community/tourismdata/",
+      "id": "tourismdata",
+      "messages": 0,
+      "cluster": null
+    },
+    "scholarlyhtml": {
+      "name": "Scholarly HTML",
+      "participants": 52,
+      "home": "http://www.w3.org/community/scholarlyhtml/",
+      "id": "scholarlyhtml",
+      "messages": 0,
+      "cluster": "HTML"
+    },
+    "kiss": {
+      "name": "Open knowledge-driven service-oriented system architectures and APIs (KiSS)",
+      "participants": 14,
+      "home": "http://www.w3.org/community/kiss/",
+      "id": "kiss",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "vrwebmetaverse": {
+      "name": "Virtual Reality website and Metaverse",
+      "participants": 21,
+      "home": "http://www.w3.org/community/vrwebmetaverse/",
+      "id": "vrwebmetaverse",
+      "messages": 0,
+      "cluster": null
+    },
+    "fibo": {
+      "name": "Financial Industry Business Ontology",
+      "participants": 56,
+      "home": "http://www.w3.org/community/fibo/",
+      "id": "fibo",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "datasheets": {
+      "name": "DataSheets",
+      "participants": 5,
+      "home": "http://www.w3.org/community/datasheets/",
+      "id": "datasheets",
+      "messages": 0,
+      "cluster": null
+    },
+    "webarchivability": {
+      "name": "Web Archivability",
+      "participants": 21,
+      "home": "http://www.w3.org/community/webarchivability/",
+      "id": "webarchivability",
+      "messages": 0,
+      "cluster": null
+    },
+    "pom": {
+      "name": "Publications Object Model",
+      "participants": 14,
+      "home": "http://www.w3.org/community/pom/",
+      "id": "pom",
+      "messages": 0,
+      "cluster": null
+    },
+    "semtechdoc": {
+      "name": "Technical Documentation in the Semantic Web",
+      "participants": 11,
+      "home": "http://www.w3.org/community/semtechdoc/",
+      "id": "semtechdoc",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "awpat": {
+      "name": "Advancing Web Platform Application Testing",
+      "participants": 26,
+      "home": "http://www.w3.org/community/awpat/",
+      "id": "awpat",
+      "messages": 0,
       "cluster": null
     },
     "economy": {
@@ -1774,624 +310,2592 @@
       "participants": 21,
       "home": "http://www.w3.org/community/economy/",
       "id": "economy",
-      "messages": 1,
+      "messages": 0,
       "cluster": null
     },
-    "socialcg": {
-      "name": "Social Web Incubator",
-      "participants": 65,
-      "home": "http://www.w3.org/community/socialcg/",
-      "id": "socialcg",
-      "messages": null,
+    "xapivocabulary": {
+      "name": "Experience API (xAPI) Vocabulary & Semantic Interoperability",
+      "participants": 27,
+      "home": "http://www.w3.org/community/xapivocabulary/",
+      "id": "xapivocabulary",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "ldpnext": {
+      "name": "LDP Next",
+      "participants": 36,
+      "home": "http://www.w3.org/community/ldpnext/",
+      "id": "ldpnext",
+      "messages": 0,
       "cluster": null
     },
-    "speech-api": {
-      "name": "Speech API",
-      "participants": 75,
-      "home": "http://www.w3.org/community/speech-api/",
-      "id": "speech-api",
-      "messages": 4,
-      "cluster": null
+    "architypes": {
+      "name": "Schema Architypes",
+      "participants": 64,
+      "home": "http://www.w3.org/community/architypes/",
+      "id": "architypes",
+      "messages": 0,
+      "cluster": "semantic Web"
     },
     "sport-schema": {
       "name": "Sport Schema",
-      "participants": 20,
+      "participants": 21,
       "home": "http://www.w3.org/community/sport-schema/",
       "id": "sport-schema",
-      "messages": 1,
+      "messages": 0,
       "cluster": "semantic Web"
-    },
-    "stereoweb": {
-      "name": "Stereoscopic 3D Web",
-      "participants": 8,
-      "home": "http://www.w3.org/community/stereoweb/",
-      "id": "stereoweb",
-      "messages": 1,
-      "cluster": null
     },
     "stroke-fonts": {
       "name": "Stroke Fonts",
-      "participants": 15,
+      "participants": 16,
       "home": "http://www.w3.org/community/stroke-fonts/",
       "id": "stroke-fonts",
-      "messages": 1,
+      "messages": 0,
       "cluster": null
     },
-    "sustyweb": {
-      "name": "Sustainable Web Design",
-      "participants": 40,
-      "home": "http://www.w3.org/community/sustyweb/",
-      "id": "sustyweb",
-      "messages": 1,
+    "linkedculture": {
+      "name": "Exposing and Linking Cultural Heritage data",
+      "participants": 19,
+      "home": "http://www.w3.org/community/linkedculture/",
+      "id": "linkedculture",
+      "messages": 0,
       "cluster": null
     },
-    "sync-media-pub": {
-      "name": "Synchronized Multimedia for Publications",
+    "schemed": {
+      "name": "Healthcare Schema Vocabulary",
+      "participants": 44,
+      "home": "http://www.w3.org/community/schemed/",
+      "id": "schemed",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "gao": {
+      "name": "Automotive Ontology",
+      "participants": 89,
+      "home": "http://www.w3.org/community/gao/",
+      "id": "gao",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "browserext": {
+      "name": "Browser Extension",
+      "participants": 55,
+      "home": "http://www.w3.org/community/browserext/",
+      "id": "browserext",
+      "messages": 0,
+      "cluster": "browser"
+    },
+    "restonto": {
+      "name": "Restaurant Ontology",
+      "participants": 14,
+      "home": "http://www.w3.org/community/restonto/",
+      "id": "restonto",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "annoux": {
+      "name": "Annotation UX",
+      "participants": 27,
+      "home": "http://www.w3.org/community/annoux/",
+      "id": "annoux",
+      "messages": 0,
+      "cluster": null
+    },
+    "wearableweb": {
+      "name": "Wearable Web",
       "participants": 12,
-      "home": "http://www.w3.org/community/sync-media-pub/",
-      "id": "sync-media-pub",
-      "messages": 15,
-      "cluster": "media"
+      "home": "http://www.w3.org/community/wearableweb/",
+      "id": "wearableweb",
+      "messages": 0,
+      "cluster": null
+    },
+    "decsharing": {
+      "name": "Decentralized Sharing",
+      "participants": 21,
+      "home": "http://www.w3.org/community/decsharing/",
+      "id": "decsharing",
+      "messages": 0,
+      "cluster": null
+    },
+    "cryptoledgers": {
+      "name": "Cryptoledgers",
+      "participants": 29,
+      "home": "http://www.w3.org/community/cryptoledgers/",
+      "id": "cryptoledgers",
+      "messages": 2,
+      "cluster": null
+    },
+    "omn": {
+      "name": "Federated Infrastructures",
+      "participants": 18,
+      "home": "http://www.w3.org/community/omn/",
+      "id": "omn",
+      "messages": 0,
+      "cluster": null
+    },
+    "html5kr": {
+      "name": "HTML5 Korean",
+      "participants": 52,
+      "home": "http://www.w3.org/community/html5kr/",
+      "id": "html5kr",
+      "messages": 0,
+      "cluster": "HTML"
+    },
+    "xdmdl": {
+      "name": "Extensible Data Model Declaration Language for Education",
+      "participants": 11,
+      "home": "http://www.w3.org/community/xdmdl/",
+      "id": "xdmdl",
+      "messages": 0,
+      "cluster": null
+    },
+    "lom2ld": {
+      "name": "Exposing IEEE LOM metadata as Linked Data",
+      "participants": 7,
+      "home": "http://www.w3.org/community/lom2ld/",
+      "id": "lom2ld",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "htacg": {
+      "name": "HTML Tidy Advocacy",
+      "participants": 11,
+      "home": "http://www.w3.org/community/htacg/",
+      "id": "htacg",
+      "messages": 0,
+      "cluster": "HTML"
+    },
+    "trustperms": {
+      "name": "Trust & Permissions",
+      "participants": 10,
+      "home": "http://www.w3.org/community/trustperms/",
+      "id": "trustperms",
+      "messages": 0,
+      "cluster": null
+    },
+    "html5jp": {
+      "name": "HTML5 Japanese",
+      "participants": 66,
+      "home": "http://www.w3.org/community/html5jp/",
+      "id": "html5jp",
+      "messages": 0,
+      "cluster": "HTML"
+    },
+    "datavis": {
+      "name": "Data Visualization",
+      "participants": 52,
+      "home": "http://www.w3.org/community/datavis/",
+      "id": "datavis",
+      "messages": 0,
+      "cluster": null
+    },
+    "benchweb": {
+      "name": "Benchmarking for the Web",
+      "participants": 9,
+      "home": "http://www.w3.org/community/benchweb/",
+      "id": "benchweb",
+      "messages": 0,
+      "cluster": null
+    },
+    "colourblindness": {
+      "name": "Colour blindness accessibility",
+      "participants": 20,
+      "home": "http://www.w3.org/community/colourblindness/",
+      "id": "colourblindness",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "exploresemdata": {
+      "name": "Exploration of Semantic Data",
+      "participants": 32,
+      "home": "http://www.w3.org/community/exploresemdata/",
+      "id": "exploresemdata",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "browserobo": {
+      "name": "Browsers and Robotics",
+      "participants": 18,
+      "home": "http://www.w3.org/community/browserobo/",
+      "id": "browserobo",
+      "messages": 1,
+      "cluster": "browser"
+    },
+    "agri": {
+      "name": "Agriculture",
+      "participants": 61,
+      "home": "http://www.w3.org/community/agri/",
+      "id": "agri",
+      "messages": 0,
+      "cluster": null
+    },
+    "cdl": {
+      "name": "Character Description Language",
+      "participants": 21,
+      "home": "http://www.w3.org/community/cdl/",
+      "id": "cdl",
+      "messages": 0,
+      "cluster": null
+    },
+    "browsersync": {
+      "name": "Browser Sync",
+      "participants": 12,
+      "home": "http://www.w3.org/community/browsersync/",
+      "id": "browsersync",
+      "messages": 0,
+      "cluster": "browser"
+    },
+    "irobar": {
+      "name": "Robustness and Archiving",
+      "participants": 11,
+      "home": "http://www.w3.org/community/irobar/",
+      "id": "irobar",
+      "messages": 0,
+      "cluster": null
     },
     "tvapi": {
       "name": "TV Control API",
-      "participants": 49,
+      "participants": 42,
       "home": "http://www.w3.org/community/tvapi/",
       "id": "tvapi",
-      "messages": 1,
+      "messages": 0,
+      "cluster": null
+    },
+    "collaboration": {
+      "name": "Collaborative Software",
+      "participants": 24,
+      "home": "http://www.w3.org/community/collaboration/",
+      "id": "collaboration",
+      "messages": 0,
+      "cluster": null
+    },
+    "htmail": {
+      "name": "HTML for email",
+      "participants": 116,
+      "home": "http://www.w3.org/community/htmail/",
+      "id": "htmail",
+      "messages": 0,
+      "cluster": "HTML"
+    },
+    "webize": {
+      "name": "Webize Everything",
+      "participants": 13,
+      "home": "http://www.w3.org/community/webize/",
+      "id": "webize",
+      "messages": 0,
+      "cluster": null
+    },
+    "cndpubcg": {
+      "name": "Chinese Digital Publishing",
+      "participants": 29,
+      "home": "http://www.w3.org/community/cndpubcg/",
+      "id": "cndpubcg",
+      "messages": 0,
+      "cluster": null
+    },
+    "sentiment": {
+      "name": "Linked Data Models for Emotion and Sentiment Analysis",
+      "participants": 42,
+      "home": "http://www.w3.org/community/sentiment/",
+      "id": "sentiment",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "semstats": {
+      "name": "Semantic Statistics",
+      "participants": 33,
+      "home": "http://www.w3.org/community/semstats/",
+      "id": "semstats",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "svgstreaming": {
+      "name": "SVG Streaming",
+      "participants": 6,
+      "home": "http://www.w3.org/community/svgstreaming/",
+      "id": "svgstreaming",
+      "messages": 0,
+      "cluster": "SVG"
+    },
+    "inbandtracks": {
+      "name": "Media Resource In-band Tracks",
+      "participants": 11,
+      "home": "http://www.w3.org/community/inbandtracks/",
+      "id": "inbandtracks",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "stemwidgets": {
+      "name": "Open and Interactive Widgets for STEM",
+      "participants": 4,
+      "home": "http://www.w3.org/community/stemwidgets/",
+      "id": "stemwidgets",
+      "messages": 0,
+      "cluster": null
+    },
+    "web-copyright": {
+      "name": "Web Copyright",
+      "participants": 11,
+      "home": "http://www.w3.org/community/web-copyright/",
+      "id": "web-copyright",
+      "messages": 0,
+      "cluster": null
+    },
+    "stereoweb": {
+      "name": "Stereoscopic 3D Web",
+      "participants": 9,
+      "home": "http://www.w3.org/community/stereoweb/",
+      "id": "stereoweb",
+      "messages": 0,
+      "cluster": null
+    },
+    "traffic": {
+      "name": "Traffic Event Ontology",
+      "participants": 10,
+      "home": "http://www.w3.org/community/traffic/",
+      "id": "traffic",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "propertygraphs": {
+      "name": "Property Graphs Model and API",
+      "participants": 21,
+      "home": "http://www.w3.org/community/propertygraphs/",
+      "id": "propertygraphs",
+      "messages": 0,
+      "cluster": null
+    },
+    "cnwa": {
+      "name": "Chinese Web Accessibility",
+      "participants": 32,
+      "home": "http://www.w3.org/community/cnwa/",
+      "id": "cnwa",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "fedid": {
+      "name": "Federated Identities for the Open Web",
+      "participants": 16,
+      "home": "http://www.w3.org/community/fedid/",
+      "id": "fedid",
+      "messages": 0,
+      "cluster": null
+    },
+    "agelabels": {
+      "name": "Age Labels Data Model",
+      "participants": 9,
+      "home": "http://www.w3.org/community/agelabels/",
+      "id": "agelabels",
+      "messages": 0,
+      "cluster": null
+    },
+    "offx": {
+      "name": "OFF/X",
+      "participants": 4,
+      "home": "http://www.w3.org/community/offx/",
+      "id": "offx",
+      "messages": 0,
+      "cluster": null
+    },
+    "mmarkup": {
+      "name": "Multi Markup",
+      "participants": 3,
+      "home": "http://www.w3.org/community/mmarkup/",
+      "id": "mmarkup",
+      "messages": 0,
+      "cluster": null
+    },
+    "egovernance": {
+      "name": "Electronic Governance (eGov)",
+      "participants": 53,
+      "home": "http://www.w3.org/community/egovernance/",
+      "id": "egovernance",
+      "messages": 0,
+      "cluster": "egov"
+    },
+    "svga11y": {
+      "name": "Accessible SVG",
+      "participants": 39,
+      "home": "http://www.w3.org/community/svga11y/",
+      "id": "svga11y",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "uad": {
+      "name": "Ubiquitous Application Design",
+      "participants": 23,
+      "home": "http://www.w3.org/community/uad/",
+      "id": "uad",
+      "messages": 0,
+      "cluster": null
+    },
+    "opendatadir": {
+      "name": "Open Data Directory",
+      "participants": 18,
+      "home": "http://www.w3.org/community/opendatadir/",
+      "id": "opendatadir",
+      "messages": 0,
+      "cluster": "open data"
+    },
+    "webappscp": {
+      "name": "Web App Source Code Protection",
+      "participants": 16,
+      "home": "http://www.w3.org/community/webappscp/",
+      "id": "webappscp",
+      "messages": 0,
+      "cluster": null
+    },
+    "argmntreprsnt": {
+      "name": "Argument Representation",
+      "participants": 6,
+      "home": "http://www.w3.org/community/argmntreprsnt/",
+      "id": "argmntreprsnt",
+      "messages": 0,
+      "cluster": null
+    },
+    "model": {
+      "name": "Algorithmic Modelling",
+      "participants": 18,
+      "home": "http://www.w3.org/community/model/",
+      "id": "model",
+      "messages": 0,
+      "cluster": null
+    },
+    "opened": {
+      "name": "Open Linked Education",
+      "participants": 64,
+      "home": "http://www.w3.org/community/opened/",
+      "id": "opened",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "restrictedmedia": {
+      "name": "Restricted Media",
+      "participants": 36,
+      "home": "http://www.w3.org/community/restrictedmedia/",
+      "id": "restrictedmedia",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "opengov": {
+      "name": "Open Government",
+      "participants": 81,
+      "home": "http://www.w3.org/community/opengov/",
+      "id": "opengov",
+      "messages": 0,
+      "cluster": "egov"
+    },
+    "vxmlcg": {
+      "name": "VoiceXML",
+      "participants": 7,
+      "home": "http://www.w3.org/community/vxmlcg/",
+      "id": "vxmlcg",
+      "messages": 0,
+      "cluster": "XML"
+    },
+    "interative-apis": {
+      "name": "Interactive APIs",
+      "participants": 16,
+      "home": "http://www.w3.org/community/interative-apis/",
+      "id": "interative-apis",
+      "messages": 0,
+      "cluster": null
+    },
+    "emergency": {
+      "name": "Emergency Information",
+      "participants": 46,
+      "home": "http://www.w3.org/community/emergency/",
+      "id": "emergency",
+      "messages": 0,
+      "cluster": null
+    },
+    "webhaptics": {
+      "name": "Haptic Interaction on the Web",
+      "participants": 11,
+      "home": "http://www.w3.org/community/webhaptics/",
+      "id": "webhaptics",
+      "messages": 0,
+      "cluster": null
+    },
+    "accessibilityinindia": {
+      "name": "Accessibility in India",
+      "participants": 118,
+      "home": "http://www.w3.org/community/accessibilityinindia/",
+      "id": "accessibilityinindia",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "opendataspain": {
+      "name": "Open Data Spain",
+      "participants": 53,
+      "home": "http://www.w3.org/community/opendataspain/",
+      "id": "opendataspain",
+      "messages": 0,
+      "cluster": "open data"
+    },
+    "sodata": {
+      "name": "Semantic Open Data",
+      "participants": 21,
+      "home": "http://www.w3.org/community/sodata/",
+      "id": "sodata",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "nextweb": {
+      "name": "Extensible Web",
+      "participants": 44,
+      "home": "http://www.w3.org/community/nextweb/",
+      "id": "nextweb",
+      "messages": 0,
+      "cluster": null
+    },
+    "custexpdata": {
+      "name": "Customer Experience Digital Data",
+      "participants": 108,
+      "home": "http://www.w3.org/community/custexpdata/",
+      "id": "custexpdata",
+      "messages": 0,
+      "cluster": null
+    },
+    "carto": {
+      "name": "Cartography",
+      "participants": 9,
+      "home": "http://www.w3.org/community/carto/",
+      "id": "carto",
+      "messages": 0,
+      "cluster": null
+    },
+    "change": {
+      "name": "Change Tracking Markup",
+      "participants": 22,
+      "home": "http://www.w3.org/community/change/",
+      "id": "change",
+      "messages": 0,
+      "cluster": null
+    },
+    "svgmap": {
+      "name": "SVG Mapping",
+      "participants": 11,
+      "home": "http://www.w3.org/community/svgmap/",
+      "id": "svgmap",
+      "messages": 0,
+      "cluster": "SVG"
+    },
+    "webperfs": {
+      "name": "Web Performance",
+      "participants": 22,
+      "home": "http://www.w3.org/community/webperfs/",
+      "id": "webperfs",
+      "messages": 0,
+      "cluster": null
+    },
+    "places": {
+      "name": "Places",
+      "participants": 19,
+      "home": "http://www.w3.org/community/places/",
+      "id": "places",
+      "messages": 0,
+      "cluster": null
+    },
+    "pua": {
+      "name": "Private User Agent",
+      "participants": 6,
+      "home": "http://www.w3.org/community/pua/",
+      "id": "pua",
+      "messages": 0,
+      "cluster": null
+    },
+    "law": {
+      "name": "Law and Technology",
+      "participants": 27,
+      "home": "http://www.w3.org/community/law/",
+      "id": "law",
+      "messages": 0,
+      "cluster": null
+    },
+    "locadd": {
+      "name": "Locations and Addresses",
+      "participants": 49,
+      "home": "http://www.w3.org/community/locadd/",
+      "id": "locadd",
+      "messages": 0,
+      "cluster": null
+    },
+    "mobileacc": {
+      "name": "Mobile Accessibility",
+      "participants": 39,
+      "home": "http://www.w3.org/community/mobileacc/",
+      "id": "mobileacc",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "microxml": {
+      "name": "MicroXML",
+      "participants": 31,
+      "home": "http://www.w3.org/community/microxml/",
+      "id": "microxml",
+      "messages": 0,
+      "cluster": "XML"
+    },
+    "xmlhypermedia": {
+      "name": "XML Hypermedia",
+      "participants": 6,
+      "home": "http://www.w3.org/community/xmlhypermedia/",
+      "id": "xmlhypermedia",
+      "messages": 0,
+      "cluster": "XML"
+    },
+    "dld": {
+      "name": "Development Linked Data",
+      "participants": 26,
+      "home": "http://www.w3.org/community/dld/",
+      "id": "dld",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "jseverywhere": {
+      "name": "Client and Server JavaScript APIs",
+      "participants": 35,
+      "home": "http://www.w3.org/community/jseverywhere/",
+      "id": "jseverywhere",
+      "messages": 0,
       "cluster": null
     },
     "opentag": {
       "name": "Technical Architecture",
-      "participants": 22,
+      "participants": 21,
       "home": "http://www.w3.org/community/opentag/",
       "id": "opentag",
-      "messages": 1,
+      "messages": 0,
       "cluster": null
     },
-    "semtechdoc": {
-      "name": "Technical Documentation in the Semantic Web",
-      "participants": 10,
-      "home": "http://www.w3.org/community/semtechdoc/",
-      "id": "semtechdoc",
-      "messages": 1,
+    "expath": {
+      "name": "EXPath",
+      "participants": 31,
+      "home": "http://www.w3.org/community/expath/",
+      "id": "expath",
+      "messages": 0,
+      "cluster": "XML"
+    },
+    "microposts": {
+      "name": "Microposts",
+      "participants": 17,
+      "home": "http://www.w3.org/community/microposts/",
+      "id": "microposts",
+      "messages": 0,
+      "cluster": null
+    },
+    "philoweb": {
+      "name": "Philosophy of the Web",
+      "participants": 59,
+      "home": "http://www.w3.org/community/philoweb/",
+      "id": "philoweb",
+      "messages": 0,
+      "cluster": null
+    },
+    "coders4africa": {
+      "name": "African Developers Taking on the Web",
+      "participants": 22,
+      "home": "http://www.w3.org/community/coders4africa/",
+      "id": "coders4africa",
+      "messages": 0,
+      "cluster": null
+    },
+    "wai-engage": {
+      "name": "WAI-Engage: Web Accessibility",
+      "participants": 76,
+      "home": "http://www.w3.org/community/wai-engage/",
+      "id": "wai-engage",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "webappstore": {
+      "name": "Web Application Store",
+      "participants": 15,
+      "home": "http://www.w3.org/community/webappstore/",
+      "id": "webappstore",
+      "messages": 0,
+      "cluster": null
+    },
+    "webapps-ui": {
+      "name": "WebApps UI",
+      "participants": 13,
+      "home": "http://www.w3.org/community/webapps-ui/",
+      "id": "webapps-ui",
+      "messages": 0,
+      "cluster": null
+    },
+    "mws": {
+      "name": "Multilingual Web Sites",
+      "participants": 28,
+      "home": "http://www.w3.org/community/mws/",
+      "id": "mws",
+      "messages": 0,
+      "cluster": null
+    },
+    "webobservatory": {
+      "name": "Web Observatory",
+      "participants": 54,
+      "home": "http://www.w3.org/community/webobservatory/",
+      "id": "webobservatory",
+      "messages": 0,
+      "cluster": null
+    },
+    "film": {
+      "name": "Film Industry",
+      "participants": 13,
+      "home": "http://www.w3.org/community/film/",
+      "id": "film",
+      "messages": 0,
+      "cluster": null
+    },
+    "cssselfrags": {
+      "name": "CSS Selectors as Fragment Identifiers",
+      "participants": 26,
+      "home": "http://www.w3.org/community/cssselfrags/",
+      "id": "cssselfrags",
+      "messages": 0,
+      "cluster": null
+    },
+    "ssn-cg": {
+      "name": "Semantic Sensor Networks",
+      "participants": 46,
+      "home": "http://www.w3.org/community/ssn-cg/",
+      "id": "ssn-cg",
+      "messages": 0,
       "cluster": "semantic Web"
     },
-    "hardware-pixels": {
-      "name": "The Hardware Pixel",
-      "participants": 3,
-      "home": "http://www.w3.org/community/hardware-pixels/",
-      "id": "hardware-pixels",
-      "messages": 1,
+    "sensorweb": {
+      "name": "Web of Sensors",
+      "participants": 32,
+      "home": "http://www.w3.org/community/sensorweb/",
+      "id": "sensorweb",
+      "messages": 0,
       "cluster": null
     },
-    "tourismdata": {
-      "name": "The Tourism Structured Web Data",
-      "participants": 38,
-      "home": "http://www.w3.org/community/tourismdata/",
-      "id": "tourismdata",
-      "messages": 1,
+    "xml-er": {
+      "name": "XML Error Recovery",
+      "participants": 13,
+      "home": "http://www.w3.org/community/xml-er/",
+      "id": "xml-er",
+      "messages": 0,
+      "cluster": "XML"
+    },
+    "decisionml": {
+      "name": "Decisions and Decision-Making",
+      "participants": 19,
+      "home": "http://www.w3.org/community/decisionml/",
+      "id": "decisionml",
+      "messages": 0,
       "cluster": null
+    },
+    "spade": {
+      "name": "Smart Phone Application Developer",
+      "participants": 10,
+      "home": "http://www.w3.org/community/spade/",
+      "id": "spade",
+      "messages": 0,
+      "cluster": null
+    },
+    "learnonline": {
+      "name": "E-learning: Evolving technologies and growing reach",
+      "participants": 47,
+      "home": "http://www.w3.org/community/learnonline/",
+      "id": "learnonline",
+      "messages": 0,
+      "cluster": null
+    },
+    "d-tasks": {
+      "name": "Distributed Tasks",
+      "participants": 6,
+      "home": "http://www.w3.org/community/d-tasks/",
+      "id": "d-tasks",
+      "messages": 0,
+      "cluster": null
+    },
+    "mobindic": {
+      "name": "Mobile Web in Indian Languages",
+      "participants": 9,
+      "home": "http://www.w3.org/community/mobindic/",
+      "id": "mobindic",
+      "messages": 0,
+      "cluster": "mobile"
+    },
+    "networkfriendly": {
+      "name": "Network-Friendly App and WebApp Best Practices",
+      "participants": 22,
+      "home": "http://www.w3.org/community/networkfriendly/",
+      "id": "networkfriendly",
+      "messages": 0,
+      "cluster": null
+    },
+    "data-driven-standards": {
+      "name": "Data Driven Standards",
+      "participants": 16,
+      "home": "http://www.w3.org/community/data-driven-standards/",
+      "id": "data-driven-standards",
+      "messages": 0,
+      "cluster": null
+    },
+    "cloud": {
+      "name": "Cloud Computing",
+      "participants": 44,
+      "home": "http://www.w3.org/community/cloud/",
+      "id": "cloud",
+      "messages": 0,
+      "cluster": null
+    },
+    "scriptlib": {
+      "name": "Script Library",
+      "participants": 13,
+      "home": "http://www.w3.org/community/scriptlib/",
+      "id": "scriptlib",
+      "messages": 0,
+      "cluster": null
+    },
+    "dntrack": {
+      "name": "Do-Not-Track",
+      "participants": 14,
+      "home": "http://www.w3.org/community/dntrack/",
+      "id": "dntrack",
+      "messages": 0,
+      "cluster": null
+    },
+    "svgopentype": {
+      "name": "SVG glyphs for OpenType",
+      "participants": 14,
+      "home": "http://www.w3.org/community/svgopentype/",
+      "id": "svgopentype",
+      "messages": 0,
+      "cluster": "SVG"
     },
     "timed-text": {
       "name": "Timed Text",
       "participants": 10,
       "home": "http://www.w3.org/community/timed-text/",
       "id": "timed-text",
-      "messages": 1,
+      "messages": 0,
       "cluster": null
     },
-    "touchevents": {
-      "name": "Touch Events",
-      "participants": 15,
-      "home": "http://www.w3.org/community/touchevents/",
-      "id": "touchevents",
-      "messages": 8,
-      "cluster": null
-    },
-    "traffic": {
-      "name": "Traffic Event Ontology",
-      "participants": 15,
-      "home": "http://www.w3.org/community/traffic/",
-      "id": "traffic",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "trustperms": {
-      "name": "Trust & Permissions",
-      "participants": 13,
-      "home": "http://www.w3.org/community/trustperms/",
-      "id": "trustperms",
-      "messages": 1,
-      "cluster": null
-    },
-    "urispec": {
-      "name": "URI Specification",
-      "participants": 8,
-      "home": "http://www.w3.org/community/urispec/",
-      "id": "urispec",
-      "messages": 1,
-      "cluster": null
-    },
-    "uad": {
-      "name": "Ubiquitous Application Design",
-      "participants": 27,
-      "home": "http://www.w3.org/community/uad/",
-      "id": "uad",
-      "messages": 1,
-      "cluster": null
-    },
-    "unhosted": {
-      "name": "Unhosted Web",
-      "participants": 38,
-      "home": "http://www.w3.org/community/unhosted/",
-      "id": "unhosted",
-      "messages": 1,
-      "cluster": null
-    },
-    "universalimages": {
-      "name": "Universal Images",
-      "participants": 8,
-      "home": "http://www.w3.org/community/universalimages/",
-      "id": "universalimages",
-      "messages": 1,
-      "cluster": null
-    },
-    "w3id": {
-      "name": "User Identity on the Web",
-      "participants": 23,
-      "home": "http://www.w3.org/community/w3id/",
-      "id": "w3id",
-      "messages": 1,
+    "networked-data": {
+      "name": "Networked Data",
+      "participants": 14,
+      "home": "http://www.w3.org/community/networked-data/",
+      "id": "networked-data",
+      "messages": 0,
       "cluster": null
     },
     "userix": {
       "name": "User Interaction and Experience",
-      "participants": 28,
+      "participants": 18,
       "home": "http://www.w3.org/community/userix/",
       "id": "userix",
-      "messages": 1,
+      "messages": 0,
       "cluster": null
     },
     "vivo": {
       "name": "VIVO Open Research Networking",
-      "participants": 20,
+      "participants": 8,
       "home": "http://www.w3.org/community/vivo/",
       "id": "vivo",
-      "messages": 1,
-      "cluster": null
-    },
-    "veres-one": {
-      "name": "Veres One",
-      "participants": 13,
-      "home": "http://www.w3.org/community/veres-one/",
-      "id": "veres-one",
-      "messages": 2,
-      "cluster": null
-    },
-    "videogameschema": {
-      "name": "Video Game Schema",
-      "participants": 8,
-      "home": "http://www.w3.org/community/videogameschema/",
-      "id": "videogameschema",
-      "messages": 1,
-      "cluster": "semantic Web"
-    },
-    "vrwebmetaverse": {
-      "name": "Virtual Reality website and Metaverse",
-      "participants": 13,
-      "home": "http://www.w3.org/community/vrwebmetaverse/",
-      "id": "vrwebmetaverse",
-      "messages": 1,
-      "cluster": null
-    },
-    "bigdata-tools": {
-      "name": "Vocabularies for big data analysis",
-      "participants": 13,
-      "home": "http://www.w3.org/community/bigdata-tools/",
-      "id": "bigdata-tools",
-      "messages": 1,
-      "cluster": null
-    },
-    "voiceinteraction": {
-      "name": "Voice Interaction",
-      "participants": 25,
-      "home": "http://www.w3.org/community/voiceinteraction/",
-      "id": "voiceinteraction",
-      "messages": 1,
-      "cluster": null
-    },
-    "vxmlcg": {
-      "name": "VoiceXML",
-      "participants": 11,
-      "home": "http://www.w3.org/community/vxmlcg/",
-      "id": "vxmlcg",
-      "messages": 1,
-      "cluster": "XML"
-    },
-    "devrel": {
-      "name": "W3C Developer Relations",
-      "participants": 26,
-      "home": "http://www.w3.org/community/devrel/",
-      "id": "devrel",
-      "messages": 1,
-      "cluster": "W3C"
-    },
-    "w3c-women": {
-      "name": "W3C Women",
-      "participants": 47,
-      "home": "http://www.w3.org/community/w3c-women/",
-      "id": "w3c-women",
-      "messages": 1,
-      "cluster": "W3C"
-    },
-    "wai-engage": {
-      "name": "WAI-Engage: Web Accessibility",
-      "participants": 72,
-      "home": "http://www.w3.org/community/wai-engage/",
-      "id": "wai-engage",
-      "messages": 3,
-      "cluster": "a11y"
-    },
-    "wearableweb": {
-      "name": "Wearable Web",
-      "participants": 11,
-      "home": "http://www.w3.org/community/wearableweb/",
-      "id": "wearableweb",
-      "messages": 1,
-      "cluster": null
-    },
-    "webappscp": {
-      "name": "Web App Source Code Protection",
-      "participants": 37,
-      "home": "http://www.w3.org/community/webappscp/",
-      "id": "webappscp",
-      "messages": 1,
-      "cluster": null
-    },
-    "webappstore": {
-      "name": "Web Application Store",
-      "participants": 26,
-      "home": "http://www.w3.org/community/webappstore/",
-      "id": "webappstore",
-      "messages": 1,
-      "cluster": null
-    },
-    "webarchivability": {
-      "name": "Web Archivability",
-      "participants": 17,
-      "home": "http://www.w3.org/community/webarchivability/",
-      "id": "webarchivability",
-      "messages": 1,
-      "cluster": null
-    },
-    "webarraymath": {
-      "name": "Web Array Math",
-      "participants": 6,
-      "home": "http://www.w3.org/community/webarraymath/",
-      "id": "webarraymath",
-      "messages": 1,
-      "cluster": null
-    },
-    "audio-dev": {
-      "name": "Web Audio Developers",
-      "participants": 69,
-      "home": "http://www.w3.org/community/audio-dev/",
-      "id": "audio-dev",
-      "messages": 3,
-      "cluster": "media"
-    },
-    "web-bluetooth": {
-      "name": "Web Bluetooth",
-      "participants": 91,
-      "home": "http://www.w3.org/community/web-bluetooth/",
-      "id": "web-bluetooth",
-      "messages": 6,
-      "cluster": null
-    },
-    "web-commerce": {
-      "name": "Web Commerce",
-      "participants": 2,
-      "home": "http://www.w3.org/community/web-commerce/",
-      "id": "web-commerce",
-      "messages": 1,
-      "cluster": null
-    },
-    "web-copyright": {
-      "name": "Web Copyright",
-      "participants": 10,
-      "home": "http://www.w3.org/community/web-copyright/",
-      "id": "web-copyright",
-      "messages": 1,
-      "cluster": null
-    },
-    "webcryptoapi": {
-      "name": "Web Crypto API",
-      "participants": 46,
-      "home": "http://www.w3.org/community/webcryptoapi/",
-      "id": "webcryptoapi",
-      "messages": 1,
-      "cluster": null
-    },
-    "webdevdata": {
-      "name": "Web Dev Data",
-      "participants": 15,
-      "home": "http://www.w3.org/community/webdevdata/",
-      "id": "webdevdata",
-      "messages": 1,
-      "cluster": null
-    },
-    "webed": {
-      "name": "Web Education",
-      "participants": 216,
-      "home": "http://www.w3.org/community/webed/",
-      "id": "webed",
-      "messages": 1,
-      "cluster": null
-    },
-    "webhistory": {
-      "name": "Web History",
-      "participants": 64,
-      "home": "http://www.w3.org/community/webhistory/",
-      "id": "webhistory",
-      "messages": 2,
-      "cluster": null
-    },
-    "whatwg": {
-      "name": "Web Hypertext Application Technology",
-      "participants": 52,
-      "home": "http://www.w3.org/community/whatwg/",
-      "id": "whatwg",
-      "messages": 1,
-      "cluster": "HTML"
-    },
-    "webmidi": {
-      "name": "Web MIDI",
-      "participants": 16,
-      "home": "http://www.w3.org/community/webmidi/",
-      "id": "webmidi",
-      "messages": 1,
-      "cluster": null
-    },
-    "webmediaapi": {
-      "name": "Web Media API",
-      "participants": 42,
-      "home": "http://www.w3.org/community/webmediaapi/",
-      "id": "webmediaapi",
-      "messages": 1,
-      "cluster": "media"
-    },
-    "texttracks": {
-      "name": "Web Media Text Tracks",
-      "participants": 58,
-      "home": "http://www.w3.org/community/texttracks/",
-      "id": "texttracks",
-      "messages": 24,
-      "cluster": "media"
-    },
-    "web-nfc": {
-      "name": "Web NFC",
-      "participants": 36,
-      "home": "http://www.w3.org/community/web-nfc/",
-      "id": "web-nfc",
-      "messages": 52,
-      "cluster": null
-    },
-    "webobservatory": {
-      "name": "Web Observatory",
-      "participants": 88,
-      "home": "http://www.w3.org/community/webobservatory/",
-      "id": "webobservatory",
-      "messages": 1,
-      "cluster": null
-    },
-    "webpayments": {
-      "name": "Web Payments",
-      "participants": 233,
-      "home": "http://www.w3.org/community/webpayments/",
-      "id": "webpayments",
-      "messages": 12,
-      "cluster": "payments"
-    },
-    "payments-commerce-a11y": {
-      "name": "Web Payments and Commerce Accessibility",
-      "participants": 10,
-      "home": "http://www.w3.org/community/payments-commerce-a11y/",
-      "id": "payments-commerce-a11y",
-      "messages": 8,
-      "cluster": "a11y"
-    },
-    "webperfs": {
-      "name": "Web Performance",
-      "participants": 27,
-      "home": "http://www.w3.org/community/webperfs/",
-      "id": "webperfs",
-      "messages": 1,
-      "cluster": null
-    },
-    "webplatzh": {
-      "name": "Web Platform Chinese",
-      "participants": 2,
-      "home": "http://www.w3.org/community/webplatzh/",
-      "id": "webplatzh",
-      "messages": 1,
-      "cluster": null
-    },
-    "wicg": {
-      "name": "Web Platform Incubator",
-      "participants": 268,
-      "home": "http://www.w3.org/community/wicg/",
-      "id": "wicg",
-      "messages": 3,
-      "cluster": null
-    },
-    "webskillprofiles": {
-      "name": "Web Skill Profiles",
-      "participants": 14,
-      "home": "http://www.w3.org/community/webskillprofiles/",
-      "id": "webskillprofiles",
-      "messages": 1,
-      "cluster": null
-    },
-    "autowebtest": {
-      "name": "Web Test Automation",
-      "participants": 9,
-      "home": "http://www.w3.org/community/autowebtest/",
-      "id": "autowebtest",
-      "messages": 1,
-      "cluster": null
-    },
-    "wwca": {
-      "name": "Web We Can Afford",
-      "participants": 37,
-      "home": "http://www.w3.org/community/wwca/",
-      "id": "wwca",
-      "messages": 1,
-      "cluster": null
-    },
-    "sensorweb": {
-      "name": "Web of Sensors",
-      "participants": 48,
-      "home": "http://www.w3.org/community/sensorweb/",
-      "id": "sensorweb",
-      "messages": 1,
-      "cluster": null
-    },
-    "wot": {
-      "name": "Web of Things",
-      "participants": 263,
-      "home": "http://www.w3.org/community/wot/",
-      "id": "wot",
       "messages": 0,
       "cluster": null
     },
-    "web-api-discovery": {
-      "name": "WebAPI Discovery",
+    "hpcweb": {
+      "name": "High-Performance Computing",
+      "participants": 36,
+      "home": "http://www.w3.org/community/hpcweb/",
+      "id": "hpcweb",
+      "messages": 0,
+      "cluster": null
+    },
+    "unhosted": {
+      "name": "Unhosted Web",
       "participants": 24,
-      "home": "http://www.w3.org/community/web-api-discovery/",
-      "id": "web-api-discovery",
+      "home": "http://www.w3.org/community/unhosted/",
+      "id": "unhosted",
+      "messages": 0,
+      "cluster": null
+    },
+    "community-io": {
+      "name": "Community I/O",
+      "participants": 11,
+      "home": "http://www.w3.org/community/community-io/",
+      "id": "community-io",
+      "messages": 0,
+      "cluster": null
+    },
+    "ar": {
+      "name": "Augmented Reality",
+      "participants": 113,
+      "home": "http://www.w3.org/community/ar/",
+      "id": "ar",
       "messages": 1,
       "cluster": null
     },
-    "webapps-ui": {
-      "name": "WebApps UI",
-      "participants": 16,
-      "home": "http://www.w3.org/community/webapps-ui/",
-      "id": "webapps-ui",
-      "messages": 1,
+    "native-web-apps": {
+      "name": "Native Web Apps",
+      "participants": 25,
+      "home": "http://www.w3.org/community/native-web-apps/",
+      "id": "native-web-apps",
+      "messages": 0,
       "cluster": null
     },
-    "webassembly": {
-      "name": "WebAssembly",
-      "participants": 963,
-      "home": "http://www.w3.org/community/webassembly/",
-      "id": "webassembly",
-      "messages": 9,
-      "cluster": null
-    },
-    "webid": {
-      "name": "WebID",
-      "participants": 87,
-      "home": "http://www.w3.org/community/webid/",
-      "id": "webid",
-      "messages": 10,
-      "cluster": null
-    },
-    "webvr": {
-      "name": "WebVR",
-      "participants": 206,
-      "home": "http://www.w3.org/community/webvr/",
-      "id": "webvr",
-      "messages": 33,
-      "cluster": null
-    },
-    "webize": {
-      "name": "Webize Everything",
-      "participants": 15,
-      "home": "http://www.w3.org/community/webize/",
-      "id": "webize",
-      "messages": 1,
-      "cluster": null
-    },
-    "wasarchives": {
-      "name": "World Archives of Sciences",
-      "participants": 2,
-      "home": "http://www.w3.org/community/wasarchives/",
-      "id": "wasarchives",
-      "messages": 1,
-      "cluster": null
-    },
-    "xformsusers": {
-      "name": "XForms Users",
-      "participants": 32,
-      "home": "http://www.w3.org/community/xformsusers/",
-      "id": "xformsusers",
-      "messages": 141,
-      "cluster": "XML"
-    },
-    "xml-er": {
-      "name": "XML Error Recovery",
-      "participants": 16,
-      "home": "http://www.w3.org/community/xml-er/",
-      "id": "xml-er",
-      "messages": 1,
-      "cluster": "XML"
-    },
-    "xmlhypermedia": {
-      "name": "XML Hypermedia",
+    "editing": {
+      "name": "HTML Editing APIs",
       "participants": 18,
-      "home": "http://www.w3.org/community/xmlhypermedia/",
-      "id": "xmlhypermedia",
-      "messages": 1,
-      "cluster": "XML"
+      "home": "http://www.w3.org/community/editing/",
+      "id": "editing",
+      "messages": 0,
+      "cluster": "HTML"
+    },
+    "rww": {
+      "name": "Read Write Web",
+      "participants": 68,
+      "home": "http://www.w3.org/community/rww/",
+      "id": "rww",
+      "messages": 19,
+      "cluster": null
+    },
+    "semnews": {
+      "name": "Semantic News",
+      "participants": 39,
+      "home": "http://www.w3.org/community/semnews/",
+      "id": "semnews",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "webed": {
+      "name": "Web Education",
+      "participants": 119,
+      "home": "http://www.w3.org/community/webed/",
+      "id": "webed",
+      "messages": 0,
+      "cluster": null
     },
     "xmlperf": {
       "name": "XML Performance",
-      "participants": 16,
+      "participants": 8,
       "home": "http://www.w3.org/community/xmlperf/",
       "id": "xmlperf",
-      "messages": 1,
+      "messages": 0,
       "cluster": "XML"
+    },
+    "declarative3d": {
+      "name": "Declarative 3D for the Web Architecture",
+      "participants": 37,
+      "home": "http://www.w3.org/community/declarative3d/",
+      "id": "declarative3d",
+      "messages": 0,
+      "cluster": null
+    },
+    "prtbl-prsnl-prefs": {
+      "name": "Portable Personal Data Preferences",
+      "participants": 15,
+      "home": "http://www.w3.org/community/prtbl-prsnl-prefs/",
+      "id": "prtbl-prsnl-prefs",
+      "messages": 1,
+      "cluster": null
+    },
+    "a11yfeat": {
+      "name": "Accessibility Features",
+      "participants": 29,
+      "home": "http://www.w3.org/community/a11yfeat/",
+      "id": "a11yfeat",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "sparql-ml": {
+      "name": "SPARQL-ML",
+      "participants": 10,
+      "home": "http://www.w3.org/community/sparql-ml/",
+      "id": "sparql-ml",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "olsn": {
+      "name": "Universal Safety Net for Online Learning",
+      "participants": 4,
+      "home": "http://www.w3.org/community/olsn/",
+      "id": "olsn",
+      "messages": 0,
+      "cluster": null
+    },
+    "webeco": {
+      "name": "Web Ecology",
+      "participants": 5,
+      "home": "http://www.w3.org/community/webeco/",
+      "id": "webeco",
+      "messages": 0,
+      "cluster": null
+    },
+    "services": {
+      "name": "Document Services",
+      "participants": 9,
+      "home": "http://www.w3.org/community/services/",
+      "id": "services",
+      "messages": 2,
+      "cluster": null
+    },
+    "webcomponents": {
+      "name": "Web Components",
+      "participants": 70,
+      "home": "http://www.w3.org/community/webcomponents/",
+      "id": "webcomponents",
+      "messages": 0,
+      "cluster": null
+    },
+    "rebase": {
+      "name": "Rebase",
+      "participants": 5,
+      "home": "http://www.w3.org/community/rebase/",
+      "id": "rebase",
+      "messages": 0,
+      "cluster": null
+    },
+    "hfvrp": {
+      "name": "HFVRP",
+      "participants": 12,
+      "home": "http://www.w3.org/community/hfvrp/",
+      "id": "hfvrp",
+      "messages": 0,
+      "cluster": null
+    },
+    "ptbcg": {
+      "name": "Product Tracing & Blockchain",
+      "participants": 10,
+      "home": "http://www.w3.org/community/ptbcg/",
+      "id": "ptbcg",
+      "messages": 0,
+      "cluster": null
+    },
+    "federated-commerce": {
+      "name": "Federated Commerce",
+      "participants": 8,
+      "home": "http://www.w3.org/community/federated-commerce/",
+      "id": "federated-commerce",
+      "messages": 0,
+      "cluster": null
+    },
+    "atomic-data": {
+      "name": "Atomic Data",
+      "participants": 7,
+      "home": "http://www.w3.org/community/atomic-data/",
+      "id": "atomic-data",
+      "messages": 0,
+      "cluster": null
+    },
+    "foss-3d": {
+      "name": "3D FOSS Web Development",
+      "participants": 12,
+      "home": "http://www.w3.org/community/foss-3d/",
+      "id": "foss-3d",
+      "messages": 0,
+      "cluster": null
+    },
+    "font-text": {
+      "name": "Font and Text",
+      "participants": 60,
+      "home": "http://www.w3.org/community/font-text/",
+      "id": "font-text",
+      "messages": 0,
+      "cluster": null
+    },
+    "dascg-dfi168": {
+      "name": "Digital ssset standard",
+      "participants": 15,
+      "home": "http://www.w3.org/community/dascg-dfi168/",
+      "id": "dascg-dfi168",
+      "messages": 0,
+      "cluster": null
+    },
+    "svg-zh": {
+      "name": "svg-zh",
+      "participants": 2,
+      "home": "http://www.w3.org/community/svg-zh/",
+      "id": "svg-zh",
+      "messages": 0,
+      "cluster": "SVG"
+    },
+    "mediadelivery": {
+      "name": "Media Delivery",
+      "participants": 11,
+      "home": "http://www.w3.org/community/mediadelivery/",
+      "id": "mediadelivery",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "web-vs-covid19": {
+      "name": "Web fights covid19",
+      "participants": 11,
+      "home": "http://www.w3.org/community/web-vs-covid19/",
+      "id": "web-vs-covid19",
+      "messages": 0,
+      "cluster": null
+    },
+    "tnsblockchain": {
+      "name": "TNS Blockchain",
+      "participants": 7,
+      "home": "http://www.w3.org/community/tnsblockchain/",
+      "id": "tnsblockchain",
+      "messages": 1,
+      "cluster": null
+    },
+    "lda": {
+      "name": "Linked Data for Accessibility",
+      "participants": 26,
+      "home": "http://www.w3.org/community/lda/",
+      "id": "lda",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "net-maint": {
+      "name": "Network Maintenance Notifications",
+      "participants": 8,
+      "home": "http://www.w3.org/community/net-maint/",
+      "id": "net-maint",
+      "messages": 0,
+      "cluster": null
+    },
+    "covid-19": {
+      "name": "CoVid-19 Remote Meet, Work, Class",
+      "participants": 14,
+      "home": "http://www.w3.org/community/covid-19/",
+      "id": "covid-19",
+      "messages": 0,
+      "cluster": null
+    },
+    "did-kr": {
+      "name": "Decentralized Identity Korean",
+      "participants": 16,
+      "home": "http://www.w3.org/community/did-kr/",
+      "id": "did-kr",
+      "messages": 0,
+      "cluster": null
+    },
+    "synthetic-media": {
+      "name": "Synthetic Media",
+      "participants": 16,
+      "home": "http://www.w3.org/community/synthetic-media/",
+      "id": "synthetic-media",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "css4": {
+      "name": "CSS4",
+      "participants": 30,
+      "home": "http://www.w3.org/community/css4/",
+      "id": "css4",
+      "messages": 0,
+      "cluster": null
+    },
+    "theunitiveweb": {
+      "name": "The Unitive Web",
+      "participants": 6,
+      "home": "http://www.w3.org/community/theunitiveweb/",
+      "id": "theunitiveweb",
+      "messages": 0,
+      "cluster": null
+    },
+    "cssprint": {
+      "name": "CSS Print",
+      "participants": 48,
+      "home": "http://www.w3.org/community/cssprint/",
+      "id": "cssprint",
+      "messages": 0,
+      "cluster": null
+    },
+    "idiw": {
+      "name": "Inclusive Design for the Immersive Web",
+      "participants": 9,
+      "home": "http://www.w3.org/community/idiw/",
+      "id": "idiw",
+      "messages": 0,
+      "cluster": null
+    },
+    "mfxmedia": {
+      "name": "MFX Media",
+      "participants": 11,
+      "home": "http://www.w3.org/community/mfxmedia/",
+      "id": "mfxmedia",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "graphql-rdf": {
+      "name": "Bridging GraphQL and RDF",
+      "participants": 53,
+      "home": "http://www.w3.org/community/graphql-rdf/",
+      "id": "graphql-rdf",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "bdns": {
+      "name": "Building Device Naming Standards",
+      "participants": 15,
+      "home": "http://www.w3.org/community/bdns/",
+      "id": "bdns",
+      "messages": 0,
+      "cluster": null
+    },
+    "businessdata": {
+      "name": "Business Data APIs and Interchange",
+      "participants": 9,
+      "home": "http://www.w3.org/community/businessdata/",
+      "id": "businessdata",
+      "messages": 0,
+      "cluster": null
+    },
+    "abcg": {
+      "name": "Content Blocking",
+      "participants": 16,
+      "home": "http://www.w3.org/community/abcg/",
+      "id": "abcg",
+      "messages": 0,
+      "cluster": null
+    },
+    "bullet-chatting": {
+      "name": "Bullet Chatting",
+      "participants": 17,
+      "home": "http://www.w3.org/community/bullet-chatting/",
+      "id": "bullet-chatting",
+      "messages": 0,
+      "cluster": null
+    },
+    "bitcoin": {
+      "name": "Bitcoin Hypermedia",
+      "participants": 42,
+      "home": "http://www.w3.org/community/bitcoin/",
+      "id": "bitcoin",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "web-thing-protocol": {
+      "name": "Web Thing Protocol",
+      "participants": 11,
+      "home": "http://www.w3.org/community/web-thing-protocol/",
+      "id": "web-thing-protocol",
+      "messages": 0,
+      "cluster": null
+    },
+    "web-cert-api": {
+      "name": "Web Certificate API",
+      "participants": 8,
+      "home": "http://www.w3.org/community/web-cert-api/",
+      "id": "web-cert-api",
+      "messages": 0,
+      "cluster": null
+    },
+    "zot": {
+      "name": "zot protocol",
+      "participants": 18,
+      "home": "http://www.w3.org/community/zot/",
+      "id": "zot",
+      "messages": 0,
+      "cluster": null
+    },
+    "semind": {
+      "name": "Semantic Industries",
+      "participants": 14,
+      "home": "http://www.w3.org/community/semind/",
+      "id": "semind",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "fkg": {
+      "name": "Functional Knowledge Graph",
+      "participants": 9,
+      "home": "http://www.w3.org/community/fkg/",
+      "id": "fkg",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "conv": {
+      "name": "Conversational Interfaces",
+      "participants": 37,
+      "home": "http://www.w3.org/community/conv/",
+      "id": "conv",
+      "messages": 0,
+      "cluster": null
+    },
+    "knowledge-domain": {
+      "name": "Knowledge Domain",
+      "participants": 16,
+      "home": "http://www.w3.org/community/knowledge-domain/",
+      "id": "knowledge-domain",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "talent-signal": {
+      "name": "Talent Marketplace Signaling",
+      "participants": 36,
+      "home": "http://www.w3.org/community/talent-signal/",
+      "id": "talent-signal",
+      "messages": 0,
+      "cluster": null
+    },
+    "iotschema": {
+      "name": "Schema Extensions for IoT",
+      "participants": 19,
+      "home": "http://www.w3.org/community/iotschema/",
+      "id": "iotschema",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "ceddl-webspec": {
+      "name": "ceddl html attribute-based markup and javascript api",
+      "participants": 3,
+      "home": "http://www.w3.org/community/ceddl-webspec/",
+      "id": "ceddl-webspec",
+      "messages": 0,
+      "cluster": "HTML"
+    },
+    "webvmt-cg": {
+      "name": "Web Video Map Tracks (WebVMT)",
+      "participants": 3,
+      "home": "http://www.w3.org/community/webvmt-cg/",
+      "id": "webvmt-cg",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "voter-decision-support": {
+      "name": "Voter Decision Support",
+      "participants": 8,
+      "home": "http://www.w3.org/community/voter-decision-support/",
+      "id": "voter-decision-support",
+      "messages": 0,
+      "cluster": null
+    },
+    "bdcomacg": {
+      "name": "BD Comics Manga",
+      "participants": 55,
+      "home": "http://www.w3.org/community/bdcomacg/",
+      "id": "bdcomacg",
+      "messages": 0,
+      "cluster": null
+    },
+    "itlcg": {
+      "name": "Interlinear Text Layout",
+      "participants": 4,
+      "home": "http://www.w3.org/community/itlcg/",
+      "id": "itlcg",
+      "messages": 0,
+      "cluster": null
+    },
+    "voice-assistant": {
+      "name": "Voice Assistant Standardisation",
+      "participants": 39,
+      "home": "http://www.w3.org/community/voice-assistant/",
+      "id": "voice-assistant",
+      "messages": 0,
+      "cluster": null
+    },
+    "volunteering-ontology": {
+      "name": "Volunteering Ontology",
+      "participants": 8,
+      "home": "http://www.w3.org/community/volunteering-ontology/",
+      "id": "volunteering-ontology",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "exi-next": {
+      "name": "Efficient Extensible Interchange",
+      "participants": 11,
+      "home": "http://www.w3.org/community/exi-next/",
+      "id": "exi-next",
+      "messages": 0,
+      "cluster": null
+    },
+    "exercises-and-activities": {
+      "name": "Educational Exercises and Activities",
+      "participants": 64,
+      "home": "http://www.w3.org/community/exercises-and-activities/",
+      "id": "exercises-and-activities",
+      "messages": 0,
+      "cluster": null
+    },
+    "smartcontracts": {
+      "name": "Smart Contracts",
+      "participants": 15,
+      "home": "http://www.w3.org/community/smartcontracts/",
+      "id": "smartcontracts",
+      "messages": 0,
+      "cluster": null
+    },
+    "audio-description": {
+      "name": "Audio Description",
+      "participants": 25,
+      "home": "http://www.w3.org/community/audio-description/",
+      "id": "audio-description",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "opendatanepal": {
+      "name": "Open Data Nepal",
+      "participants": 10,
+      "home": "http://www.w3.org/community/opendatanepal/",
+      "id": "opendatanepal",
+      "messages": 0,
+      "cluster": "open data"
+    },
+    "veres-one": {
+      "name": "Veres One",
+      "participants": 46,
+      "home": "http://www.w3.org/community/veres-one/",
+      "id": "veres-one",
+      "messages": 0,
+      "cluster": null
+    },
+    "mwma": {
+      "name": "Merging of Web and Mobile APP",
+      "participants": 6,
+      "home": "http://www.w3.org/community/mwma/",
+      "id": "mwma",
+      "messages": 0,
+      "cluster": "mobile"
+    },
+    "eocred-schema": {
+      "name": "Educational and Occupational Credentials in schema.org",
+      "participants": 39,
+      "home": "http://www.w3.org/community/eocred-schema/",
+      "id": "eocred-schema",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "bigdata-tools": {
+      "name": "Vocabularies for big data analysis",
+      "participants": 17,
+      "home": "http://www.w3.org/community/bigdata-tools/",
+      "id": "bigdata-tools",
+      "messages": 0,
+      "cluster": null
+    },
+    "digitalassetmanagement": {
+      "name": "Digital Asset Management Industry Business Ontology",
+      "participants": 54,
+      "home": "http://www.w3.org/community/digitalassetmanagement/",
+      "id": "digitalassetmanagement",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "syndicatedmedia": {
+      "name": "syndicated.media",
+      "participants": 20,
+      "home": "http://www.w3.org/community/syndicatedmedia/",
+      "id": "syndicatedmedia",
+      "messages": 0,
+      "cluster": "media"
+    },
+    "brazilpub": {
+      "name": "Brazilian Publishing",
+      "participants": 40,
+      "home": "http://www.w3.org/community/brazilpub/",
+      "id": "brazilpub",
+      "messages": 0,
+      "cluster": null
+    },
+    "mqmcg": {
+      "name": "Multidimensional Quality Metrics (MQM)",
+      "participants": 17,
+      "home": "http://www.w3.org/community/mqmcg/",
+      "id": "mqmcg",
+      "messages": 1,
+      "cluster": null
+    },
+    "physical-ledger": {
+      "name": "Physical Ledger",
+      "participants": 8,
+      "home": "http://www.w3.org/community/physical-ledger/",
+      "id": "physical-ledger",
+      "messages": 1,
+      "cluster": null
     },
     "xpath-next": {
       "name": "XPath Next",
-      "participants": 7,
+      "participants": 9,
       "home": "http://www.w3.org/community/xpath-next/",
       "id": "xpath-next",
       "messages": 0,
       "cluster": "XML"
     },
-    "xproc-next": {
-      "name": "XProc Next",
+    "pdf-open-data": {
+      "name": "PDF and Open Data",
+      "participants": 18,
+      "home": "http://www.w3.org/community/pdf-open-data/",
+      "id": "pdf-open-data",
+      "messages": 0,
+      "cluster": "open data"
+    },
+    "digital-asset": {
+      "name": "Blockchain Digital Assets",
+      "participants": 41,
+      "home": "http://www.w3.org/community/digital-asset/",
+      "id": "digital-asset",
+      "messages": 0,
+      "cluster": null
+    },
+    "rdf-tests": {
+      "name": "RDF Test Suite Curation",
       "participants": 20,
-      "home": "http://www.w3.org/community/xproc-next/",
-      "id": "xproc-next",
+      "home": "http://www.w3.org/community/rdf-tests/",
+      "id": "rdf-tests",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "accesslearn": {
+      "name": "Accessible Online Learning",
+      "participants": 132,
+      "home": "http://www.w3.org/community/accesslearn/",
+      "id": "accesslearn",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "humanservices": {
+      "name": "Human Services",
+      "participants": 31,
+      "home": "http://www.w3.org/community/humanservices/",
+      "id": "humanservices",
+      "messages": 4,
+      "cluster": null
+    },
+    "etlml": {
+      "name": "ETL Markup Language",
+      "participants": 11,
+      "home": "http://www.w3.org/community/etlml/",
+      "id": "etlml",
+      "messages": 0,
+      "cluster": null
+    },
+    "bpmlod": {
+      "name": "Best Practices for Multilingual Linked Open Data",
+      "participants": 73,
+      "home": "http://www.w3.org/community/bpmlod/",
+      "id": "bpmlod",
+      "messages": 1,
+      "cluster": "semantic Web"
+    },
+    "audio-dev": {
+      "name": "Web Audio Developers",
+      "participants": 60,
+      "home": "http://www.w3.org/community/audio-dev/",
+      "id": "audio-dev",
+      "messages": 1,
+      "cluster": "media"
+    },
+    "informationarchitecture": {
+      "name": "Information Architecture",
+      "participants": 53,
+      "home": "http://www.w3.org/community/informationarchitecture/",
+      "id": "informationarchitecture",
+      "messages": 3,
+      "cluster": null
+    },
+    "geosemweb": {
+      "name": "Geospatial Semantic Web",
+      "participants": 65,
+      "home": "http://www.w3.org/community/geosemweb/",
+      "id": "geosemweb",
+      "messages": 2,
+      "cluster": "semantic Web"
+    },
+    "schemabibex": {
+      "name": "Schema Bib Extend",
+      "participants": 75,
+      "home": "http://www.w3.org/community/schemabibex/",
+      "id": "schemabibex",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "argumentation": {
+      "name": "Argumentation",
+      "participants": 20,
+      "home": "http://www.w3.org/community/argumentation/",
+      "id": "argumentation",
+      "messages": 1,
+      "cluster": null
+    },
+    "bigdata": {
+      "name": "Big Data",
+      "participants": 126,
+      "home": "http://www.w3.org/community/bigdata/",
+      "id": "bigdata",
+      "messages": 1,
+      "cluster": null
+    },
+    "speech-api": {
+      "name": "Speech API",
+      "participants": 64,
+      "home": "http://www.w3.org/community/speech-api/",
+      "id": "speech-api",
+      "messages": 0,
+      "cluster": null
+    },
+    "w3id": {
+      "name": "User Identity on the Web",
+      "participants": 26,
+      "home": "http://www.w3.org/community/w3id/",
+      "id": "w3id",
+      "messages": 0,
+      "cluster": null
+    },
+    "html5spec": {
+      "name": "HTML5 Specifications",
+      "participants": 77,
+      "home": "http://www.w3.org/community/html5spec/",
+      "id": "html5spec",
+      "messages": 0,
+      "cluster": "HTML"
+    },
+    "webid": {
+      "name": "WebID",
+      "participants": 67,
+      "home": "http://www.w3.org/community/webid/",
+      "id": "webid",
+      "messages": 1,
+      "cluster": null
+    },
+    "infographics": {
+      "name": "Accessible Infographics",
+      "participants": 45,
+      "home": "http://www.w3.org/community/infographics/",
+      "id": "infographics",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "webcryptoapi": {
+      "name": "Web Crypto API",
+      "participants": 28,
+      "home": "http://www.w3.org/community/webcryptoapi/",
+      "id": "webcryptoapi",
+      "messages": 0,
+      "cluster": null
+    },
+    "webskillprofiles": {
+      "name": "Web Skill Profiles",
+      "participants": 9,
+      "home": "http://www.w3.org/community/webskillprofiles/",
+      "id": "webskillprofiles",
+      "messages": 0,
+      "cluster": null
+    },
+    "tdmrep": {
+      "name": "Text and Data Mining Reservation Protocol",
+      "participants": 34,
+      "home": "http://www.w3.org/community/tdmrep/",
+      "id": "tdmrep",
+      "messages": 9,
+      "cluster": null
+    },
+    "hns": {
+      "name": "Handshake Protocol",
+      "participants": 10,
+      "home": "http://www.w3.org/community/hns/",
+      "id": "hns",
+      "messages": 0,
+      "cluster": null
+    },
+    "pair-cg": {
+      "name": "Performing Arts Information Representation",
+      "participants": 26,
+      "home": "http://www.w3.org/community/pair-cg/",
+      "id": "pair-cg",
+      "messages": 0,
+      "cluster": null
+    },
+    "xslt-40": {
+      "name": "XSLT Extensions",
+      "participants": 34,
+      "home": "http://www.w3.org/community/xslt-40/",
+      "id": "xslt-40",
+      "messages": 0,
+      "cluster": null
+    },
+    "bibframe2schema": {
+      "name": "Bibframe2Schema.org",
+      "participants": 19,
+      "home": "http://www.w3.org/community/bibframe2schema/",
+      "id": "bibframe2schema",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "appsdesignlab": {
+      "name": "AppsDesignLab",
+      "participants": 13,
+      "home": "http://www.w3.org/community/appsdesignlab/",
+      "id": "appsdesignlab",
+      "messages": 1,
+      "cluster": null
+    },
+    "dapps": {
+      "name": "Blockchain and Decentralized Apps",
+      "participants": 18,
+      "home": "http://www.w3.org/community/dapps/",
+      "id": "dapps",
+      "messages": 0,
+      "cluster": null
+    },
+    "art": {
+      "name": "Art & Culture (Museums) On The Web",
+      "participants": 76,
+      "home": "http://www.w3.org/community/art/",
+      "id": "art",
+      "messages": 0,
+      "cluster": null
+    },
+    "w3cdevhr": {
+      "name": "Croatian Web Developers",
+      "participants": 3,
+      "home": "http://www.w3.org/community/w3cdevhr/",
+      "id": "w3cdevhr",
+      "messages": 0,
+      "cluster": null
+    },
+    "declarative-apps": {
+      "name": "Declarative Linked Data Apps",
+      "participants": 65,
+      "home": "http://www.w3.org/community/declarative-apps/",
+      "id": "declarative-apps",
+      "messages": 1,
+      "cluster": "semantic Web"
+    },
+    "ld4lt": {
+      "name": "Linked Data for Language Technology",
+      "participants": 104,
+      "home": "http://www.w3.org/community/ld4lt/",
+      "id": "ld4lt",
+      "messages": 4,
+      "cluster": "semantic Web"
+    },
+    "webhistory": {
+      "name": "Web History",
+      "participants": 51,
+      "home": "http://www.w3.org/community/webhistory/",
+      "id": "webhistory",
+      "messages": 2,
+      "cluster": null
+    },
+    "openannotation": {
+      "name": "Open Annotation",
+      "participants": 132,
+      "home": "http://www.w3.org/community/openannotation/",
+      "id": "openannotation",
+      "messages": 0,
+      "cluster": null
+    },
+    "cssacc": {
+      "name": "CSS Accessibility",
+      "participants": 48,
+      "home": "http://www.w3.org/community/cssacc/",
+      "id": "cssacc",
+      "messages": 0,
+      "cluster": "a11y"
+    },
+    "games": {
+      "name": "Games",
+      "participants": 88,
+      "home": "http://www.w3.org/community/games/",
+      "id": "games",
+      "messages": 3,
+      "cluster": null
+    },
+    "web-native": {
+      "name": "Web-Native",
+      "participants": 9,
+      "home": "http://www.w3.org/community/web-native/",
+      "id": "web-native",
+      "messages": 0,
+      "cluster": null
+    },
+    "dic": {
+      "name": "Digital Identity",
+      "participants": 35,
+      "home": "http://www.w3.org/community/dic/",
+      "id": "dic",
+      "messages": 0,
+      "cluster": null
+    },
+    "distributed-compute": {
+      "name": "Distributed Compute Protocol",
+      "participants": 11,
+      "home": "http://www.w3.org/community/distributed-compute/",
+      "id": "distributed-compute",
+      "messages": 0,
+      "cluster": null
+    },
+    "blockchain": {
+      "name": "Blockchain",
+      "participants": 229,
+      "home": "http://www.w3.org/community/blockchain/",
+      "id": "blockchain",
+      "messages": 3,
+      "cluster": null
+    },
+    "wot": {
+      "name": "Web of Things",
+      "participants": 240,
+      "home": "http://www.w3.org/community/wot/",
+      "id": "wot",
+      "messages": 0,
+      "cluster": null
+    },
+    "blockchainplatform": {
+      "name": "Blockchain Wallet & Exchange Platform",
+      "participants": 7,
+      "home": "http://www.w3.org/community/blockchainplatform/",
+      "id": "blockchainplatform",
+      "messages": 0,
+      "cluster": null
+    },
+    "immersive-captions": {
+      "name": "Immersive Captions",
+      "participants": 43,
+      "home": "http://www.w3.org/community/immersive-captions/",
+      "id": "immersive-captions",
+      "messages": 2,
+      "cluster": null
+    },
+    "sparql-12": {
+      "name": "SPARQL 1.2",
+      "participants": 109,
+      "home": "http://www.w3.org/community/sparql-12/",
+      "id": "sparql-12",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "touchevents": {
+      "name": "Touch Events",
+      "participants": 10,
+      "home": "http://www.w3.org/community/touchevents/",
+      "id": "touchevents",
       "messages": 5,
       "cluster": null
     },
-    "webzakim": {
-      "name": "Zakim on Web",
-      "participants": 8,
-      "home": "http://www.w3.org/community/webzakim/",
-      "id": "webzakim",
+    "hydra": {
+      "name": "Hydra",
+      "participants": 226,
+      "home": "http://www.w3.org/community/hydra/",
+      "id": "hydra",
+      "messages": 3,
+      "cluster": "semantic Web"
+    },
+    "devrel": {
+      "name": "W3C Developer Relations",
+      "participants": 37,
+      "home": "http://www.w3.org/community/devrel/",
+      "id": "devrel",
+      "messages": 0,
+      "cluster": "W3C"
+    },
+    "merchant": {
+      "name": "Merchant",
+      "participants": 39,
+      "home": "http://www.w3.org/community/merchant/",
+      "id": "merchant",
+      "messages": 5,
+      "cluster": null
+    },
+    "open-ui": {
+      "name": "Open UI",
+      "participants": 74,
+      "home": "http://www.w3.org/community/open-ui/",
+      "id": "open-ui",
       "messages": 1,
       "cluster": null
     },
-    "exp-protocols": {
-      "name": "experimental protocols",
-      "participants": 7,
-      "home": "http://www.w3.org/community/exp-protocols/",
-      "id": "exp-protocols",
-      "messages": 1,
+    "sustyweb": {
+      "name": "Sustainable Web Design",
+      "participants": 49,
+      "home": "http://www.w3.org/community/sustyweb/",
+      "id": "sustyweb",
+      "messages": 2,
       "cluster": null
     },
-    "syndicatedmedia": {
-      "name": "syndicated.media",
-      "participants": 19,
-      "home": "http://www.w3.org/community/syndicatedmedia/",
-      "id": "syndicatedmedia",
-      "messages": 1,
+    "council": {
+      "name": "Community Council",
+      "participants": 26,
+      "home": "http://www.w3.org/community/council/",
+      "id": "council",
+      "messages": 7,
+      "cluster": null
+    },
+    "wot-jp": {
+      "name": "Web of Things Japanese",
+      "participants": 45,
+      "home": "http://www.w3.org/community/wot-jp/",
+      "id": "wot-jp",
+      "messages": 4,
+      "cluster": null
+    },
+    "chem-web-pub": {
+      "name": "Chemistry for the Web and Publishing",
+      "participants": 28,
+      "home": "http://www.w3.org/community/chem-web-pub/",
+      "id": "chem-web-pub",
+      "messages": 14,
+      "cluster": null
+    },
+    "audio-comgp": {
+      "name": "Audio",
+      "participants": 57,
+      "home": "http://www.w3.org/community/audio-comgp/",
+      "id": "audio-comgp",
+      "messages": 7,
       "cluster": "media"
+    },
+    "sync-media-pub": {
+      "name": "Synchronized Multimedia for Publications",
+      "participants": 24,
+      "home": "http://www.w3.org/community/sync-media-pub/",
+      "id": "sync-media-pub",
+      "messages": 4,
+      "cluster": "media"
+    },
+    "owled": {
+      "name": "OWL: Experiences and Directions",
+      "participants": 37,
+      "home": "http://www.w3.org/community/owled/",
+      "id": "owled",
+      "messages": 9,
+      "cluster": "semantic Web"
+    },
+    "multicast": {
+      "name": "Multicast",
+      "participants": 21,
+      "home": "http://www.w3.org/community/multicast/",
+      "id": "multicast",
+      "messages": 11,
+      "cluster": null
+    },
+    "design-tokens": {
+      "name": "Design Tokens",
+      "participants": 223,
+      "home": "http://www.w3.org/community/design-tokens/",
+      "id": "design-tokens",
+      "messages": 0,
+      "cluster": null
+    },
+    "webextensions": {
+      "name": "WebExtensions",
+      "participants": 98,
+      "home": "http://www.w3.org/community/webextensions/",
+      "id": "webextensions",
+      "messages": 5,
+      "cluster": null
+    },
+    "credibility": {
+      "name": "Credible Web",
+      "participants": 100,
+      "home": "http://www.w3.org/community/credibility/",
+      "id": "credibility",
+      "messages": 12,
+      "cluster": null
+    },
+    "voiceinteraction": {
+      "name": "Voice Interaction",
+      "participants": 39,
+      "home": "http://www.w3.org/community/voiceinteraction/",
+      "id": "voiceinteraction",
+      "messages": 33,
+      "cluster": null
+    },
+    "shacl": {
+      "name": "SHACL",
+      "participants": 49,
+      "home": "http://www.w3.org/community/shacl/",
+      "id": "shacl",
+      "messages": 10,
+      "cluster": null
+    },
+    "odrl": {
+      "name": "ODRL",
+      "participants": 60,
+      "home": "http://www.w3.org/community/odrl/",
+      "id": "odrl",
+      "messages": 11,
+      "cluster": null
+    },
+    "consent": {
+      "name": "Consent",
+      "participants": 53,
+      "home": "http://www.w3.org/community/consent/",
+      "id": "consent",
+      "messages": 5,
+      "cluster": null
+    },
+    "bioschemas": {
+      "name": "Bioschemas for lifesciences",
+      "participants": 75,
+      "home": "http://www.w3.org/community/bioschemas/",
+      "id": "bioschemas",
+      "messages": 18,
+      "cluster": "semantic Web"
+    },
+    "federated-learning": {
+      "name": "Federated Learning",
+      "participants": 14,
+      "home": "http://www.w3.org/community/federated-learning/",
+      "id": "federated-learning",
+      "messages": 0,
+      "cluster": null
+    },
+    "aikr": {
+      "name": "AI KR (Artificial Intelligence Knowledge Representation)",
+      "participants": 70,
+      "home": "http://www.w3.org/community/aikr/",
+      "id": "aikr",
+      "messages": 21,
+      "cluster": "semantic Web"
+    },
+    "cogai": {
+      "name": "Cognitive AI",
+      "participants": 33,
+      "home": "http://www.w3.org/community/cogai/",
+      "id": "cogai",
+      "messages": 15,
+      "cluster": null
+    },
+    "miniapps": {
+      "name": "MiniApps Ecosystem",
+      "participants": 104,
+      "home": "http://www.w3.org/community/miniapps/",
+      "id": "miniapps",
+      "messages": 5,
+      "cluster": null
+    },
+    "reconciliation": {
+      "name": "Entity Reconciliation",
+      "participants": 42,
+      "home": "http://www.w3.org/community/reconciliation/",
+      "id": "reconciliation",
+      "messages": 11,
+      "cluster": null
+    },
+    "colorweb": {
+      "name": "Color on the Web",
+      "participants": 67,
+      "home": "http://www.w3.org/community/colorweb/",
+      "id": "colorweb",
+      "messages": 31,
+      "cluster": null
+    },
+    "a11y-discov-vocab": {
+      "name": "Accessibility Discoverability Vocabulary for Schema.org",
+      "participants": 8,
+      "home": "http://www.w3.org/community/a11y-discov-vocab/",
+      "id": "a11y-discov-vocab",
+      "messages": 6,
+      "cluster": "semantic Web"
+    },
+    "md-odrl-profile": {
+      "name": "Rights Automation for Market Data",
+      "participants": 40,
+      "home": "http://www.w3.org/community/md-odrl-profile/",
+      "id": "md-odrl-profile",
+      "messages": 19,
+      "cluster": null
+    },
+    "dpvcg": {
+      "name": "Data Privacy Vocabularies and Controls",
+      "participants": 76,
+      "home": "http://www.w3.org/community/dpvcg/",
+      "id": "dpvcg",
+      "messages": 29,
+      "cluster": null
+    },
+    "act-r": {
+      "name": "ACT Rules",
+      "participants": 90,
+      "home": "http://www.w3.org/community/act-r/",
+      "id": "act-r",
+      "messages": 23,
+      "cluster": null
+    },
+    "xformsusers": {
+      "name": "XForms Users",
+      "participants": 26,
+      "home": "http://www.w3.org/community/xformsusers/",
+      "id": "xformsusers",
+      "messages": 26,
+      "cluster": "XML"
+    },
+    "ontolex": {
+      "name": "Ontology-Lexica",
+      "participants": 132,
+      "home": "http://www.w3.org/community/ontolex/",
+      "id": "ontolex",
+      "messages": 24,
+      "cluster": "semantic Web"
+    },
+    "opentrack": {
+      "name": "OpenTrack",
+      "participants": 38,
+      "home": "http://www.w3.org/community/opentrack/",
+      "id": "opentrack",
+      "messages": 21,
+      "cluster": null
+    },
+    "publishingcg": {
+      "name": "Publishing",
+      "participants": 86,
+      "home": "http://www.w3.org/community/publishingcg/",
+      "id": "publishingcg",
+      "messages": 38,
+      "cluster": null
+    },
+    "pwe": {
+      "name": "Positive Work Environment",
+      "participants": 50,
+      "home": "http://www.w3.org/community/pwe/",
+      "id": "pwe",
+      "messages": 28,
+      "cluster": null
+    },
+    "accessibility4children": {
+      "name": "Accessibility for Children",
+      "participants": 25,
+      "home": "http://www.w3.org/community/accessibility4children/",
+      "id": "accessibility4children",
+      "messages": 15,
+      "cluster": "a11y"
+    },
+    "fed-id": {
+      "name": "Federated Identity",
+      "participants": 139,
+      "home": "http://www.w3.org/community/fed-id/",
+      "id": "fed-id",
+      "messages": 24,
+      "cluster": null
+    },
+    "privacycg": {
+      "name": "Privacy",
+      "participants": 424,
+      "home": "http://www.w3.org/community/privacycg/",
+      "id": "privacycg",
+      "messages": 9,
+      "cluster": null
+    },
+    "coga-community": {
+      "name": "Cognitive Accessibility",
+      "participants": 60,
+      "home": "http://www.w3.org/community/coga-community/",
+      "id": "coga-community",
+      "messages": 45,
+      "cluster": "a11y"
+    },
+    "antifraud": {
+      "name": "Anti-Fraud",
+      "participants": 80,
+      "home": "http://www.w3.org/community/antifraud/",
+      "id": "antifraud",
+      "messages": 5,
+      "cluster": null
+    },
+    "n3-dev": {
+      "name": "Notation 3 (N3)",
+      "participants": 33,
+      "home": "http://www.w3.org/community/n3-dev/",
+      "id": "n3-dev",
+      "messages": 55,
+      "cluster": null
+    },
+    "speced-cg": {
+      "name": "Spec Editors",
+      "participants": 59,
+      "home": "http://www.w3.org/community/speced-cg/",
+      "id": "speced-cg",
+      "messages": 0,
+      "cluster": null
+    },
+    "web-nfc": {
+      "name": "Web NFC",
+      "participants": 43,
+      "home": "http://www.w3.org/community/web-nfc/",
+      "id": "web-nfc",
+      "messages": 68,
+      "cluster": null
+    },
+    "metaverse-interop": {
+      "name": "Metaverse Interoperability",
+      "participants": 69,
+      "home": "http://www.w3.org/community/metaverse-interop/",
+      "id": "metaverse-interop",
+      "messages": 3,
+      "cluster": null
+    },
+    "webassembly": {
+      "name": "WebAssembly",
+      "participants": 1363,
+      "home": "http://www.w3.org/community/webassembly/",
+      "id": "webassembly",
+      "messages": 0,
+      "cluster": null
+    },
+    "silver": {
+      "name": "Silver",
+      "participants": 218,
+      "home": "http://www.w3.org/community/silver/",
+      "id": "silver",
+      "messages": 187,
+      "cluster": null
+    },
+    "rdf-dev": {
+      "name": "RDF-DEV",
+      "participants": 76,
+      "home": "http://www.w3.org/community/rdf-dev/",
+      "id": "rdf-dev",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "ixml": {
+      "name": "Invisible Markup",
+      "participants": 19,
+      "home": "http://www.w3.org/community/ixml/",
+      "id": "ixml",
+      "messages": 238,
+      "cluster": null
+    },
+    "webscreens": {
+      "name": "Second Screen",
+      "participants": 66,
+      "home": "http://www.w3.org/community/webscreens/",
+      "id": "webscreens",
+      "messages": 6,
+      "cluster": null
+    },
+    "quickfix": {
+      "name": "Quick-fix support for XML",
+      "participants": 24,
+      "home": "http://www.w3.org/community/quickfix/",
+      "id": "quickfix",
+      "messages": 0,
+      "cluster": "XML"
+    },
+    "rdfjs": {
+      "name": "RDF JavaScript Libraries",
+      "participants": 76,
+      "home": "http://www.w3.org/community/rdfjs/",
+      "id": "rdfjs",
+      "messages": 8,
+      "cluster": "semantic Web"
+    },
+    "rsp": {
+      "name": "RDF Stream Processing",
+      "participants": 102,
+      "home": "http://www.w3.org/community/rsp/",
+      "id": "rsp",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "sdshare": {
+      "name": "SDshare",
+      "participants": 12,
+      "home": "http://www.w3.org/community/sdshare/",
+      "id": "sdshare",
+      "messages": 0,
+      "cluster": null
+    },
+    "rosc": {
+      "name": "Research Object for Scholarly Communication",
+      "participants": 70,
+      "home": "http://www.w3.org/community/rosc/",
+      "id": "rosc",
+      "messages": 0,
+      "cluster": null
+    },
+    "perma-id": {
+      "name": "Permanent Identifier",
+      "participants": 39,
+      "home": "http://www.w3.org/community/perma-id/",
+      "id": "perma-id",
+      "messages": 0,
+      "cluster": null
+    },
+    "webdevdata": {
+      "name": "Web Dev Data",
+      "participants": 10,
+      "home": "http://www.w3.org/community/webdevdata/",
+      "id": "webdevdata",
+      "messages": 0,
+      "cluster": null
+    },
+    "maps4html": {
+      "name": "Maps For HTML",
+      "participants": 52,
+      "home": "http://www.w3.org/community/maps4html/",
+      "id": "maps4html",
+      "messages": 4,
+      "cluster": "HTML"
+    },
+    "patcg": {
+      "name": "Private Advertising Technology",
+      "participants": 155,
+      "home": "http://www.w3.org/community/patcg/",
+      "id": "patcg",
+      "messages": 21,
+      "cluster": null
+    },
+    "ppl": {
+      "name": "Print and Page Layout",
+      "participants": 46,
+      "home": "http://www.w3.org/community/ppl/",
+      "id": "ppl",
+      "messages": 0,
+      "cluster": null
+    },
+    "respimg": {
+      "name": "Responsive Issues",
+      "participants": 302,
+      "home": "http://www.w3.org/community/respimg/",
+      "id": "respimg",
+      "messages": 0,
+      "cluster": null
+    },
+    "interop-remedies": {
+      "name": "Interoperability Remedies",
+      "participants": 26,
+      "home": "http://www.w3.org/community/interop-remedies/",
+      "id": "interop-remedies",
+      "messages": 52,
+      "cluster": null
+    },
+    "w3process": {
+      "name": "W3C Process",
+      "participants": 46,
+      "home": "http://www.w3.org/community/w3process/",
+      "id": "w3process",
+      "messages": 8,
+      "cluster": "W3C"
+    },
+    "texttracks": {
+      "name": "Web Media Text Tracks",
+      "participants": 49,
+      "home": "http://www.w3.org/community/texttracks/",
+      "id": "texttracks",
+      "messages": 5,
+      "cluster": "media"
+    },
+    "json-ld": {
+      "name": "JSON for Linking Data",
+      "participants": 110,
+      "home": "http://www.w3.org/community/json-ld/",
+      "id": "json-ld",
+      "messages": 2,
+      "cluster": null
+    },
+    "ortc": {
+      "name": "ORTC (Object Real-time Communications)",
+      "participants": 105,
+      "home": "http://www.w3.org/community/ortc/",
+      "id": "ortc",
+      "messages": 0,
+      "cluster": null
+    },
+    "webtiming": {
+      "name": "Multi-device Timing",
+      "participants": 26,
+      "home": "http://www.w3.org/community/webtiming/",
+      "id": "webtiming",
+      "messages": 0,
+      "cluster": null
+    },
+    "lbd": {
+      "name": "Linked Building Data",
+      "participants": 176,
+      "home": "http://www.w3.org/community/lbd/",
+      "id": "lbd",
+      "messages": 3,
+      "cluster": "semantic Web"
+    },
+    "web-api-discovery": {
+      "name": "WebAPI Discovery",
+      "participants": 28,
+      "home": "http://www.w3.org/community/web-api-discovery/",
+      "id": "web-api-discovery",
+      "messages": 0,
+      "cluster": null
+    },
+    "svgcg": {
+      "name": "SVG",
+      "participants": 40,
+      "home": "http://www.w3.org/community/svgcg/",
+      "id": "svgcg",
+      "messages": 0,
+      "cluster": "SVG"
+    },
+    "mathml4": {
+      "name": "MathML Refresh",
+      "participants": 47,
+      "home": "http://www.w3.org/community/mathml4/",
+      "id": "mathml4",
+      "messages": 0,
+      "cluster": null
+    },
+    "kg-construct": {
+      "name": "Knowledge Graph Construction",
+      "participants": 133,
+      "home": "http://www.w3.org/community/kg-construct/",
+      "id": "kg-construct",
+      "messages": 2,
+      "cluster": "semantic Web"
+    },
+    "aria-at": {
+      "name": "ARIA and Assistive Technologies",
+      "participants": 78,
+      "home": "http://www.w3.org/community/aria-at/",
+      "id": "aria-at",
+      "messages": 37,
+      "cluster": null
+    },
+    "webmachinelearning": {
+      "name": "Web Machine Learning",
+      "participants": 120,
+      "home": "http://www.w3.org/community/webmachinelearning/",
+      "id": "webmachinelearning",
+      "messages": 1,
+      "cluster": null
+    },
+    "solid": {
+      "name": "Solid",
+      "participants": 222,
+      "home": "http://www.w3.org/community/solid/",
+      "id": "solid",
+      "messages": 3,
+      "cluster": null
+    },
+    "xproc-next": {
+      "name": "XProc Next",
+      "participants": 22,
+      "home": "http://www.w3.org/community/xproc-next/",
+      "id": "xproc-next",
+      "messages": 0,
+      "cluster": null
+    },
+    "gpu": {
+      "name": "GPU for the Web",
+      "participants": 249,
+      "home": "http://www.w3.org/community/gpu/",
+      "id": "gpu",
+      "messages": 28,
+      "cluster": null
+    },
+    "epub3": {
+      "name": "EPUB 3",
+      "participants": 267,
+      "home": "http://www.w3.org/community/epub3/",
+      "id": "epub3",
+      "messages": 36,
+      "cluster": null
+    },
+    "webauthn-adoption": {
+      "name": "WebAuthn Adoption",
+      "participants": 49,
+      "home": "http://www.w3.org/community/webauthn-adoption/",
+      "id": "webauthn-adoption",
+      "messages": 11,
+      "cluster": null
+    },
+    "shex": {
+      "name": "Shape Expressions",
+      "participants": 46,
+      "home": "http://www.w3.org/community/shex/",
+      "id": "shex",
+      "messages": 0,
+      "cluster": null
+    },
+    "web-bluetooth": {
+      "name": "Web Bluetooth",
+      "participants": 102,
+      "home": "http://www.w3.org/community/web-bluetooth/",
+      "id": "web-bluetooth",
+      "messages": 0,
+      "cluster": null
+    },
+    "socialcg": {
+      "name": "Social Web Incubator",
+      "participants": 113,
+      "home": "http://www.w3.org/community/socialcg/",
+      "id": "socialcg",
+      "messages": null,
+      "cluster": null
+    },
+    "hclscg": {
+      "name": "Semantic Web in Health Care and Life Sciences",
+      "participants": 50,
+      "home": "http://www.w3.org/community/hclscg/",
+      "id": "hclscg",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "openactive": {
+      "name": "OpenActive",
+      "participants": 106,
+      "home": "http://www.w3.org/community/openactive/",
+      "id": "openactive",
+      "messages": 33,
+      "cluster": null
+    },
+    "immersive-web": {
+      "name": "Immersive Web",
+      "participants": 293,
+      "home": "http://www.w3.org/community/immersive-web/",
+      "id": "immersive-web",
+      "messages": 18,
+      "cluster": null
+    },
+    "universalimages": {
+      "name": "Universal Images",
+      "participants": 11,
+      "home": "http://www.w3.org/community/universalimages/",
+      "id": "universalimages",
+      "messages": 0,
+      "cluster": null
+    },
+    "ml-schema": {
+      "name": "Machine Learning Schema",
+      "participants": 59,
+      "home": "http://www.w3.org/community/ml-schema/",
+      "id": "ml-schema",
+      "messages": 0,
+      "cluster": "semantic Web"
+    },
+    "music-notation": {
+      "name": "Music Notation",
+      "participants": 324,
+      "home": "http://www.w3.org/community/music-notation/",
+      "id": "music-notation",
+      "messages": 15,
+      "cluster": null
+    },
+    "wicg": {
+      "name": "Web Platform Incubator",
+      "participants": 805,
+      "home": "http://www.w3.org/community/wicg/",
+      "id": "wicg",
+      "messages": 0,
+      "cluster": null
+    },
+    "schemaorg": {
+      "name": "Schema.org",
+      "participants": 451,
+      "home": "http://www.w3.org/community/schemaorg/",
+      "id": "schemaorg",
+      "messages": 32,
+      "cluster": "semantic Web"
+    },
+    "credentials": {
+      "name": "Credentials",
+      "participants": 450,
+      "home": "http://www.w3.org/community/credentials/",
+      "id": "credentials",
+      "messages": 401,
+      "cluster": null
+    },
+    "interledger": {
+      "name": "Interledger Payments",
+      "participants": 400,
+      "home": "http://www.w3.org/community/interledger/",
+      "id": "interledger",
+      "messages": 0,
+      "cluster": "payments"
     }
   }
 }
